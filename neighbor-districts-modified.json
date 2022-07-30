@@ -1,0 +1,617 @@
+{"District_Key":"AP_Anantapur","Neighbors":"y.s.r. kadapa, ballari, tumakuru, kurnool, chikkaballapura, chittoor, chitradurga"}
+{"District_Key":"AP_Chittoor","Neighbors":"y.s.r. kadapa, krishnagiri, kolar, s.p.s. nellore, vellore, chikkaballapura, anantapur, thiruvallur"}
+{"District_Key":"AP_East Godavari","Neighbors":"west godavari, malkangiri, bhadradri kothagudem, visakhapatnam, sukma"}
+{"District_Key":"AP_Guntur","Neighbors":"prakasam, krishna, suryapet, nalgonda, nagarkurnool"}
+{"District_Key":"AP_Krishna","Neighbors":"suryapet, khammam, west godavari, guntur"}
+{"District_Key":"AP_Kurnool","Neighbors":"y.s.r. kadapa, wanaparthy, raichur, ballari, prakasam, jogulamba gadwal, nagarkurnool, anantapur"}
+{"District_Key":"AP_Prakasam","Neighbors":"y.s.r. kadapa, s.p.s. nellore, guntur, kurnool, nagarkurnool"}
+{"District_Key":"AP_S.P.S. Nellore","Neighbors":"prakasam, y.s.r. kadapa, thiruvallur, chittoor"}
+{"District_Key":"AP_Srikakulam","Neighbors":"ganjam, gajapati, rayagada, vizianagaram"}
+{"District_Key":"AP_Visakhapatnam","Neighbors":"koraput, malkangiri, east godavari, vizianagaram"}
+{"District_Key":"AP_Vizianagaram","Neighbors":"koraput, rayagada, visakhapatnam, srikakulam"}
+{"District_Key":"AP_West Godavari","Neighbors":"bhadradri kothagudem, krishna, khammam, east godavari"}
+{"District_Key":"AP_Y.S.R. Kadapa","Neighbors":"s.p.s. nellore, prakasam, chittoor, kurnool, anantapur"}
+{"District_Key":"AR_Anjaw","Neighbors":"lohit, changlang"}
+{"District_Key":"AR_Changlang","Neighbors":"tirap, anjaw, namsai, lohit, tinsukia"}
+{"District_Key":"AR_East Kameng","Neighbors":"tawang, papum pare, kurung kumey, pakke kessang, west kameng"}
+{"District_Key":"AR_East Siang","Neighbors":"lower siang, dhemaji, lower dibang valley, upper siang, siang, tinsukia"}
+{"District_Key":"AR_Kamle","Neighbors":"lower siang, kra daadi, dhemaji, papum pare, lower subansiri, lakhimpur, upper subansiri"}
+{"District_Key":"AR_Kra Daadi","Neighbors":"kamle, papum pare, kurung kumey, lower subansiri, upper subansiri"}
+{"District_Key":"AR_Kurung Kumey","Neighbors":"kra daadi, upper subansiri, papum pare, east kameng"}
+{"District_Key":"AR_Lepa Rada","Neighbors":"upper subansiri, lower siang, west siang"}
+{"District_Key":"AR_Lohit","Neighbors":"anjaw, namsai, lower dibang valley, changlang, tinsukia"}
+{"District_Key":"AR_Longding","Neighbors":"charaideo, mon, dibrugarh, tirap"}
+{"District_Key":"AR_Lower Dibang Valley","Neighbors":"dhemaji, upper dibang valley, upper siang, lohit, east siang, tinsukia"}
+{"District_Key":"AR_Lower Siang","Neighbors":"kamle, west siang, dhemaji, lepa rada, siang, upper subansiri, east siang"}
+{"District_Key":"AR_Lower Subansiri","Neighbors":"papum pare, kra daadi, kamle"}
+{"District_Key":"AR_Namsai","Neighbors":"lohit, changlang, tinsukia"}
+{"District_Key":"AR_Pakke Kessang","Neighbors":"east kameng, papum pare, west kameng, biswanath, sonitpur"}
+{"District_Key":"AR_Papum Pare","Neighbors":"kamle, east kameng, kra daadi, kurung kumey, lower subansiri, lakhimpur, pakke kessang, biswanath"}
+{"District_Key":"AR_Shi Yomi","Neighbors":"upper subansiri, upper siang, siang, west siang"}
+{"District_Key":"AR_Siang","Neighbors":"lower siang, upper siang, shi yomi, west siang, east siang"}
+{"District_Key":"AR_Tawang","Neighbors":"west kameng, east kameng"}
+{"District_Key":"AR_Tirap","Neighbors":"longding, dibrugarh, changlang, tinsukia"}
+{"District_Key":"AR_Upper Dibang Valley","Neighbors":"upper siang, lower dibang valley"}
+{"District_Key":"AR_Upper Siang","Neighbors":"upper dibang valley, lower dibang valley, shi yomi, siang, east siang"}
+{"District_Key":"AR_Upper Subansiri","Neighbors":"lower siang, kamle, kra daadi, kurung kumey, lepa rada, shi yomi, west siang"}
+{"District_Key":"AR_West Kameng","Neighbors":"tawang, east kameng, pakke kessang, udalguri, sonitpur"}
+{"District_Key":"AR_West Siang","Neighbors":"lower siang, lepa rada, shi yomi, siang, upper subansiri"}
+{"District_Key":"AS_Dibrugarh","Neighbors":"longding, tirap, dhemaji, majuli, lakhimpur, charaideo, sivasagar, tinsukia"}
+{"District_Key":"AS_Udalguri","Neighbors":"sonitpur, west kameng, baksa, darrang"}
+{"District_Key":"BR_Araria","Neighbors":"purnia, kishanganj, madhepura, supaul"}
+{"District_Key":"BR_Arwal","Neighbors":"aurangabad, bhojpur, gaya, patna, jehanabad, rohtas"}
+{"District_Key":"BR_Aurangabad","Neighbors":"arwal, gaya, palamu, rohtas, jalna, nashik, jalgaon, ahmednagar, beed"}
+{"District_Key":"BR_Banka","Neighbors":"munger, deoghar, dumka, bhagalpur, jamui, godda"}
+{"District_Key":"BR_Begusarai","Neighbors":"munger, khagaria, samastipur, lakhisarai, patna"}
+{"District_Key":"BR_Bhagalpur","Neighbors":"godda, munger, khagaria, banka, katihar, madhepura, purnia, sahibganj"}
+{"District_Key":"BR_Bhojpur","Neighbors":"arwal, buxar, saran, ballia, patna, rohtas"}
+{"District_Key":"BR_Buxar","Neighbors":"ghazipur, bhojpur, kaimur, ballia, rohtas"}
+{"District_Key":"BR_Darbhanga","Neighbors":"muzaffarpur, samastipur, madhubani, saharsa, sitamarhi"}
+{"District_Key":"BR_East Champaran","Neighbors":"west champaran, sheohar, muzaffarpur, gopalganj, sitamarhi"}
+{"District_Key":"BR_Gaya","Neighbors":"arwal, nalanda, nawada, palamu, aurangabad, koderma, chatra, jehanabad, hazaribagh"}
+{"District_Key":"BR_Gopalganj","Neighbors":"west champaran, deoria, kushinagar, muzaffarpur, siwan, east champaran, saran"}
+{"District_Key":"BR_Jamui","Neighbors":"sheikhpura, munger, deoghar, nawada, giridih, banka, lakhisarai"}
+{"District_Key":"BR_Jehanabad","Neighbors":"nalanda, gaya, patna, arwal"}
+{"District_Key":"BR_Kaimur","Neighbors":"ghazipur, sonbhadra, buxar, chandauli, rohtas"}
+{"District_Key":"BR_Katihar","Neighbors":"malda, uttar dinajpur, bhagalpur, purnia, sahibganj"}
+{"District_Key":"BR_Khagaria","Neighbors":"munger, begusarai, samastipur, saharsa, madhepura, bhagalpur"}
+{"District_Key":"BR_Kishanganj","Neighbors":"darjeeling, purnia, uttar dinajpur, araria"}
+{"District_Key":"BR_Lakhisarai","Neighbors":"sheikhpura, munger, nalanda, begusarai, patna, jamui"}
+{"District_Key":"BR_Madhepura","Neighbors":"khagaria, supaul, saharsa, bhagalpur, purnia, araria"}
+{"District_Key":"BR_Madhubani","Neighbors":"saharsa, sitamarhi, supaul, darbhanga"}
+{"District_Key":"BR_Munger","Neighbors":"khagaria, begusarai, banka, lakhisarai, bhagalpur, jamui"}
+{"District_Key":"BR_Muzaffarpur","Neighbors":"sheohar, gopalganj, darbhanga, vaishali, samastipur, east champaran, sitamarhi, saran"}
+{"District_Key":"BR_Nalanda","Neighbors":"sheikhpura, nawada, lakhisarai, gaya, patna, jehanabad"}
+{"District_Key":"BR_Nawada","Neighbors":"sheikhpura, giridih, nalanda, koderma, gaya, jamui"}
+{"District_Key":"BR_Patna","Neighbors":"arwal, nalanda, begusarai, vaishali, bhojpur, samastipur, lakhisarai, jehanabad, saran"}
+{"District_Key":"BR_Purnia","Neighbors":"uttar dinajpur, katihar, madhepura, bhagalpur, kishanganj, araria"}
+{"District_Key":"BR_Rohtas","Neighbors":"arwal, sonbhadra, buxar, palamu, aurangabad, bhojpur, garhwa, kaimur"}
+{"District_Key":"BR_Saharsa","Neighbors":"khagaria, supaul, darbhanga, samastipur, madhubani, madhepura"}
+{"District_Key":"BR_Samastipur","Neighbors":"muzaffarpur, khagaria, darbhanga, vaishali, begusarai, saharsa, patna"}
+{"District_Key":"BR_Saran","Neighbors":"muzaffarpur, gopalganj, vaishali, bhojpur, siwan, ballia, patna"}
+{"District_Key":"BR_Sheikhpura","Neighbors":"jamui, lakhisarai, nalanda, nawada"}
+{"District_Key":"BR_Sheohar","Neighbors":"east champaran, sitamarhi, muzaffarpur"}
+{"District_Key":"BR_Sitamarhi","Neighbors":"sheohar, muzaffarpur, darbhanga, madhubani, east champaran"}
+{"District_Key":"BR_Siwan","Neighbors":"gopalganj, ballia, deoria, saran"}
+{"District_Key":"BR_Supaul","Neighbors":"madhubani, saharsa, madhepura, araria"}
+{"District_Key":"BR_Vaishali","Neighbors":"samastipur, patna, muzaffarpur, saran"}
+{"District_Key":"BR_West Champaran","Neighbors":"maharajganj, east champaran, gopalganj, kushinagar"}
+{"District_Key":"CH_Chandigarh","Neighbors":"panchkula, s.a.s. nagar"}
+{"District_Key":"CT_Balod","Neighbors":"uttar bastar kanker, dhamtari, durg, rajnandgaon"}
+{"District_Key":"CT_Baloda Bazar","Neighbors":"raipur, mungeli, bametara, raigarh, bilaspur, mahasamund, janjgir champa"}
+{"District_Key":"CT_Balrampur","Neighbors":"gumla, sonbhadra, surajpur, jashpur, garhwa, singrauli, latehar, surguja, gonda, shrawasti, siddharthnagar"}
+{"District_Key":"CT_Bametara","Neighbors":"mungeli, kabeerdham, baloda bazar, durg, rajnandgaon, raipur"}
+{"District_Key":"CT_Bastar","Neighbors":"koraput, malkangiri, kondagaon, sukma, nabarangapur, dakshin bastar dantewada"}
+{"District_Key":"CT_Bijapur","Neighbors":"bagalkote, kalaburagi, sangli, raichur, belagavi, yadadri bhuvanagiri, solapur, jayashankar bhupalapally, bhadradri kothagudem, gadchiroli, sukma, dakshin bastar dantewada, narayanpur, mulugu"}
+{"District_Key":"CT_Bilaspur","Neighbors":"rupnagar, una, solan, mandi, hamirpur, mungeli, baloda bazar, korba, anuppur, janjgir champa, koriya"}
+{"District_Key":"CT_Dakshin Bastar Dantewada","Neighbors":"kondagaon, bastar, sukma, bijapur, narayanpur"}
+{"District_Key":"CT_Dhamtari","Neighbors":"kondagaon, gariaband, nabarangapur, uttar bastar kanker, durg, balod, raipur"}
+{"District_Key":"CT_Durg","Neighbors":"dhamtari, bametara, balod, rajnandgaon, raipur"}
+{"District_Key":"CT_Gariaband","Neighbors":"nuapada, dhamtari, kalahandi, nabarangapur, raipur, mahasamund"}
+{"District_Key":"CT_Janjgir Champa","Neighbors":"bilaspur, baloda bazar, raigarh, korba"}
+{"District_Key":"CT_Jashpur","Neighbors":"gumla, balrampur, raigarh, sundargarh, simdega, surguja"}
+{"District_Key":"CT_Kabeerdham","Neighbors":"mungeli, bametara, dindori, mandla, rajnandgaon, balaghat"}
+{"District_Key":"CT_Kondagaon","Neighbors":"dhamtari, bastar, nabarangapur, uttar bastar kanker, dakshin bastar dantewada, narayanpur"}
+{"District_Key":"CT_Korba","Neighbors":"surajpur, raigarh, bilaspur, janjgir champa, koriya, surguja"}
+{"District_Key":"CT_Koriya","Neighbors":"surajpur, singrauli, korba, bilaspur, anuppur, sidhi, shahdol"}
+{"District_Key":"CT_Mahasamund","Neighbors":"nuapada, bargarh, baloda bazar, gariaband, raigarh, raipur"}
+{"District_Key":"CT_Mungeli","Neighbors":"kabeerdham, baloda bazar, bametara, dindori, bilaspur, anuppur"}
+{"District_Key":"CT_Narayanpur","Neighbors":"kondagaon, gadchiroli, uttar bastar kanker, bijapur, dakshin bastar dantewada"}
+{"District_Key":"CT_Raigarh","Neighbors":"jharsuguda, bargarh, jashpur, baloda bazar, korba, sundargarh, mahasamund, janjgir champa, surguja"}
+{"District_Key":"CT_Raipur","Neighbors":"dhamtari, baloda bazar, gariaband, bametara, durg, mahasamund"}
+{"District_Key":"CT_Rajnandgaon","Neighbors":"kabeerdham, gadchiroli, bametara, uttar bastar kanker, durg, balod, gondia, balaghat"}
+{"District_Key":"CT_Sukma","Neighbors":"east godavari, malkangiri, bastar, bhadradri kothagudem, bijapur, dakshin bastar dantewada"}
+{"District_Key":"CT_Surajpur","Neighbors":"singrauli, balrampur, korba, koriya, surguja"}
+{"District_Key":"CT_Surguja","Neighbors":"surajpur, jashpur, balrampur, raigarh, korba"}
+{"District_Key":"CT_Uttar Bastar Kanker","Neighbors":"dhamtari, kondagaon, gadchiroli, balod, rajnandgaon, narayanpur"}
+{"District_Key":"DN_Dadra and Nagar Haveli","Neighbors":"palghar, valsad"}
+{"District_Key":"DN_Daman","Neighbors":"valsad"}
+{"District_Key":"DN_Diu","Neighbors":"gir somnath"}
+{"District_Key":"GJ_Ahmedabad","Neighbors":"anand, mehsana, botad, surendranagar, bhavnagar, gandhinagar, kheda"}
+{"District_Key":"GJ_Amreli","Neighbors":"rajkot, junagadh, botad, gir somnath, bhavnagar"}
+{"District_Key":"GJ_Anand","Neighbors":"vadodara, ahmedabad, bharuch, kheda"}
+{"District_Key":"GJ_Aravalli","Neighbors":"dungarpur, udaipur, sabarkantha, gandhinagar, mahisagar, kheda"}
+{"District_Key":"GJ_Banaskantha","Neighbors":"patan, sabarkantha, sirohi, mehsana, kutch, jalore"}
+{"District_Key":"GJ_Bharuch","Neighbors":"vadodara, anand, narmada, surat"}
+{"District_Key":"GJ_Bhavnagar","Neighbors":"amreli, ahmedabad, botad"}
+{"District_Key":"GJ_Botad","Neighbors":"rajkot, ahmedabad, amreli, surendranagar, bhavnagar"}
+{"District_Key":"GJ_Chhota Udaipur","Neighbors":"vadodara, dahod, narmada, panchmahal, alirajpur, nandurbar"}
+{"District_Key":"GJ_Dahod","Neighbors":"panchmahal, alirajpur, jhabua, banswara, mahisagar, chhota udaipur"}
+{"District_Key":"GJ_Dang","Neighbors":"tapi, navsari, dhule, nashik"}
+{"District_Key":"GJ_Devbhumi Dwarka","Neighbors":"porbandar, jamnagar"}
+{"District_Key":"GJ_Gandhinagar","Neighbors":"sabarkantha, ahmedabad, mehsana, kheda, aravalli"}
+{"District_Key":"GJ_Gir Somnath","Neighbors":"amreli, diu, junagadh"}
+{"District_Key":"GJ_Jamnagar","Neighbors":"rajkot, morbi, devbhumi dwarka, porbandar"}
+{"District_Key":"GJ_Junagadh","Neighbors":"rajkot, porbandar, gir somnath, amreli"}
+{"District_Key":"GJ_Kheda","Neighbors":"vadodara, anand, ahmedabad, panchmahal, gandhinagar, mahisagar, aravalli"}
+{"District_Key":"GJ_Kutch","Neighbors":"banaskantha, patan, barmer, surendranagar, morbi, jalore"}
+{"District_Key":"GJ_Mahisagar","Neighbors":"dahod, dungarpur, aravalli, panchmahal, banswara, kheda"}
+{"District_Key":"GJ_Mehsana","Neighbors":"banaskantha, patan, sabarkantha, ahmedabad, surendranagar, gandhinagar"}
+{"District_Key":"GJ_Morbi","Neighbors":"surendranagar, kutch, jamnagar, rajkot"}
+{"District_Key":"GJ_Narmada","Neighbors":"vadodara, bharuch, nandurbar, tapi, surat, chhota udaipur"}
+{"District_Key":"GJ_Navsari","Neighbors":"nashik, valsad, tapi, dang, surat"}
+{"District_Key":"GJ_Panchmahal","Neighbors":"vadodara, dahod, kheda, mahisagar, chhota udaipur"}
+{"District_Key":"GJ_Patan","Neighbors":"surendranagar, kutch, mehsana, banaskantha"}
+{"District_Key":"GJ_Porbandar","Neighbors":"rajkot, devbhumi dwarka, junagadh, jamnagar"}
+{"District_Key":"GJ_Rajkot","Neighbors":"porbandar, amreli, junagadh, botad, surendranagar, morbi, jamnagar"}
+{"District_Key":"GJ_Sabarkantha","Neighbors":"banaskantha, udaipur, sirohi, mehsana, gandhinagar, aravalli"}
+{"District_Key":"GJ_Surat","Neighbors":"narmada, bharuch, tapi, navsari"}
+{"District_Key":"GJ_Surendranagar","Neighbors":"patan, rajkot, ahmedabad, mehsana, botad, morbi, kutch"}
+{"District_Key":"GJ_Tapi","Neighbors":"narmada, navsari, dhule, nandurbar, dang, surat"}
+{"District_Key":"GJ_Vadodara","Neighbors":"anand, bharuch, narmada, panchmahal, chhota udaipur, kheda"}
+{"District_Key":"GJ_Valsad","Neighbors":"nashik, palghar, navsari, daman, dadra and nagar haveli"}
+{"District_Key":"HP_Bilaspur","Neighbors":"rupnagar, una, solan, mandi, hamirpur, mungeli, baloda bazar, korba, anuppur, janjgir champa, koriya"}
+{"District_Key":"HP_Chamba","Neighbors":"lahaul and spiti, kangra, kishtwar, pathankot, doda, kathua"}
+{"District_Key":"HP_Hamirpur","Neighbors":"bilaspur, una, kangra, mandi, kanpur nagar, mahoba, kanpur dehat, jhansi, jalaun, banda, fatehpur"}
+{"District_Key":"HP_Kangra","Neighbors":"hoshiarpur, lahaul and spiti, chamba, una, gurdaspur, pathankot, kullu, mandi, hamirpur"}
+{"District_Key":"HP_Kinnaur","Neighbors":"kullu, lahaul and spiti, uttarkashi, shimla"}
+{"District_Key":"HP_Kullu","Neighbors":"shimla, lahaul and spiti, kinnaur, kangra, mandi"}
+{"District_Key":"HP_Lahaul and Spiti","Neighbors":"leh, kinnaur, chamba, kangra, kishtwar, kargil, kullu"}
+{"District_Key":"HP_Mandi","Neighbors":"shimla, kangra, kullu, solan, bilaspur, hamirpur"}
+{"District_Key":"HP_Shimla","Neighbors":"uttarkashi, kinnaur, sirmaur, dehradun, kullu, solan, mandi"}
+{"District_Key":"HP_Sirmaur","Neighbors":"shimla, ambala, panchkula, dehradun, saharanpur, solan, yamunanagar"}
+{"District_Key":"HP_Solan","Neighbors":"rupnagar, shimla, panchkula, sirmaur, s.a.s. nagar, mandi, bilaspur"}
+{"District_Key":"HP_Una","Neighbors":"rupnagar, hoshiarpur, kangra, bilaspur, hamirpur"}
+{"District_Key":"HR_Ambala","Neighbors":"panchkula, sirmaur, patiala, s.a.s. nagar, yamunanagar, kurukshetra"}
+{"District_Key":"HR_Bhiwani","Neighbors":"churu, charkhi dadri, jhunjhunu, mahendragarh, rohtak, hisar, hanumangarh"}
+{"District_Key":"HR_Charkhi Dadri","Neighbors":"mahendragarh, rohtak, jhajjar, bhiwani"}
+{"District_Key":"HR_Faridabad","Neighbors":"gautam buddha nagar, new delhi, gurugram, palwal, new delhi"}
+{"District_Key":"HR_Fatehabad","Neighbors":"sirsa, sangrur, mansa, jind, hisar, hanumangarh"}
+{"District_Key":"HR_Gurugram","Neighbors":"new delhi, faridabad, nuh, rewari, new delhi, palwal, jhajjar, new delhi"}
+{"District_Key":"HR_Hisar","Neighbors":"jind, rohtak, fatehabad, bhiwani, hanumangarh"}
+{"District_Key":"HR_Jhajjar","Neighbors":"charkhi dadri, new delhi, gurugram, sonipat, mahendragarh, rohtak, rewari, new delhi, new delhi"}
+{"District_Key":"HR_Jind","Neighbors":"karnal, sangrur, patiala, panipat, sonipat, kaithal, fatehabad, rohtak, hisar"}
+{"District_Key":"HR_Kaithal","Neighbors":"patiala, kurukshetra, karnal, jind"}
+{"District_Key":"HR_Karnal","Neighbors":"panipat, shamli, jind, saharanpur, kaithal, yamunanagar, kurukshetra"}
+{"District_Key":"HR_Kurukshetra","Neighbors":"karnal, ambala, patiala, kaithal, yamunanagar"}
+{"District_Key":"HR_Mahendragarh","Neighbors":"charkhi dadri, jaipur, jhunjhunu, sikar, rewari, alwar, bhiwani, jhajjar"}
+{"District_Key":"HR_Nuh","Neighbors":"gurugram, rewari, alwar, mathura, palwal, bharatpur"}
+{"District_Key":"HR_Palwal","Neighbors":"gautam buddha nagar, gurugram, faridabad, nuh, aligarh, mathura"}
+{"District_Key":"HR_Panchkula","Neighbors":"ambala, sirmaur, solan, s.a.s. nagar, chandigarh"}
+{"District_Key":"HR_Panipat","Neighbors":"karnal, shamli, jind, sonipat, baghpat"}
+{"District_Key":"HR_Rewari","Neighbors":"gurugram, nuh, mahendragarh, alwar, jhajjar"}
+{"District_Key":"HR_Rohtak","Neighbors":"charkhi dadri, jind, sonipat, hisar, bhiwani, jhajjar"}
+{"District_Key":"HR_Sirsa","Neighbors":"bathinda, mansa, sri muktsar sahib, fatehabad, hanumangarh"}
+{"District_Key":"HR_Sonipat","Neighbors":"panipat, jind, rohtak, new delhi, new delhi, baghpat, jhajjar"}
+{"District_Key":"HR_Yamunanagar","Neighbors":"karnal, ambala, sirmaur, saharanpur, kurukshetra"}
+{"District_Key":"JH_Bokaro","Neighbors":"giridih, dhanbad, ramgarh, hazaribagh, purulia"}
+{"District_Key":"JH_Chatra","Neighbors":"palamu, gaya, latehar, ranchi, hazaribagh"}
+{"District_Key":"JH_Deoghar","Neighbors":"dumka, giridih, jamtara, banka, jamui"}
+{"District_Key":"JH_Dhanbad","Neighbors":"giridih, jamtara, paschim bardhaman, bokaro, purulia"}
+{"District_Key":"JH_Dumka","Neighbors":"deoghar, jamtara, banka, birbhum, pakur, godda"}
+{"District_Key":"JH_East Singhbhum","Neighbors":"saraikela-kharsawan, jhargram, mayurbhanj, purulia"}
+{"District_Key":"JH_Garhwa","Neighbors":"sonbhadra, palamu, balrampur, latehar, rohtas"}
+{"District_Key":"JH_Giridih","Neighbors":"deoghar, nawada, jamtara, koderma, dhanbad, jamui, bokaro, hazaribagh"}
+{"District_Key":"JH_Godda","Neighbors":"dumka, banka, bhagalpur, pakur, sahibganj"}
+{"District_Key":"JH_Gumla","Neighbors":"jashpur, lohardaga, balrampur, latehar, simdega, ranchi, khunti"}
+{"District_Key":"JH_Hazaribagh","Neighbors":"giridih, koderma, gaya, ranchi, ramgarh, chatra, bokaro"}
+{"District_Key":"JH_Jamtara","Neighbors":"dumka, giridih, deoghar, birbhum, dhanbad, paschim bardhaman"}
+{"District_Key":"JH_Khunti","Neighbors":"gumla, west singhbhum, simdega, saraikela-kharsawan, ranchi"}
+{"District_Key":"JH_Koderma","Neighbors":"giridih, gaya, hazaribagh, nawada"}
+{"District_Key":"JH_Latehar","Neighbors":"gumla, chatra, palamu, garhwa, lohardaga, balrampur, ranchi"}
+{"District_Key":"JH_Lohardaga","Neighbors":"gumla, ranchi, latehar"}
+{"District_Key":"JH_Pakur","Neighbors":"dumka, murshidabad, birbhum, godda, sahibganj"}
+{"District_Key":"JH_Palamu","Neighbors":"aurangabad, garhwa, gaya, latehar, chatra, rohtas"}
+{"District_Key":"JH_Ramgarh","Neighbors":"ranchi, bokaro, hazaribagh, purulia"}
+{"District_Key":"JH_Ranchi","Neighbors":"gumla, lohardaga, khunti, latehar, ramgarh, saraikela-kharsawan, chatra, hazaribagh, purulia"}
+{"District_Key":"JH_Sahibganj","Neighbors":"malda, murshidabad, katihar, bhagalpur, pakur, godda"}
+{"District_Key":"JH_Saraikela-Kharsawan","Neighbors":"east singhbhum, mayurbhanj, ranchi, west singhbhum, khunti, purulia"}
+{"District_Key":"JH_Simdega","Neighbors":"gumla, jashpur, sundargarh, west singhbhum, khunti"}
+{"District_Key":"JH_West Singhbhum","Neighbors":"saraikela-kharsawan, mayurbhanj, sundargarh, simdega, kendujhar, khunti"}
+{"District_Key":"JK_Anantnag","Neighbors":"ramban, kishtwar, kargil, doda, ganderbal, shopiyan, pulwama, kulgam, srinagar"}
+{"District_Key":"JK_Bandipora","Neighbors":"kupwara, kargil, baramulla, ganderbal, srinagar"}
+{"District_Key":"JK_Baramulla","Neighbors":"punch, kupwara, budgam, bandipora, srinagar"}
+{"District_Key":"JK_Budgam","Neighbors":"punch, baramulla, shopiyan, pulwama, kulgam, srinagar"}
+{"District_Key":"JK_Doda","Neighbors":"anantnag, udhampur, chamba, ramban, kishtwar, kathua"}
+{"District_Key":"JK_Ganderbal","Neighbors":"bandipora, anantnag, srinagar, kargil"}
+{"District_Key":"JK_Jammu","Neighbors":"reasi, rajouri, udhampur, samba"}
+{"District_Key":"JK_Kathua","Neighbors":"udhampur, chamba, samba, doda, pathankot"}
+{"District_Key":"JK_Kishtwar","Neighbors":"anantnag, lahaul and spiti, chamba, doda, kargil"}
+{"District_Key":"JK_Kulgam","Neighbors":"reasi, anantnag, punch, ramban, shopiyan, budgam, rajouri"}
+{"District_Key":"JK_Kupwara","Neighbors":"bandipora, baramulla"}
+{"District_Key":"JK_Pulwama","Neighbors":"anantnag, shopiyan, budgam, srinagar"}
+{"District_Key":"JK_Punch","Neighbors":"reasi, baramulla, budgam, rajouri, kulgam"}
+{"District_Key":"JK_Rajouri","Neighbors":"reasi, jammu, kulgam, punch"}
+{"District_Key":"JK_Ramban","Neighbors":"reasi, anantnag, udhampur, doda, kulgam"}
+{"District_Key":"JK_Reasi","Neighbors":"udhampur, punch, jammu, ramban, rajouri, kulgam"}
+{"District_Key":"JK_Samba","Neighbors":"kathua, jammu, udhampur"}
+{"District_Key":"JK_Shopiyan","Neighbors":"anantnag, kulgam, budgam, pulwama"}
+{"District_Key":"JK_Srinagar","Neighbors":"anantnag, baramulla, ganderbal, budgam, pulwama, bandipora"}
+{"District_Key":"JK_Udhampur","Neighbors":"reasi, jammu, ramban, samba, doda, kathua"}
+{"District_Key":"KA_Bagalkote","Neighbors":"raichur, bijapur, gadag, belagavi, koppal"}
+{"District_Key":"KA_Ballari","Neighbors":"raichur, gadag, kurnool, koppal, haveri, davanagere, anantapur, chitradurga"}
+{"District_Key":"KA_Belagavi","Neighbors":"bagalkote, kolhapur, sindhudurg, uttara kannada, bijapur, gadag, dharwad, north goa, sangli"}
+{"District_Key":"KA_Bengaluru Rural","Neighbors":"krishnagiri, bengaluru urban, kolar, ramanagara, tumakuru, chikkaballapura"}
+{"District_Key":"KA_Bengaluru Urban","Neighbors":"krishnagiri, ramanagara, bengaluru rural"}
+{"District_Key":"KA_Bidar","Neighbors":"kalaburagi, sangareddy, latur, kamareddy, nanded, osmanabad"}
+{"District_Key":"KA_Chamarajanagara","Neighbors":"mysuru, krishnagiri, erode, ramanagara, wayanad, nilgiris, mandya, salem, dharmapuri"}
+{"District_Key":"KA_Chikkaballapura","Neighbors":"kolar, chittoor, tumakuru, bengaluru rural, anantapur"}
+{"District_Key":"KA_Chikkamagaluru","Neighbors":"shivamogga, tumakuru, udupi, davanagere, dakshina kannada, hassan, chitradurga"}
+{"District_Key":"KA_Chitradurga","Neighbors":"ballari, chikkamagaluru, tumakuru, davanagere, anantapur"}
+{"District_Key":"KA_Dakshina Kannada","Neighbors":"kodagu, kasaragod, chikkamagaluru, udupi, hassan"}
+{"District_Key":"KA_Davanagere","Neighbors":"ballari, chikkamagaluru, shivamogga, haveri, chitradurga"}
+{"District_Key":"KA_Dharwad","Neighbors":"gadag, uttara kannada, haveri, belagavi"}
+{"District_Key":"KA_Gadag","Neighbors":"bagalkote, ballari, belagavi, haveri, dharwad, koppal"}
+{"District_Key":"KA_Hassan","Neighbors":"kodagu, mysuru, chikkamagaluru, tumakuru, dakshina kannada, mandya"}
+{"District_Key":"KA_Haveri","Neighbors":"ballari, uttara kannada, shivamogga, gadag, dharwad, davanagere"}
+{"District_Key":"KA_Kalaburagi","Neighbors":"sangareddy, vikarabad, bijapur, bidar, osmanabad, narayanpet, yadadri bhuvanagiri, solapur"}
+{"District_Key":"KA_Kodagu","Neighbors":"mysuru, kasaragod, kannur, wayanad, dakshina kannada, hassan"}
+{"District_Key":"KA_Kolar","Neighbors":"chittoor, krishnagiri, chikkaballapura, bengaluru rural"}
+{"District_Key":"KA_Koppal","Neighbors":"bagalkote, ballari, gadag, raichur"}
+{"District_Key":"KA_Mandya","Neighbors":"mysuru, ramanagara, tumakuru, chamarajanagara, hassan"}
+{"District_Key":"KA_Mysuru","Neighbors":"kodagu, chamarajanagara, wayanad, mandya, hassan"}
+{"District_Key":"KA_Raichur","Neighbors":"bagalkote, ballari, jogulamba gadwal, bijapur, kurnool, koppal, narayanpet, yadadri bhuvanagiri"}
+{"District_Key":"KA_Ramanagara","Neighbors":"krishnagiri, bengaluru urban, tumakuru, bengaluru rural, chamarajanagara, mandya"}
+{"District_Key":"KA_Shivamogga","Neighbors":"uttara kannada, chikkamagaluru, udupi, haveri, davanagere"}
+{"District_Key":"KA_Tumakuru","Neighbors":"chikkamagaluru, ramanagara, bengaluru rural, chikkaballapura, mandya, hassan, anantapur, chitradurga"}
+{"District_Key":"KA_Udupi","Neighbors":"dakshina kannada, chikkamagaluru, shivamogga, uttara kannada"}
+{"District_Key":"KA_Uttara Kannada","Neighbors":"south goa, shivamogga, belagavi, udupi, dharwad, haveri, north goa"}
+{"District_Key":"KL_Alappuzha","Neighbors":"kollam, kottayam, ernakulam"}
+{"District_Key":"KL_Ernakulam","Neighbors":"thrissur, kottayam, idukki, coimbatore, alappuzha"}
+{"District_Key":"KL_Idukki","Neighbors":"ernakulam, virudhunagar, kottayam, tirunelveli, theni, dindigul, tiruppur, coimbatore"}
+{"District_Key":"KL_Kannur","Neighbors":"kodagu, mahe, kasaragod, kozhikode, wayanad"}
+{"District_Key":"KL_Kasaragod","Neighbors":"kodagu, dakshina kannada, kannur"}
+{"District_Key":"KL_Kollam","Neighbors":"alappuzha, thiruvananthapuram, tirunelveli"}
+{"District_Key":"KL_Kottayam","Neighbors":"idukki, alappuzha, ernakulam"}
+{"District_Key":"KL_Kozhikode","Neighbors":"kannur, mahe, malappuram, wayanad"}
+{"District_Key":"KL_Malappuram","Neighbors":"thrissur, kozhikode, wayanad, nilgiris, palghar"}
+{"District_Key":"KL_Thiruvananthapuram","Neighbors":"kollam, kanyakumari, tirunelveli"}
+{"District_Key":"KL_Thrissur","Neighbors":"ernakulam, malappuram, palghar, coimbatore"}
+{"District_Key":"KL_Wayanad","Neighbors":"kodagu, mysuru, malappuram, kannur, chamarajanagara, kozhikode, nilgiris"}
+{"District_Key":"LA_Kargil","Neighbors":"anantnag, leh, lahaul and spiti, kishtwar, ganderbal, bandipora"}
+{"District_Key":"LA_Leh","Neighbors":"lahaul and spiti, kargil"}
+{"District_Key":"MH_Ahmednagar","Neighbors":"nashik, pune, beed, osmanabad, aurangabad, thane, solapur"}
+{"District_Key":"MH_Akola","Neighbors":"amravati, washim, buldhana"}
+{"District_Key":"MH_Amravati","Neighbors":"wardha, burhanpur, akola, khandwa, betul, washim, yavatmal, buldhana, nagpur, chhindwara"}
+{"District_Key":"MH_Aurangabad","Neighbors":"arwal, gaya, palamu, rohtas, jalna, nashik, jalgaon, ahmednagar, beed"}
+{"District_Key":"MH_Beed","Neighbors":"jalna, latur, ahmednagar, osmanabad, aurangabad"}
+{"District_Key":"MH_Bhandara","Neighbors":"gadchiroli, gondia, chandrapur, nagpur, balaghat"}
+{"District_Key":"MH_Buldhana","Neighbors":"burhanpur, jalna, akola, washim, jalgaon, amravati"}
+{"District_Key":"MH_Chandrapur","Neighbors":"wardha, bhandara, gadchiroli, komaram bheem, yavatmal, nagpur, adilabad"}
+{"District_Key":"MH_Dhule","Neighbors":"nashik, barwani, jalgaon, nandurbar, dang, tapi"}
+{"District_Key":"MH_Gadchiroli","Neighbors":"bhandara, jayashankar bhupalapally, mancherial, uttar bastar kanker, komaram bheem, bijapur, rajnandgaon, gondia, chandrapur, narayanpur"}
+{"District_Key":"MH_Gondia","Neighbors":"balaghat, gadchiroli, bhandara, rajnandgaon"}
+{"District_Key":"MH_Hingoli","Neighbors":"nanded, washim, yavatmal"}
+{"District_Key":"MH_Jalgaon","Neighbors":"khargone, burhanpur, jalna, nashik, barwani, dhule, buldhana, aurangabad"}
+{"District_Key":"MH_Jalna","Neighbors":"jalgaon, beed, buldhana, aurangabad"}
+{"District_Key":"MH_Kolhapur","Neighbors":"sindhudurg, belagavi, ratnagiri, sangli"}
+{"District_Key":"MH_Latur","Neighbors":"bidar, nanded, beed, osmanabad"}
+{"District_Key":"MH_Mumbai","Neighbors":", thane"}
+{"District_Key":"MH_Nagpur","Neighbors":"wardha, bhandara, seoni, amravati, chandrapur, balaghat, chhindwara"}
+{"District_Key":"MH_Nanded","Neighbors":"hingoli, nizamabad, latur, kamareddy, bidar, yavatmal, nirmal, adilabad"}
+{"District_Key":"MH_Nandurbar","Neighbors":"narmada, barwani, alirajpur, dhule, tapi, chhota udaipur"}
+{"District_Key":"MH_Nashik","Neighbors":"navsari, valsad, dhule, jalgaon, ahmednagar, palghar, dang, aurangabad, thane"}
+{"District_Key":"MH_Osmanabad","Neighbors":"kalaburagi, latur, bidar, ahmednagar, beed, solapur"}
+{"District_Key":"MH_Palghar","Neighbors":"thrissur, malappuram, nilgiris, coimbatore, nashik, valsad, thane, dadra and nagar haveli"}
+{"District_Key":"MH_Parbhani","Neighbors":"jalna, hingoli, latur, nanded, washim, beed, buldhana"}
+{"District_Key":"MH_Pune","Neighbors":"raigad, satara, ahmednagar, thane, solapur"}
+{"District_Key":"MH_Raigad","Neighbors":"satara, pune, thane, ratnagiri"}
+{"District_Key":"MH_Ratnagiri","Neighbors":"kolhapur, sindhudurg, raigad, satara, sangli"}
+{"District_Key":"MH_Sangli","Neighbors":"kolhapur, bijapur, belagavi, satara, ratnagiri, solapur"}
+{"District_Key":"MH_Satara","Neighbors":"raigad, sangli, pune, ratnagiri, solapur"}
+{"District_Key":"MH_Sindhudurg","Neighbors":"kolhapur, belagavi, north goa, ratnagiri"}
+{"District_Key":"MH_Solapur","Neighbors":"kalaburagi, bijapur, pune, ahmednagar, osmanabad, satara, sangli"}
+{"District_Key":"MH_Thane","Neighbors":"raigad, nashik, mumbai, pune, ahmednagar, palghar"}
+{"District_Key":"MH_Wardha","Neighbors":"amravati, chandrapur, nagpur, yavatmal"}
+{"District_Key":"MH_Washim","Neighbors":"hingoli, akola, buldhana, yavatmal, amravati"}
+{"District_Key":"MH_Yavatmal","Neighbors":"wardha, hingoli, nanded, washim, amravati, chandrapur, adilabad"}
+{"District_Key":"ML_East Garo Hills","Neighbors":"west garo hills, north garo hills, west khasi hills, south garo hills"}
+{"District_Key":"ML_East Jaintia Hills","Neighbors":"cachar, west jaintia hills, dima hasao"}
+{"District_Key":"ML_East Khasi Hills","Neighbors":"west khasi hills, west jaintia hills, south west khasi hills, ribhoi"}
+{"District_Key":"ML_North Garo Hills","Neighbors":"west garo hills, goalpara, west khasi hills, east garo hills, kamrup, south salmara mankachar"}
+{"District_Key":"ML_Ribhoi","Neighbors":"west jaintia hills, kamrup metropolitan, west karbi anglong, west khasi hills, morigaon, east khasi hills, kamrup"}
+{"District_Key":"ML_South Garo Hills","Neighbors":"west garo hills, west khasi hills, east garo hills, south west khasi hills"}
+{"District_Key":"ML_South West Garo Hills","Neighbors":"west garo hills, south salmara mankachar"}
+{"District_Key":"ML_South West Khasi Hills","Neighbors":"east khasi hills, west khasi hills, south garo hills"}
+{"District_Key":"ML_West Garo Hills","Neighbors":"north garo hills, goalpara, east garo hills, south west garo hills, south salmara mankachar, south garo hills"}
+{"District_Key":"ML_West Jaintia Hills","Neighbors":"east jaintia hills, west karbi anglong, east khasi hills, ribhoi, dima hasao"}
+{"District_Key":"ML_West Khasi Hills","Neighbors":"north garo hills, south west khasi hills, east garo hills, ribhoi, east khasi hills, kamrup, south garo hills"}
+{"District_Key":"MN_Churachandpur","Neighbors":"kakching, noney, pherzawl, bishnupur, chandel"}
+{"District_Key":"MP_Agar Malwa","Neighbors":"rajgarh, shajapur, ratlam, ujjain, jhalawar"}
+{"District_Key":"MP_Alirajpur","Neighbors":"dahod, barwani, jhabua, dhar, nandurbar, chhota udaipur"}
+{"District_Key":"MP_Anuppur","Neighbors":"umaria, mungeli, dindori, bilaspur, koriya, shahdol"}
+{"District_Key":"MP_Ashoknagar","Neighbors":"shivpuri, guna, vidisha, lalitpur, sagar"}
+{"District_Key":"MP_Balaghat","Neighbors":"bhandara, kabeerdham, seoni, mandla, rajnandgaon, gondia, nagpur"}
+{"District_Key":"MP_Barwani","Neighbors":"khargone, alirajpur, dhule, dhar, jalgaon, nandurbar"}
+{"District_Key":"MP_Betul","Neighbors":"harda, hoshangabad, khandwa, amravati, chhindwara"}
+{"District_Key":"MP_Bhind","Neighbors":"etawah, jhansi, agra, datia, jalaun, gwalior, morena"}
+{"District_Key":"MP_Bhopal","Neighbors":"vidisha, rajgarh, guna, sehore, raisen"}
+{"District_Key":"MP_Burhanpur","Neighbors":"khargone, khandwa, jalgaon, buldhana, amravati"}
+{"District_Key":"MP_Chhatarpur","Neighbors":"mahoba, damoh, jhansi, lalitpur, tikamgarh, sagar, banda, panna"}
+{"District_Key":"MP_Chhindwara","Neighbors":"hoshangabad, narsinghpur, seoni, betul, amravati, nagpur"}
+{"District_Key":"MP_Damoh","Neighbors":"jabalpur, narsinghpur, sagar, chhatarpur, panna, katni"}
+{"District_Key":"MP_Datia","Neighbors":"shivpuri, jhansi, lalitpur, bhind, gwalior"}
+{"District_Key":"MP_Dewas","Neighbors":"khargone, harda, shajapur, sehore, ujjain, khandwa, indore"}
+{"District_Key":"MP_Dhar","Neighbors":"khargone, ratlam, barwani, ujjain, alirajpur, jhabua, indore"}
+{"District_Key":"MP_Dindori","Neighbors":"umaria, mungeli, jabalpur, kabeerdham, mandla, anuppur"}
+{"District_Key":"MP_Guna","Neighbors":"shivpuri, vidisha, rajgarh, ashoknagar, bhopal, baran, jhalawar"}
+{"District_Key":"MP_Gwalior","Neighbors":"morena, shivpuri, datia, bhind"}
+{"District_Key":"MP_Harda","Neighbors":"hoshangabad, sehore, khandwa, betul, dewas"}
+{"District_Key":"MP_Hoshangabad","Neighbors":"harda, narsinghpur, sehore, raisen, betul, chhindwara"}
+{"District_Key":"MP_Indore","Neighbors":"khargone, dewas, dhar, ujjain"}
+{"District_Key":"MP_Jabalpur","Neighbors":"umaria, damoh, narsinghpur, seoni, dindori, mandla, katni"}
+{"District_Key":"MP_Jhabua","Neighbors":"ratlam, dahod, alirajpur, banswara, dhar"}
+{"District_Key":"MP_Katni","Neighbors":"umaria, jabalpur, damoh, satna, panna"}
+{"District_Key":"MP_Khandwa","Neighbors":"khargone, harda, burhanpur, betul, dewas, amravati"}
+{"District_Key":"MP_Khargone","Neighbors":"burhanpur, barwani, khandwa, dewas, dhar, jalgaon, indore"}
+{"District_Key":"MP_Mandla","Neighbors":"jabalpur, kabeerdham, seoni, dindori, balaghat"}
+{"District_Key":"MP_Mandsaur","Neighbors":"chittorgarh, ratlam, neemuch, kota, jhalawar, pratapgarh"}
+{"District_Key":"MP_Morena","Neighbors":"shivpuri, agra, dholpur, bhind, sheopur, gwalior, karauli"}
+{"District_Key":"MP_Narsinghpur","Neighbors":"jabalpur, damoh, hoshangabad, sagar, raisen, seoni, chhindwara"}
+{"District_Key":"MP_Neemuch","Neighbors":"chittorgarh, mandsaur, pratapgarh, bhilwara"}
+{"District_Key":"MP_Panna","Neighbors":"damoh, chhatarpur, satna, banda, katni"}
+{"District_Key":"MP_Raisen","Neighbors":"vidisha, hoshangabad, narsinghpur, sagar, sehore, bhopal"}
+{"District_Key":"MP_Rajgarh","Neighbors":"guna, shajapur, agar malwa, sehore, bhopal, jhalawar"}
+{"District_Key":"MP_Ratlam","Neighbors":"agar malwa, mandsaur, ujjain, jhabua, banswara, dhar, jhalawar, pratapgarh"}
+{"District_Key":"MP_Rewa","Neighbors":"prayagraj, singrauli, satna, mirzapur, chitrakoot, sidhi"}
+{"District_Key":"MP_Sagar","Neighbors":"damoh, vidisha, ashoknagar, lalitpur, narsinghpur, raisen, chhatarpur"}
+{"District_Key":"MP_Satna","Neighbors":"umaria, banda, panna, katni, rewa, chitrakoot, sidhi, shahdol"}
+{"District_Key":"MP_Sehore","Neighbors":"harda, rajgarh, shajapur, hoshangabad, raisen, dewas, bhopal"}
+{"District_Key":"MP_Seoni","Neighbors":"jabalpur, narsinghpur, mandla, nagpur, balaghat, chhindwara"}
+{"District_Key":"MP_Shahdol","Neighbors":"umaria, satna, anuppur, sidhi, koriya"}
+{"District_Key":"MP_Shajapur","Neighbors":"rajgarh, agar malwa, sehore, ujjain, dewas"}
+{"District_Key":"MP_Sheopur","Neighbors":"shivpuri, kota, morena, baran, sawai madhopur, karauli"}
+{"District_Key":"MP_Shivpuri","Neighbors":"guna, ashoknagar, jhansi, lalitpur, datia, sheopur, gwalior, morena, baran"}
+{"District_Key":"MP_Sidhi","Neighbors":"singrauli, satna, rewa, koriya, shahdol"}
+{"District_Key":"MP_Singrauli","Neighbors":"sonbhadra, surajpur, mirzapur, balrampur, rewa, sidhi, koriya"}
+{"District_Key":"MP_Tikamgarh","Neighbors":"jhansi, chhatarpur, lalitpur"}
+{"District_Key":"MP_Ujjain","Neighbors":"shajapur, ratlam, agar malwa, dhar, dewas, indore"}
+{"District_Key":"MP_Umaria","Neighbors":"jabalpur, dindori, satna, katni, anuppur, shahdol"}
+{"District_Key":"MP_Vidisha","Neighbors":"guna, ashoknagar, sagar, raisen, bhopal"}
+{"District_Key":"MZ_Aizawl","Neighbors":"mamit, cachar, champhai, serchhip, pherzawl, kolasib, lunglei"}
+{"District_Key":"MZ_Champhai","Neighbors":"serchhip, aizawl, pherzawl"}
+{"District_Key":"MZ_Kolasib","Neighbors":"mamit, cachar, aizawl, hailakandi"}
+{"District_Key":"MZ_Lawngtlai","Neighbors":"lunglei, saiha"}
+{"District_Key":"MZ_Lunglei","Neighbors":"mamit, lawngtlai, serchhip, aizawl"}
+{"District_Key":"MZ_Mamit","Neighbors":"kolasib, north tripura, karimganj, aizawl, hailakandi, lunglei"}
+{"District_Key":"MZ_Saiha","Neighbors":"lawngtlai"}
+{"District_Key":"MZ_Serchhip","Neighbors":"aizawl, champhai, lunglei"}
+{"District_Key":"NL_Dimapur","Neighbors":"golaghat, peren, kohima, karbi anglong"}
+{"District_Key":"NL_Kiphire","Neighbors":"phek, tuensang, zunheboto"}
+{"District_Key":"NL_Kohima","Neighbors":"senapati, phek, zunheboto, dimapur, peren, golaghat, wokha"}
+{"District_Key":"NL_Longleng","Neighbors":"mokokchung, mon, sivasagar, tuensang"}
+{"District_Key":"NL_Mokokchung","Neighbors":"longleng, zunheboto, sivasagar, wokha, tuensang, jorhat"}
+{"District_Key":"NL_Mon","Neighbors":"longding, longleng, charaideo, sivasagar, tuensang"}
+{"District_Key":"NL_Peren","Neighbors":"senapati, kohima, tamenglong, dimapur, dima hasao, karbi anglong"}
+{"District_Key":"NL_Phek","Neighbors":"senapati, kohima, ukhrul, zunheboto, kiphire"}
+{"District_Key":"NL_Tuensang","Neighbors":"longleng, zunheboto, mokokchung, mon, kiphire"}
+{"District_Key":"NL_Wokha","Neighbors":"mokokchung, kohima, zunheboto, golaghat, jorhat"}
+{"District_Key":"NL_Zunheboto","Neighbors":"phek, kohima, mokokchung, wokha, kiphire, tuensang"}
+{"District_Key":"OR_Angul","Neighbors":"sambalpur, cuttack, boudh, sundargarh, deogarh, nayagarh, kendujhar, dhenkanal, subarnapur"}
+{"District_Key":"OR_Balangir","Neighbors":"nuapada, kalahandi, bargarh, kandhamal, boudh, subarnapur"}
+{"District_Key":"OR_Bargarh","Neighbors":"nuapada, jharsuguda, sambalpur, raigarh, mahasamund, balangir, subarnapur"}
+{"District_Key":"OR_Bhadrak","Neighbors":"kendujhar, jajpur, bageshwar, kendrapara"}
+{"District_Key":"OR_Boudh","Neighbors":"angul, kandhamal, nayagarh, balangir, subarnapur"}
+{"District_Key":"OR_Cuttack","Neighbors":"angul, jajpur, kendrapara, jagatsinghpur, nayagarh, dhenkanal, khordha, puri"}
+{"District_Key":"OR_Deogarh","Neighbors":"angul, sambalpur, sundargarh"}
+{"District_Key":"OR_Dhenkanal","Neighbors":"cuttack, kendujhar, jajpur, angul"}
+{"District_Key":"OR_Gajapati","Neighbors":"kandhamal, ganjam, rayagada, srikakulam"}
+{"District_Key":"OR_Ganjam","Neighbors":"gajapati, kandhamal, nayagarh, srikakulam, khordha, puri"}
+{"District_Key":"OR_Jagatsinghpur","Neighbors":"cuttack, kendrapara, puri"}
+{"District_Key":"OR_Jajpur","Neighbors":"kendrapara, cuttack, kendujhar, dhenkanal, bhadrak"}
+{"District_Key":"OR_Jharsuguda","Neighbors":"sambalpur, raigarh, sundargarh, bargarh"}
+{"District_Key":"OR_Kalahandi","Neighbors":"koraput, nuapada, kandhamal, gariaband, nabarangapur, rayagada, balangir"}
+{"District_Key":"OR_Kandhamal","Neighbors":"gajapati, ganjam, kalahandi, boudh, nayagarh, rayagada, balangir"}
+{"District_Key":"OR_Kendrapara","Neighbors":"cuttack, jajpur, bhadrak, jagatsinghpur"}
+{"District_Key":"OR_Kendujhar","Neighbors":"bageshwar, angul, jajpur, mayurbhanj, sundargarh, dhenkanal, west singhbhum, bhadrak"}
+{"District_Key":"OR_Khordha","Neighbors":"cuttack, ganjam, nayagarh, puri"}
+{"District_Key":"OR_Koraput","Neighbors":"kalahandi, malkangiri, bastar, vizianagaram, visakhapatnam, nabarangapur, rayagada"}
+{"District_Key":"OR_Malkangiri","Neighbors":"koraput, east godavari, bastar, visakhapatnam, sukma"}
+{"District_Key":"OR_Mayurbhanj","Neighbors":"saraikela-kharsawan, bageshwar, jhargram, east singhbhum, kendujhar, west singhbhum"}
+{"District_Key":"OR_Nabarangapur","Neighbors":"koraput, dhamtari, kalahandi, kondagaon, bastar, gariaband"}
+{"District_Key":"OR_Nayagarh","Neighbors":"angul, kandhamal, cuttack, boudh, ganjam, khordha"}
+{"District_Key":"OR_Nuapada","Neighbors":"kalahandi, bargarh, gariaband, mahasamund, balangir"}
+{"District_Key":"OR_Puri","Neighbors":"cuttack, ganjam, khordha, jagatsinghpur"}
+{"District_Key":"OR_Rayagada","Neighbors":"koraput, gajapati, kalahandi, kandhamal, vizianagaram, srikakulam"}
+{"District_Key":"OR_Sambalpur","Neighbors":"angul, bargarh, sundargarh, deogarh, jharsuguda, subarnapur"}
+{"District_Key":"OR_Subarnapur","Neighbors":"angul, bargarh, sambalpur, boudh, balangir"}
+{"District_Key":"OR_Sundargarh","Neighbors":"angul, jashpur, sambalpur, raigarh, deogarh, simdega, kendujhar, jharsuguda, west singhbhum"}
+{"District_Key":"PB_Amritsar","Neighbors":"kapurthala, gurdaspur, tarn taran"}
+{"District_Key":"PB_Barnala","Neighbors":"bathinda, sangrur, mansa, moga, ludhiana"}
+{"District_Key":"PB_Bathinda","Neighbors":"sirsa, mansa, moga, sri muktsar sahib, barnala, faridkot"}
+{"District_Key":"PB_Faridkot","Neighbors":"sri muktsar sahib, bathinda, moga, ferozepur"}
+{"District_Key":"PB_Fatehgarh Sahib","Neighbors":"rupnagar, sangrur, patiala, s.a.s. nagar, ludhiana"}
+{"District_Key":"PB_Fazilka","Neighbors":"sri muktsar sahib, ferozepur, ganganagar, hanumangarh"}
+{"District_Key":"PB_Ferozepur","Neighbors":"kapurthala, tarn taran, fazilka, jalandhar, moga, sri muktsar sahib, faridkot"}
+{"District_Key":"PB_Gurdaspur","Neighbors":"kapurthala, amritsar, hoshiarpur, kangra, pathankot"}
+{"District_Key":"PB_Hoshiarpur","Neighbors":"kapurthala, rupnagar, una, jalandhar, kangra, gurdaspur, shahid bhagat singh nagar"}
+{"District_Key":"PB_Jalandhar","Neighbors":"kapurthala, hoshiarpur, moga, ferozepur, ludhiana, shahid bhagat singh nagar"}
+{"District_Key":"PB_Kapurthala","Neighbors":"amritsar, hoshiarpur, tarn taran, jalandhar, gurdaspur, ferozepur, shahid bhagat singh nagar"}
+{"District_Key":"PB_Ludhiana","Neighbors":"rupnagar, sangrur, jalandhar, moga, fatehgarh sahib, barnala, shahid bhagat singh nagar"}
+{"District_Key":"PB_Mansa","Neighbors":"sirsa, bathinda, sangrur, fatehabad, barnala"}
+{"District_Key":"PB_Moga","Neighbors":"bathinda, jalandhar, barnala, ferozepur, faridkot, ludhiana"}
+{"District_Key":"PB_Pathankot","Neighbors":"kathua, chamba, kangra, gurdaspur"}
+{"District_Key":"PB_Patiala","Neighbors":"sangrur, ambala, jind, kaithal, s.a.s. nagar, fatehgarh sahib, kurukshetra"}
+{"District_Key":"PB_Rupnagar","Neighbors":"hoshiarpur, una, solan, shahid bhagat singh nagar, fatehgarh sahib, s.a.s. nagar, bilaspur, ludhiana"}
+{"District_Key":"PB_S.A.S. Nagar","Neighbors":"rupnagar, ambala, panchkula, patiala, solan, fatehgarh sahib, chandigarh"}
+{"District_Key":"PB_Sangrur","Neighbors":"patiala, mansa, jind, fatehabad, fatehgarh sahib, barnala, ludhiana"}
+{"District_Key":"PB_Shahid Bhagat Singh Nagar","Neighbors":"kapurthala, rupnagar, hoshiarpur, jalandhar, ludhiana"}
+{"District_Key":"PB_Sri Muktsar Sahib","Neighbors":"sirsa, bathinda, fazilka, ferozepur, faridkot, hanumangarh"}
+{"District_Key":"PB_Tarn Taran","Neighbors":"kapurthala, ferozepur, amritsar"}
+{"District_Key":"PY_Karaikal","Neighbors":"nagapattinam, thiruvarur"}
+{"District_Key":"PY_Mahe","Neighbors":"kozhikode, kannur"}
+{"District_Key":"PY_Puducherry","Neighbors":"viluppuram, cuddalore"}
+{"District_Key":"RJ_Ajmer","Neighbors":"pali, rajsamand, jaipur, bhilwara, nagaur, tonk"}
+{"District_Key":"RJ_Alwar","Neighbors":"jaipur, nuh, mahendragarh, rewari, dausa, bharatpur"}
+{"District_Key":"RJ_Banswara","Neighbors":"ratlam, dahod, dungarpur, jhabua, pratapgarh, mahisagar"}
+{"District_Key":"RJ_Baran","Neighbors":"shivpuri, guna, sheopur, kota, jhalawar"}
+{"District_Key":"RJ_Barmer","Neighbors":"pali, jaisalmer, jodhpur, kutch, jalore"}
+{"District_Key":"RJ_Bharatpur","Neighbors":"agra, dholpur, nuh, dausa, alwar, mathura, karauli"}
+{"District_Key":"RJ_Bhilwara","Neighbors":"rajsamand, chittorgarh, bundi, ajmer, neemuch, tonk"}
+{"District_Key":"RJ_Bikaner","Neighbors":"jaisalmer, churu, jodhpur, nagaur, ganganagar, hanumangarh"}
+{"District_Key":"RJ_Bundi","Neighbors":"chittorgarh, bhilwara, kota, sawai madhopur, tonk"}
+{"District_Key":"RJ_Chittorgarh","Neighbors":"rajsamand, bundi, udaipur, mandsaur, neemuch, bhilwara, kota, pratapgarh"}
+{"District_Key":"RJ_Churu","Neighbors":"jhunjhunu, bhiwani, nagaur, sikar, bikaner, hanumangarh"}
+{"District_Key":"RJ_Dausa","Neighbors":"jaipur, alwar, sawai madhopur, karauli, tonk, bharatpur"}
+{"District_Key":"RJ_Dholpur","Neighbors":"karauli, agra, bharatpur, morena"}
+{"District_Key":"RJ_Dungarpur","Neighbors":"udaipur, banswara, pratapgarh, mahisagar, aravalli"}
+{"District_Key":"RJ_Ganganagar","Neighbors":"fazilka, hanumangarh, bikaner"}
+{"District_Key":"RJ_Hanumangarh","Neighbors":"sirsa, churu, fazilka, bikaner, sri muktsar sahib, fatehabad, hisar, bhiwani, ganganagar"}
+{"District_Key":"RJ_Jaipur","Neighbors":"ajmer, mahendragarh, nagaur, sikar, dausa, alwar, tonk"}
+{"District_Key":"RJ_Jaisalmer","Neighbors":"jodhpur, bikaner, barmer"}
+{"District_Key":"RJ_Jalore","Neighbors":"pali, banaskantha, sirohi, barmer, kutch"}
+{"District_Key":"RJ_Jhalawar","Neighbors":"rajgarh, guna, ratlam, agar malwa, mandsaur, kota, baran"}
+{"District_Key":"RJ_Jhunjhunu","Neighbors":"churu, mahendragarh, sikar, bhiwani"}
+{"District_Key":"RJ_Jodhpur","Neighbors":"pali, jaisalmer, nagaur, bikaner, barmer"}
+{"District_Key":"RJ_Karauli","Neighbors":"dholpur, sheopur, morena, dausa, sawai madhopur, bharatpur"}
+{"District_Key":"RJ_Kota","Neighbors":"chittorgarh, bundi, mandsaur, sheopur, baran, sawai madhopur, jhalawar"}
+{"District_Key":"RJ_Nagaur","Neighbors":"pali, churu, jodhpur, jaipur, ajmer, sikar, bikaner"}
+{"District_Key":"RJ_Pali","Neighbors":"rajsamand, jodhpur, udaipur, ajmer, nagaur, sirohi, barmer, jalore"}
+{"District_Key":"RJ_Pratapgarh","Neighbors":"jaunpur, rae bareli, prayagraj, amethi, kaushambi, sultanpur, fatehpur, chittorgarh, ratlam, dungarpur, udaipur, mandsaur, neemuch, banswara"}
+{"District_Key":"RJ_Rajsamand","Neighbors":"pali, chittorgarh, udaipur, ajmer, bhilwara"}
+{"District_Key":"RJ_Sawai Madhopur","Neighbors":"bundi, sheopur, kota, dausa, karauli, tonk"}
+{"District_Key":"RJ_Sikar","Neighbors":"churu, jaipur, jhunjhunu, mahendragarh, nagaur"}
+{"District_Key":"RJ_Sirohi","Neighbors":"pali, banaskantha, udaipur, sabarkantha, jalore"}
+{"District_Key":"RJ_Tonk","Neighbors":"jaipur, bundi, ajmer, bhilwara, dausa, sawai madhopur"}
+{"District_Key":"RJ_Udaipur","Neighbors":"pali, rajsamand, chittorgarh, dungarpur, sabarkantha, sirohi, pratapgarh, aravalli"}
+{"District_Key":"TN_Ariyalur","Neighbors":"tiruchirappalli, cuddalore, thanjavur, perambalur"}
+{"District_Key":"TN_Chennai","Neighbors":"kancheepuram, thiruvallur"}
+{"District_Key":"TN_Coimbatore","Neighbors":"thrissur, erode, ernakulam, idukki, tiruppur, nilgiris, palghar"}
+{"District_Key":"TN_Cuddalore","Neighbors":"puducherry, kallakurichi, perambalur, ariyalur, thanjavur, viluppuram, nagapattinam"}
+{"District_Key":"TN_Dharmapuri","Neighbors":"krishnagiri, erode, kallakurichi, chamarajanagara, tiruvannamalai, salem"}
+{"District_Key":"TN_Dindigul","Neighbors":"madurai, karur, tiruchirappalli, theni, idukki, tiruppur"}
+{"District_Key":"TN_Erode","Neighbors":"karur, chamarajanagara, tiruppur, nilgiris, coimbatore, namakkal, salem, dharmapuri"}
+{"District_Key":"TN_Kallakurichi","Neighbors":"perambalur, tiruvannamalai, viluppuram, salem, cuddalore, dharmapuri"}
+{"District_Key":"TN_Kancheepuram","Neighbors":"tiruvannamalai, vellore, viluppuram, thiruvallur, chennai"}
+{"District_Key":"TN_Kanyakumari","Neighbors":"thiruvananthapuram, tirunelveli"}
+{"District_Key":"TN_Karur","Neighbors":"erode, tiruchirappalli, tiruppur, dindigul, namakkal"}
+{"District_Key":"TN_Krishnagiri","Neighbors":"bengaluru urban, kolar, ramanagara, bengaluru rural, chamarajanagara, tiruvannamalai, vellore, chittoor, dharmapuri"}
+{"District_Key":"TN_Madurai","Neighbors":"sivaganga, tiruchirappalli, virudhunagar, theni, dindigul"}
+{"District_Key":"TN_Nagapattinam","Neighbors":"thiruvarur, cuddalore, thanjavur, karaikal"}
+{"District_Key":"TN_Namakkal","Neighbors":"salem, tiruchirappalli, erode, karur"}
+{"District_Key":"TN_Nilgiris","Neighbors":"malappuram, erode, chamarajanagara, wayanad, coimbatore, palghar"}
+{"District_Key":"TN_Perambalur","Neighbors":"kallakurichi, ariyalur, tiruchirappalli, salem, cuddalore"}
+{"District_Key":"TN_Pudukkottai","Neighbors":"tiruchirappalli, sivaganga, thanjavur, ramanathapuram"}
+{"District_Key":"TN_Ramanathapuram","Neighbors":"thoothukkudi, pudukkottai, virudhunagar, sivaganga"}
+{"District_Key":"TN_Salem","Neighbors":"erode, kallakurichi, perambalur, tiruchirappalli, chamarajanagara, namakkal, dharmapuri"}
+{"District_Key":"TN_Sivaganga","Neighbors":"madurai, ramanathapuram, virudhunagar, tiruchirappalli, pudukkottai"}
+{"District_Key":"TN_Thanjavur","Neighbors":"ariyalur, tiruchirappalli, pudukkottai, nagapattinam, cuddalore, thiruvarur"}
+{"District_Key":"TN_Theni","Neighbors":"madurai, virudhunagar, dindigul, idukki"}
+{"District_Key":"TN_Thiruvallur","Neighbors":"s.p.s. nellore, kancheepuram, vellore, chittoor, chennai"}
+{"District_Key":"TN_Thiruvarur","Neighbors":"nagapattinam, thanjavur, karaikal"}
+{"District_Key":"TN_Thoothukkudi","Neighbors":"virudhunagar, ramanathapuram, tirunelveli"}
+{"District_Key":"TN_Tiruchirappalli","Neighbors":"madurai, sivaganga, karur, ariyalur, perambalur, thanjavur, pudukkottai, dindigul, namakkal, salem"}
+{"District_Key":"TN_Tirunelveli","Neighbors":"kollam, kanyakumari, thoothukkudi, virudhunagar, idukki, thiruvananthapuram"}
+{"District_Key":"TN_Tiruppur","Neighbors":"erode, karur, idukki, dindigul, coimbatore"}
+{"District_Key":"TN_Tiruvannamalai","Neighbors":"krishnagiri, kallakurichi, kancheepuram, vellore, viluppuram, dharmapuri"}
+{"District_Key":"TN_Vellore","Neighbors":"krishnagiri, kancheepuram, tiruvannamalai, chittoor, thiruvallur"}
+{"District_Key":"TN_Viluppuram","Neighbors":"puducherry, kallakurichi, kancheepuram, tiruvannamalai, cuddalore"}
+{"District_Key":"TN_Virudhunagar","Neighbors":"madurai, sivaganga, ramanathapuram, thoothukkudi, tirunelveli, theni, idukki"}
+{"District_Key":"TR_Dhalai","Neighbors":"unokoti, khowai, gomati, north tripura"}
+{"District_Key":"TR_Gomati","Neighbors":"south tripura, khowai, sipahijala, dhalai"}
+{"District_Key":"TR_Khowai","Neighbors":"west tripura, sipahijala, gomati, dhalai"}
+{"District_Key":"TR_North Tripura","Neighbors":"mamit, unokoti, karimganj, dhalai"}
+{"District_Key":"TR_Sipahijala","Neighbors":"west tripura, south tripura, khowai, gomati"}
+{"District_Key":"TR_South Tripura","Neighbors":"sipahijala, gomati"}
+{"District_Key":"TR_Unokoti","Neighbors":"north tripura, dhalai"}
+{"District_Key":"TR_West Tripura","Neighbors":"khowai, sipahijala"}
+{"District_Key":"UP_Agra","Neighbors":"etawah, hathras, dholpur, bhind, morena, mathura, etah, firozabad, bharatpur"}
+{"District_Key":"UP_Aligarh","Neighbors":"gautam buddha nagar, sambhal, bulandshahr, hathras, kasganj, mathura, budaun, palwal"}
+{"District_Key":"UP_Ambedkar Nagar","Neighbors":"azamgarh, gorakhpur, basti, sant kabir nagar, ayodhya, sultanpur"}
+{"District_Key":"UP_Amethi","Neighbors":"pratapgarh, rae bareli, ayodhya, barabanki, sultanpur"}
+{"District_Key":"UP_Amroha","Neighbors":"sambhal, bijnor, bulandshahr, hapur, moradabad, meerut"}
+{"District_Key":"UP_Auraiya","Neighbors":"kannauj, etawah, kanpur dehat, jalaun"}
+{"District_Key":"UP_Ayodhya","Neighbors":"basti, amethi, ambedkar nagar, barabanki, sultanpur, gonda"}
+{"District_Key":"UP_Azamgarh","Neighbors":"mau, ghazipur, jaunpur, gorakhpur, ambedkar nagar, sultanpur"}
+{"District_Key":"UP_Baghpat","Neighbors":"panipat, shamli, muzaffarnagar, sonipat, ghaziabad, new delhi, meerut"}
+{"District_Key":"UP_Bahraich","Neighbors":"shrawasti, sitapur, barabanki, gonda"}
+{"District_Key":"UP_Ballia","Neighbors":"mau, ghazipur, deoria, buxar, bhojpur, siwan, saran"}
+{"District_Key":"UP_Balrampur","Neighbors":"gumla, sonbhadra, surajpur, jashpur, garhwa, singrauli, latehar, surguja, gonda, shrawasti, siddharthnagar"}
+{"District_Key":"UP_Banda","Neighbors":"mahoba, hamirpur, chhatarpur, satna, panna, chitrakoot, fatehpur"}
+{"District_Key":"UP_Barabanki","Neighbors":"lucknow, rae bareli, amethi, bahraich, ayodhya, gonda, sitapur"}
+{"District_Key":"UP_Bareilly","Neighbors":"pilibhit, rampur, shahjahanpur, budaun, udham singh nagar"}
+{"District_Key":"UP_Basti","Neighbors":"siddharthnagar, sant kabir nagar, ambedkar nagar, ayodhya, gonda"}
+{"District_Key":"UP_Bhadohi","Neighbors":"mirzapur, varanasi, jaunpur, prayagraj"}
+{"District_Key":"UP_Bijnor","Neighbors":"haridwar, nainital, muzaffarnagar, moradabad, amroha, meerut, pauri garhwal, udham singh nagar"}
+{"District_Key":"UP_Budaun","Neighbors":"kasganj, sambhal, moradabad, bareilly, rampur, aligarh, shahjahanpur, farrukhabad"}
+{"District_Key":"UP_Bulandshahr","Neighbors":"gautam buddha nagar, sambhal, hapur, aligarh, amroha"}
+{"District_Key":"UP_Chandauli","Neighbors":"varanasi, ghazipur, sonbhadra, kaimur, mirzapur"}
+{"District_Key":"UP_Chitrakoot","Neighbors":"prayagraj, satna, banda, kaushambi, rewa, fatehpur"}
+{"District_Key":"UP_Deoria","Neighbors":"mau, gopalganj, kushinagar, gorakhpur, siwan, ballia"}
+{"District_Key":"UP_Etah","Neighbors":"agra, hathras, mainpuri, kasganj, firozabad, farrukhabad"}
+{"District_Key":"UP_Etawah","Neighbors":"auraiya, agra, bhind, jalaun, mainpuri, firozabad, kannauj"}
+{"District_Key":"UP_Farrukhabad","Neighbors":"kasganj, mainpuri, shahjahanpur, kannauj, etah, budaun, hardoi"}
+{"District_Key":"UP_Fatehpur","Neighbors":"kanpur nagar, unnao, hamirpur, pratapgarh, rae bareli, banda, kaushambi, chitrakoot"}
+{"District_Key":"UP_Firozabad","Neighbors":"etah, agra, etawah, mainpuri"}
+{"District_Key":"UP_Gautam Buddha Nagar","Neighbors":"new delhi, new delhi, bulandshahr, hapur, faridabad, aligarh, ghaziabad, palwal"}
+{"District_Key":"UP_Ghaziabad","Neighbors":"gautam buddha nagar, new delhi, hapur, new delhi, new delhi, new delhi, meerut, baghpat"}
+{"District_Key":"UP_Ghazipur","Neighbors":"mau, jaunpur, varanasi, buxar, azamgarh, kaimur, chandauli, ballia"}
+{"District_Key":"UP_Gonda","Neighbors":"shrawasti, balrampur, siddharthnagar, basti, bahraich, ayodhya, barabanki"}
+{"District_Key":"UP_Gorakhpur","Neighbors":"mau, kushinagar, siddharthnagar, deoria, azamgarh, sant kabir nagar, ambedkar nagar, maharajganj"}
+{"District_Key":"UP_Hamirpur","Neighbors":"bilaspur, una, kangra, mandi, kanpur nagar, mahoba, kanpur dehat, jhansi, jalaun, banda, fatehpur"}
+{"District_Key":"UP_Hapur","Neighbors":"gautam buddha nagar, bulandshahr, ghaziabad, amroha, meerut"}
+{"District_Key":"UP_Hardoi","Neighbors":"lucknow, kanpur nagar, unnao, shahjahanpur, sitapur, farrukhabad, kannauj"}
+{"District_Key":"UP_Hathras","Neighbors":"agra, aligarh, kasganj, mathura, etah"}
+{"District_Key":"UP_Jalaun","Neighbors":"etawah, auraiya, hamirpur, kanpur dehat, jhansi, bhind"}
+{"District_Key":"UP_Jaunpur","Neighbors":"varanasi, ghazipur, pratapgarh, azamgarh, prayagraj, sultanpur, bhadohi"}
+{"District_Key":"UP_Jhansi","Neighbors":"mahoba, shivpuri, hamirpur, lalitpur, tikamgarh, datia, bhind, jalaun, chhatarpur"}
+{"District_Key":"UP_Kannauj","Neighbors":"kanpur nagar, auraiya, etawah, kanpur dehat, mainpuri, farrukhabad, hardoi"}
+{"District_Key":"UP_Kanpur Dehat","Neighbors":"kanpur nagar, auraiya, hamirpur, jalaun, kannauj"}
+{"District_Key":"UP_Kanpur Nagar","Neighbors":"unnao, hamirpur, kanpur dehat, hardoi, fatehpur, kannauj"}
+{"District_Key":"UP_Kasganj","Neighbors":"hathras, aligarh, etah, budaun, farrukhabad"}
+{"District_Key":"UP_Kaushambi","Neighbors":"pratapgarh, rae bareli, prayagraj, chitrakoot, fatehpur"}
+{"District_Key":"UP_Kushinagar","Neighbors":"west champaran, gopalganj, deoria, gorakhpur, maharajganj"}
+{"District_Key":"UP_Lalitpur","Neighbors":"shivpuri, ashoknagar, jhansi, tikamgarh, sagar, datia, chhatarpur"}
+{"District_Key":"UP_Lucknow","Neighbors":"unnao, rae bareli, barabanki, sitapur, hardoi"}
+{"District_Key":"UP_Maharajganj","Neighbors":"west champaran, gorakhpur, kushinagar, siddharthnagar"}
+{"District_Key":"UP_Mahoba","Neighbors":"jhansi, banda, chhatarpur, hamirpur"}
+{"District_Key":"UP_Mainpuri","Neighbors":"etawah, etah, firozabad, farrukhabad, kannauj"}
+{"District_Key":"UP_Mathura","Neighbors":"agra, hathras, nuh, aligarh, palwal, bharatpur"}
+{"District_Key":"UP_Mau","Neighbors":"ghazipur, deoria, azamgarh, gorakhpur, ballia"}
+{"District_Key":"UP_Meerut","Neighbors":"bijnor, hapur, muzaffarnagar, ghaziabad, amroha, baghpat"}
+{"District_Key":"UP_Mirzapur","Neighbors":"varanasi, sonbhadra, prayagraj, singrauli, chandauli, rewa, bhadohi"}
+{"District_Key":"UP_Moradabad","Neighbors":"sambhal, bijnor, rampur, amroha, budaun, udham singh nagar"}
+{"District_Key":"UP_Muzaffarnagar","Neighbors":"haridwar, bijnor, shamli, saharanpur, meerut, baghpat"}
+{"District_Key":"UP_Pilibhit","Neighbors":"udham singh nagar, bareilly, shahjahanpur"}
+{"District_Key":"UP_Pratapgarh","Neighbors":"jaunpur, rae bareli, prayagraj, amethi, kaushambi, sultanpur, fatehpur, chittorgarh, ratlam, dungarpur, udaipur, mandsaur, neemuch, banswara"}
+{"District_Key":"UP_Prayagraj","Neighbors":"jaunpur, pratapgarh, mirzapur, kaushambi, rewa, chitrakoot, bhadohi"}
+{"District_Key":"UP_Rae Bareli","Neighbors":"lucknow, unnao, pratapgarh, amethi, kaushambi, barabanki, fatehpur"}
+{"District_Key":"UP_Rampur","Neighbors":"moradabad, udham singh nagar, bareilly, budaun"}
+{"District_Key":"UP_Saharanpur","Neighbors":"haridwar, karnal, sirmaur, dehradun, muzaffarnagar, shamli, yamunanagar"}
+{"District_Key":"UP_Sambhal","Neighbors":"bulandshahr, moradabad, aligarh, amroha, budaun"}
+{"District_Key":"UP_Sant Kabir Nagar","Neighbors":"ambedkar nagar, gorakhpur, basti, siddharthnagar"}
+{"District_Key":"UP_Shahjahanpur","Neighbors":"pilibhit, bareilly, budaun, farrukhabad, hardoi"}
+{"District_Key":"UP_Shamli","Neighbors":"karnal, panipat, muzaffarnagar, saharanpur, baghpat"}
+{"District_Key":"UP_Shrawasti","Neighbors":"gonda, balrampur, bahraich"}
+{"District_Key":"UP_Siddharthnagar","Neighbors":"balrampur, gorakhpur, sant kabir nagar, basti, gonda, maharajganj"}
+{"District_Key":"UP_Sitapur","Neighbors":"lucknow, bahraich, barabanki, hardoi"}
+{"District_Key":"UP_Sonbhadra","Neighbors":"garhwa, kaimur, singrauli, mirzapur, balrampur, chandauli, rohtas"}
+{"District_Key":"UP_Sultanpur","Neighbors":"jaunpur, pratapgarh, azamgarh, amethi, ambedkar nagar, ayodhya"}
+{"District_Key":"UP_Unnao","Neighbors":"lucknow, kanpur nagar, rae bareli, fatehpur, hardoi"}
+{"District_Key":"UP_Varanasi","Neighbors":"jaunpur, ghazipur, mirzapur, chandauli, bhadohi"}
+{"District_Key":"UT_Almora","Neighbors":"nainital, bageshwar, chamoli, champawat, pauri garhwal, pithoragarh"}
+{"District_Key":"UT_Bageshwar","Neighbors":"jhargram, purba medinipur, mayurbhanj, paschim medinipur, kendujhar, bhadrak, chamoli, pithoragarh, almora"}
+{"District_Key":"UT_Chamoli","Neighbors":"uttarkashi, bageshwar, almora, pauri garhwal, pithoragarh, rudraprayag"}
+{"District_Key":"UT_Champawat","Neighbors":"udham singh nagar, nainital, pithoragarh, almora"}
+{"District_Key":"UT_Dehradun","Neighbors":"haridwar, uttarkashi, shimla, tehri garhwal, sirmaur, saharanpur, pauri garhwal"}
+{"District_Key":"UT_Haridwar","Neighbors":"bijnor, dehradun, muzaffarnagar, saharanpur, pauri garhwal"}
+{"District_Key":"UT_Nainital","Neighbors":"bijnor, champawat, almora, pauri garhwal, udham singh nagar"}
+{"District_Key":"UT_Pauri Garhwal","Neighbors":"haridwar, nainital, bijnor, tehri garhwal, chamoli, dehradun, almora, rudraprayag"}
+{"District_Key":"UT_Pithoragarh","Neighbors":"bageshwar, chamoli, almora, champawat"}
+{"District_Key":"UT_Rudraprayag","Neighbors":"pauri garhwal, uttarkashi, chamoli, tehri garhwal"}
+{"District_Key":"UT_Tehri Garhwal","Neighbors":"uttarkashi, pauri garhwal, dehradun, rudraprayag"}
+{"District_Key":"UT_Udham Singh Nagar","Neighbors":"nainital, bijnor, pilibhit, rampur, bareilly, champawat, moradabad"}
+{"District_Key":"UT_Uttarkashi","Neighbors":"shimla, tehri garhwal, kinnaur, chamoli, dehradun, rudraprayag"}
+{"District_Key":"WB_Alipurduar","Neighbors":"jalpaiguri, cooch behar, kokrajhar"}
+{"District_Key":"WB_Bankura","Neighbors":"jhargram, purba bardhaman, paschim medinipur, paschim bardhaman, hooghly, purulia"}
+{"District_Key":"WB_Birbhum","Neighbors":"dumka, jamtara, murshidabad, purba bardhaman, pakur, paschim bardhaman"}
+{"District_Key":"WB_Cooch Behar","Neighbors":"dhubri, jalpaiguri, alipurduar, kokrajhar"}
+{"District_Key":"WB_Dakshin Dinajpur","Neighbors":"malda, uttar dinajpur"}
+{"District_Key":"WB_Darjeeling","Neighbors":"uttar dinajpur, kalimpong, south sikkim, west sikkim, kishanganj, jalpaiguri"}
+{"District_Key":"WB_Hooghly","Neighbors":"nadia, north 24 parganas, purba bardhaman, paschim medinipur, bankura, howrah"}
+{"District_Key":"WB_Howrah","Neighbors":"purba medinipur, south 24 parganas, north 24 parganas, kolkata, paschim medinipur, hooghly"}
+{"District_Key":"WB_Jalpaiguri","Neighbors":"darjeeling, kalimpong, alipurduar, cooch behar"}
+{"District_Key":"WB_Jhargram","Neighbors":"bageshwar, east singhbhum, mayurbhanj, paschim medinipur, bankura, purulia"}
+{"District_Key":"WB_Kalimpong","Neighbors":"darjeeling, south sikkim, jalpaiguri, east sikkim"}
+{"District_Key":"WB_Kolkata","Neighbors":"south 24 parganas, howrah, north 24 parganas"}
+{"District_Key":"WB_Malda","Neighbors":"murshidabad, uttar dinajpur, katihar, dakshin dinajpur, sahibganj"}
+{"District_Key":"WB_Murshidabad","Neighbors":"malda, birbhum, purba bardhaman, pakur, sahibganj, nadia"}
+{"District_Key":"WB_Nadia","Neighbors":"murshidabad, purba bardhaman, hooghly, north 24 parganas"}
+{"District_Key":"WB_North 24 Parganas","Neighbors":"south 24 parganas, nadia, kolkata, hooghly, howrah"}
+{"District_Key":"WB_Paschim Bardhaman","Neighbors":"jamtara, birbhum, purba bardhaman, dhanbad, bankura, purulia"}
+{"District_Key":"WB_Paschim Medinipur","Neighbors":"bageshwar, jhargram, purba medinipur, bankura, hooghly, howrah"}
+{"District_Key":"WB_Purba Bardhaman","Neighbors":"murshidabad, birbhum, bankura, paschim bardhaman, hooghly, nadia"}
+{"District_Key":"WB_Purba Medinipur","Neighbors":"south 24 parganas, bageshwar, howrah, paschim medinipur"}
+{"District_Key":"WB_Purulia","Neighbors":"jhargram, east singhbhum, paschim bardhaman, dhanbad, bankura, ramgarh, saraikela-kharsawan, ranchi, bokaro"}
+{"District_Key":"WB_South 24 Parganas","Neighbors":"purba medinipur, kolkata, howrah, north 24 parganas"}
+{"District_Key":"WB_Uttar Dinajpur","Neighbors":"malda, katihar, purnia, darjeeling, dakshin dinajpur, kishanganj"}

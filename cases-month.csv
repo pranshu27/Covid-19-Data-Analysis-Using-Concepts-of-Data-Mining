@@ -1,0 +1,10138 @@
+districtid,monthid,cases
+Anantapur,1,118
+Anantapur,2,345
+Anantapur,3,3188
+Anantapur,4,24445
+Anantapur,5,21693
+Anantapur,6,11821
+Anantapur,7,4493
+Anantapur,8,911
+Anantapur,9,535
+Anantapur,10,146
+Anantapur,11,162
+Anantapur,12,2224
+Anantapur,13,37805
+Anantapur,14,41980
+Anantapur,15,5409
+Anantapur,16,1496
+Chittoor,1,151
+Chittoor,2,202
+Chittoor,3,2721
+Chittoor,4,18445
+Chittoor,5,28627
+Chittoor,6,21579
+Chittoor,7,10250
+Chittoor,8,2914
+Chittoor,9,1810
+Chittoor,10,510
+Chittoor,11,861
+Chittoor,12,8103
+Chittoor,13,54995
+Chittoor,14,57810
+Chittoor,15,16513
+Chittoor,16,9380
+East Godavari,1,51
+East Godavari,2,301
+East Godavari,3,2763
+East Godavari,4,35177
+East Godavari,5,39928
+East Godavari,6,29668
+East Godavari,7,12414
+East Godavari,8,2714
+East Godavari,9,1011
+East Godavari,10,333
+East Godavari,11,286
+East Godavari,12,2460
+East Godavari,13,49697
+East Godavari,14,71663
+East Godavari,15,22683
+East Godavari,16,11240
+Foreign Evacuees,1,204
+Foreign Evacuees,2,228
+Foreign Evacuees,3,2
+Foreign Evacuees,4,0
+Foreign Evacuees,5,0
+Foreign Evacuees,6,0
+Foreign Evacuees,7,0
+Foreign Evacuees,8,0
+Foreign Evacuees,9,0
+Foreign Evacuees,10,0
+Foreign Evacuees,11,0
+Foreign Evacuees,12,0
+Foreign Evacuees,13,0
+Foreign Evacuees,14,0
+Foreign Evacuees,15,0
+Guntur,1,404
+Guntur,2,219
+Guntur,3,2733
+Guntur,4,21584
+Guntur,5,21064
+Guntur,6,14953
+Guntur,7,9833
+Guntur,8,3178
+Guntur,9,1275
+Guntur,10,372
+Guntur,11,296
+Guntur,12,7606
+Guntur,13,46209
+Guntur,14,27837
+Guntur,15,7853
+Guntur,16,5077
+Krishna,1,351
+Krishna,2,350
+Krishna,3,2043
+Krishna,4,9039
+Krishna,5,9692
+Krishna,6,11435
+Krishna,7,10134
+Krishna,8,3677
+Krishna,9,1564
+Krishna,10,535
+Krishna,11,332
+Krishna,12,4379
+Krishna,13,20979
+Krishna,14,21343
+Krishna,15,8908
+Krishna,16,6838
+Kurnool,1,591
+Kurnool,2,385
+Kurnool,3,2847
+Kurnool,4,28189
+Kurnool,5,19954
+Kurnool,6,6467
+Kurnool,7,1482
+Kurnool,8,501
+Kurnool,9,298
+Kurnool,10,133
+Kurnool,11,114
+Kurnool,12,2752
+Kurnool,13,34742
+Kurnool,14,21248
+Kurnool,15,3006
+Kurnool,16,863
+Prakasam,1,63
+Prakasam,2,38
+Prakasam,3,1137
+Prakasam,4,9525
+Prakasam,5,26123
+Prakasam,6,18360
+Prakasam,7,5668
+Prakasam,8,890
+Prakasam,9,303
+Prakasam,10,86
+Prakasam,11,59
+Prakasam,12,2104
+Prakasam,13,24327
+Prakasam,14,26602
+Prakasam,15,10155
+Prakasam,16,6347
+S.P.S. Nellore,1,126
+S.P.S. Nellore,2,270
+S.P.S. Nellore,3,1023
+S.P.S. Nellore,4,14750
+S.P.S. Nellore,5,27961
+S.P.S. Nellore,6,13161
+S.P.S. Nellore,7,3563
+S.P.S. Nellore,8,955
+S.P.S. Nellore,9,438
+S.P.S. Nellore,10,151
+S.P.S. Nellore,11,138
+S.P.S. Nellore,12,3266
+S.P.S. Nellore,13,35211
+S.P.S. Nellore,14,22499
+S.P.S. Nellore,15,6880
+S.P.S. Nellore,16,6965
+Srikakulam,1,7
+Srikakulam,2,48
+Srikakulam,3,1359
+Srikakulam,4,11906
+Srikakulam,5,19427
+Srikakulam,6,9339
+Srikakulam,7,2909
+Srikakulam,8,728
+Srikakulam,9,319
+Srikakulam,10,120
+Srikakulam,11,138
+Srikakulam,12,2812
+Srikakulam,13,41803
+Srikakulam,14,23782
+Srikakulam,15,4961
+Srikakulam,16,1732
+Visakhapatnam,1,66
+Visakhapatnam,2,150
+Visakhapatnam,3,1273
+Visakhapatnam,4,21913
+Visakhapatnam,5,20936
+Visakhapatnam,6,8644
+Visakhapatnam,7,4256
+Visakhapatnam,8,1417
+Visakhapatnam,9,830
+Visakhapatnam,10,439
+Visakhapatnam,11,326
+Visakhapatnam,12,5743
+Visakhapatnam,13,42317
+Visakhapatnam,14,36976
+Visakhapatnam,15,5215
+Visakhapatnam,16,3197
+Vizianagaram,1,4
+Vizianagaram,2,68
+Vizianagaram,3,760
+Vizianagaram,4,10852
+Vizianagaram,5,16743
+Vizianagaram,6,9398
+Vizianagaram,7,2433
+Vizianagaram,8,618
+Vizianagaram,9,221
+Vizianagaram,10,52
+Vizianagaram,11,33
+Vizianagaram,12,1155
+Vizianagaram,13,19805
+Vizianagaram,14,15933
+Vizianagaram,15,2878
+Vizianagaram,16,823
+West Godavari,1,69
+West Godavari,2,217
+West Godavari,3,1740
+West Godavari,4,20051
+West Godavari,5,29488
+West Godavari,6,25194
+West Godavari,7,13345
+West Godavari,8,3293
+West Godavari,9,686
+West Godavari,10,203
+West Godavari,11,96
+West Godavari,12,480
+West Godavari,13,21742
+West Godavari,14,35583
+West Godavari,15,14164
+West Godavari,16,5636
+Y.S.R. Kadapa,1,99
+Y.S.R. Kadapa,2,148
+Y.S.R. Kadapa,3,1735
+Y.S.R. Kadapa,4,14151
+Y.S.R. Kadapa,5,20358
+Y.S.R. Kadapa,6,12367
+Y.S.R. Kadapa,7,4710
+Y.S.R. Kadapa,8,1085
+Y.S.R. Kadapa,9,490
+Y.S.R. Kadapa,10,173
+Y.S.R. Kadapa,11,151
+Y.S.R. Kadapa,12,2104
+Y.S.R. Kadapa,13,22122
+Y.S.R. Kadapa,14,22334
+Y.S.R. Kadapa,15,6561
+Y.S.R. Kadapa,16,3018
+Anjaw,1,0
+Anjaw,2,4
+Anjaw,3,30
+Anjaw,4,45
+Anjaw,5,80
+Anjaw,6,26
+Anjaw,7,15
+Anjaw,8,4
+Anjaw,9,0
+Anjaw,10,0
+Anjaw,11,0
+Anjaw,12,103
+Anjaw,13,286
+Anjaw,14,218
+Anjaw,15,183
+Capital Complex,1,0
+Capital Complex,2,0
+Capital Complex,3,0
+Capital Complex,4,0
+Capital Complex,5,0
+Capital Complex,6,0
+Capital Complex,7,0
+Capital Complex,8,0
+Capital Complex,9,0
+Capital Complex,10,0
+Capital Complex,11,0
+Capital Complex,12,0
+Capital Complex,13,0
+Capital Complex,14,0
+Capital Complex,15,0
+Changlang,1,59
+Changlang,2,52
+Changlang,3,198
+Changlang,4,304
+Changlang,5,418
+Changlang,6,157
+Changlang,7,77
+Changlang,8,13
+Changlang,9,4
+Changlang,10,1
+Changlang,11,2
+Changlang,12,274
+Changlang,13,1149
+Changlang,14,590
+Changlang,15,357
+East Kameng,1,0
+East Kameng,2,2
+East Kameng,3,148
+East Kameng,4,93
+East Kameng,5,52
+East Kameng,6,7
+East Kameng,7,2
+East Kameng,8,0
+East Kameng,9,0
+East Kameng,10,0
+East Kameng,11,0
+East Kameng,12,33
+East Kameng,13,346
+East Kameng,14,249
+East Kameng,15,139
+East Siang,1,9
+East Siang,2,13
+East Siang,3,161
+East Siang,4,234
+East Siang,5,303
+East Siang,6,302
+East Siang,7,80
+East Siang,8,38
+East Siang,9,4
+East Siang,10,0
+East Siang,11,3
+East Siang,12,201
+East Siang,13,434
+East Siang,14,686
+East Siang,15,495
+Kamle,1,0
+Kamle,2,0
+Kamle,3,1
+Kamle,4,2
+Kamle,5,16
+Kamle,6,10
+Kamle,7,0
+Kamle,8,1
+Kamle,9,0
+Kamle,10,0
+Kamle,11,0
+Kamle,12,6
+Kamle,13,118
+Kamle,14,145
+Kamle,15,179
+Kra Daadi,1,0
+Kra Daadi,2,0
+Kra Daadi,3,0
+Kra Daadi,4,4
+Kra Daadi,5,27
+Kra Daadi,6,5
+Kra Daadi,7,1
+Kra Daadi,8,0
+Kra Daadi,9,0
+Kra Daadi,10,0
+Kra Daadi,11,0
+Kra Daadi,12,13
+Kra Daadi,13,88
+Kra Daadi,14,77
+Kra Daadi,15,45
+Kurung Kumey,1,0
+Kurung Kumey,2,0
+Kurung Kumey,3,0
+Kurung Kumey,4,20
+Kurung Kumey,5,84
+Kurung Kumey,6,10
+Kurung Kumey,7,3
+Kurung Kumey,8,0
+Kurung Kumey,9,0
+Kurung Kumey,10,0
+Kurung Kumey,11,0
+Kurung Kumey,12,6
+Kurung Kumey,13,125
+Kurung Kumey,14,231
+Kurung Kumey,15,28
+Lepa Rada,1,0
+Lepa Rada,2,8
+Lepa Rada,3,9
+Lepa Rada,4,63
+Lepa Rada,5,81
+Lepa Rada,6,75
+Lepa Rada,7,39
+Lepa Rada,8,10
+Lepa Rada,9,1
+Lepa Rada,10,0
+Lepa Rada,11,3
+Lepa Rada,12,49
+Lepa Rada,13,103
+Lepa Rada,14,149
+Lepa Rada,15,202
+Lohit,1,1
+Lohit,2,1
+Lohit,3,2
+Lohit,4,112
+Lohit,5,75
+Lohit,6,179
+Lohit,7,184
+Lohit,8,8
+Lohit,9,10
+Lohit,10,1
+Lohit,11,0
+Lohit,12,2
+Lohit,13,206
+Lohit,14,600
+Lohit,15,657
+Lohit,16,650
+Longding,1,1
+Longding,2,4
+Longding,3,12
+Longding,4,69
+Longding,5,118
+Longding,6,38
+Longding,7,4
+Longding,8,4
+Longding,9,0
+Longding,10,0
+Longding,11,0
+Longding,12,21
+Longding,13,109
+Longding,14,228
+Longding,15,123
+Lower Dibang Valley,1,2
+Lower Dibang Valley,2,3
+Lower Dibang Valley,3,27
+Lower Dibang Valley,4,125
+Lower Dibang Valley,5,133
+Lower Dibang Valley,6,142
+Lower Dibang Valley,7,33
+Lower Dibang Valley,8,9
+Lower Dibang Valley,9,1
+Lower Dibang Valley,10,0
+Lower Dibang Valley,11,27
+Lower Dibang Valley,12,602
+Lower Dibang Valley,13,475
+Lower Dibang Valley,14,299
+Lower Dibang Valley,15,290
+Lower Siang,1,0
+Lower Siang,2,4
+Lower Siang,3,65
+Lower Siang,4,83
+Lower Siang,5,114
+Lower Siang,6,10
+Lower Siang,7,7
+Lower Siang,8,4
+Lower Siang,9,0
+Lower Siang,10,0
+Lower Siang,11,0
+Lower Siang,12,68
+Lower Siang,13,100
+Lower Siang,14,98
+Lower Siang,15,156
+Lower Subansiri,1,0
+Lower Subansiri,2,12
+Lower Subansiri,3,28
+Lower Subansiri,4,77
+Lower Subansiri,5,156
+Lower Subansiri,6,91
+Lower Subansiri,7,17
+Lower Subansiri,8,0
+Lower Subansiri,9,0
+Lower Subansiri,10,0
+Lower Subansiri,11,0
+Lower Subansiri,12,287
+Lower Subansiri,13,664
+Lower Subansiri,14,376
+Lower Subansiri,15,939
+Namsai,1,3
+Namsai,2,21
+Namsai,3,155
+Namsai,4,33
+Namsai,5,89
+Namsai,6,104
+Namsai,7,20
+Namsai,8,5
+Namsai,9,1
+Namsai,10,3
+Namsai,11,4
+Namsai,12,194
+Namsai,13,737
+Namsai,14,296
+Namsai,15,304
+Pakke Kessang,1,0
+Pakke Kessang,2,1
+Pakke Kessang,3,0
+Pakke Kessang,4,30
+Pakke Kessang,5,62
+Pakke Kessang,6,30
+Pakke Kessang,7,6
+Pakke Kessang,8,3
+Pakke Kessang,9,0
+Pakke Kessang,10,0
+Pakke Kessang,11,0
+Pakke Kessang,12,23
+Pakke Kessang,13,66
+Pakke Kessang,14,124
+Pakke Kessang,15,51
+Papum Pare,1,8
+Papum Pare,2,212
+Papum Pare,3,807
+Papum Pare,4,1316
+Papum Pare,5,3232
+Papum Pare,6,947
+Papum Pare,7,200
+Papum Pare,8,50
+Papum Pare,9,7
+Papum Pare,10,1
+Papum Pare,11,24
+Papum Pare,12,1626
+Papum Pare,13,2406
+Papum Pare,14,2849
+Papum Pare,15,3618
+Shi Yomi,1,0
+Shi Yomi,2,0
+Shi Yomi,3,4
+Shi Yomi,4,17
+Shi Yomi,5,5
+Shi Yomi,6,68
+Shi Yomi,7,10
+Shi Yomi,8,0
+Shi Yomi,9,0
+Shi Yomi,10,0
+Shi Yomi,11,0
+Shi Yomi,12,3
+Shi Yomi,13,22
+Shi Yomi,14,30
+Shi Yomi,15,65
+Siang,1,0
+Siang,2,1
+Siang,3,2
+Siang,4,41
+Siang,5,20
+Siang,6,54
+Siang,7,13
+Siang,8,2
+Siang,9,0
+Siang,10,0
+Siang,11,0
+Siang,12,4
+Siang,13,37
+Siang,14,93
+Siang,15,126
+Tawang,1,1
+Tawang,2,0
+Tawang,3,66
+Tawang,4,160
+Tawang,5,102
+Tawang,6,64
+Tawang,7,31
+Tawang,8,65
+Tawang,9,3
+Tawang,10,0
+Tawang,11,0
+Tawang,12,183
+Tawang,13,837
+Tawang,14,365
+Tawang,15,422
+Tirap,1,1
+Tirap,2,5
+Tirap,3,71
+Tirap,4,147
+Tirap,5,230
+Tirap,6,110
+Tirap,7,17
+Tirap,8,6
+Tirap,9,0
+Tirap,10,2
+Tirap,11,2
+Tirap,12,69
+Tirap,13,73
+Tirap,14,131
+Tirap,15,144
+Upper Dibang Valley,1,0
+Upper Dibang Valley,2,0
+Upper Dibang Valley,3,0
+Upper Dibang Valley,4,4
+Upper Dibang Valley,5,12
+Upper Dibang Valley,6,7
+Upper Dibang Valley,7,0
+Upper Dibang Valley,8,0
+Upper Dibang Valley,9,0
+Upper Dibang Valley,10,0
+Upper Dibang Valley,11,0
+Upper Dibang Valley,12,57
+Upper Dibang Valley,13,113
+Upper Dibang Valley,14,35
+Upper Dibang Valley,15,62
+Upper Siang,1,1
+Upper Siang,2,0
+Upper Siang,3,30
+Upper Siang,4,73
+Upper Siang,5,84
+Upper Siang,6,135
+Upper Siang,7,35
+Upper Siang,8,2
+Upper Siang,9,1
+Upper Siang,10,0
+Upper Siang,11,0
+Upper Siang,12,32
+Upper Siang,13,224
+Upper Siang,14,100
+Upper Siang,15,179
+Upper Subansiri,1,0
+Upper Subansiri,2,1
+Upper Subansiri,3,12
+Upper Subansiri,4,155
+Upper Subansiri,5,185
+Upper Subansiri,6,83
+Upper Subansiri,7,4
+Upper Subansiri,8,1
+Upper Subansiri,9,0
+Upper Subansiri,10,0
+Upper Subansiri,11,2
+Upper Subansiri,12,70
+Upper Subansiri,13,481
+Upper Subansiri,14,524
+Upper Subansiri,15,396
+West Kameng,1,3
+West Kameng,2,25
+West Kameng,3,127
+West Kameng,4,279
+West Kameng,5,203
+West Kameng,6,165
+West Kameng,7,104
+West Kameng,8,33
+West Kameng,9,10
+West Kameng,10,1
+West Kameng,11,3
+West Kameng,12,276
+West Kameng,13,605
+West Kameng,14,844
+West Kameng,15,529
+West Siang,1,1
+West Siang,2,1
+West Siang,3,80
+West Siang,4,241
+West Siang,5,486
+West Siang,6,200
+West Siang,7,18
+West Siang,8,2
+West Siang,9,1
+West Siang,10,0
+West Siang,11,0
+West Siang,12,55
+West Siang,13,77
+West Siang,14,237
+West Siang,15,339
+Dibrugarh,1,0
+Dibrugarh,2,0
+Dibrugarh,3,0
+Dibrugarh,4,0
+Dibrugarh,5,0
+Dibrugarh,6,0
+Dibrugarh,7,0
+Dibrugarh,8,0
+Dibrugarh,9,0
+Dibrugarh,10,0
+Dibrugarh,11,0
+Dibrugarh,12,0
+Dibrugarh,13,0
+Udalguri,1,0
+Udalguri,2,0
+Udalguri,3,0
+Udalguri,4,0
+Udalguri,5,0
+Udalguri,6,0
+Udalguri,7,0
+Udalguri,8,0
+Udalguri,9,0
+Udalguri,10,0
+Udalguri,11,0
+Udalguri,12,0
+Udalguri,13,0
+Udalguri,14,0
+Araria,1,4
+Araria,2,84
+Araria,3,108
+Araria,4,1638
+Araria,5,2452
+Araria,6,1594
+Araria,7,868
+Araria,8,327
+Araria,9,120
+Araria,10,59
+Araria,11,14
+Araria,12,368
+Araria,13,4701
+Araria,14,2440
+Araria,15,148
+Araria,16,38
+Arwal,1,12
+Arwal,2,58
+Arwal,3,123
+Arwal,4,784
+Arwal,5,559
+Arwal,6,420
+Arwal,7,171
+Arwal,8,83
+Arwal,9,159
+Arwal,10,59
+Arwal,11,1
+Arwal,12,360
+Arwal,13,3825
+Arwal,14,667
+Arwal,15,69
+Arwal,16,29
+Aurangabad,1,18
+Aurangabad,2,111
+Aurangabad,3,209
+Aurangabad,4,1417
+Aurangabad,5,1560
+Aurangabad,6,659
+Aurangabad,7,613
+Aurangabad,8,350
+Aurangabad,9,444
+Aurangabad,10,146
+Aurangabad,11,51
+Aurangabad,12,537
+Aurangabad,13,12247
+Aurangabad,14,1540
+Aurangabad,15,61
+Aurangabad,16,47
+Banka,1,15
+Banka,2,157
+Banka,3,139
+Banka,4,965
+Banka,5,725
+Banka,6,841
+Banka,7,284
+Banka,8,223
+Banka,9,175
+Banka,10,71
+Banka,11,18
+Banka,12,205
+Banka,13,2879
+Banka,14,629
+Banka,15,39
+Banka,16,14
+Begusarai,1,47
+Begusarai,2,252
+Begusarai,3,628
+Begusarai,4,2889
+Begusarai,5,2051
+Begusarai,6,749
+Begusarai,7,464
+Begusarai,8,366
+Begusarai,9,520
+Begusarai,10,152
+Begusarai,11,48
+Begusarai,12,756
+Begusarai,13,14299
+Begusarai,14,3705
+Begusarai,15,182
+Begusarai,16,75
+Bhagalpur,1,33
+Bhagalpur,2,293
+Bhagalpur,3,808
+Bhagalpur,4,2786
+Bhagalpur,5,2708
+Bhagalpur,6,1258
+Bhagalpur,7,800
+Bhagalpur,8,496
+Bhagalpur,9,291
+Bhagalpur,10,76
+Bhagalpur,11,41
+Bhagalpur,12,2042
+Bhagalpur,13,11955
+Bhagalpur,14,2050
+Bhagalpur,15,128
+Bhagalpur,16,62
+Bhojpur,1,29
+Bhojpur,2,116
+Bhojpur,3,273
+Bhojpur,4,2294
+Bhojpur,5,1164
+Bhojpur,6,469
+Bhojpur,7,365
+Bhojpur,8,134
+Bhojpur,9,217
+Bhojpur,10,47
+Bhojpur,11,18
+Bhojpur,12,591
+Bhojpur,13,3752
+Bhojpur,14,599
+Bhojpur,15,62
+Bhojpur,16,44
+Buxar,1,59
+Buxar,2,99
+Buxar,3,177
+Buxar,4,1960
+Buxar,5,908
+Buxar,6,391
+Buxar,7,172
+Buxar,8,141
+Buxar,9,102
+Buxar,10,16
+Buxar,11,2
+Buxar,12,437
+Buxar,13,4090
+Buxar,14,664
+Buxar,15,22
+Buxar,16,8
+Darbhanga,1,16
+Darbhanga,2,133
+Darbhanga,3,271
+Darbhanga,4,1213
+Darbhanga,5,1167
+Darbhanga,6,570
+Darbhanga,7,324
+Darbhanga,8,269
+Darbhanga,9,194
+Darbhanga,10,103
+Darbhanga,11,23
+Darbhanga,12,320
+Darbhanga,13,3894
+Darbhanga,14,2079
+Darbhanga,15,249
+Darbhanga,16,83
+East Champaran,1,15
+East Champaran,2,128
+East Champaran,3,327
+East Champaran,4,2768
+East Champaran,5,2596
+East Champaran,6,1351
+East Champaran,7,682
+East Champaran,8,327
+East Champaran,9,191
+East Champaran,10,65
+East Champaran,11,26
+East Champaran,12,408
+East Champaran,13,7473
+East Champaran,14,2393
+East Champaran,15,197
+East Champaran,16,53
+Gaya,1,8
+Gaya,2,127
+Gaya,3,387
+Gaya,4,3033
+Gaya,5,1612
+Gaya,6,985
+Gaya,7,921
+Gaya,8,499
+Gaya,9,308
+Gaya,10,206
+Gaya,11,39
+Gaya,12,2187
+Gaya,13,20607
+Gaya,14,2868
+Gaya,15,100
+Gaya,16,53
+Gopalganj,1,24
+Gopalganj,2,143
+Gopalganj,3,326
+Gopalganj,4,1361
+Gopalganj,5,1637
+Gopalganj,6,1151
+Gopalganj,7,650
+Gopalganj,8,338
+Gopalganj,9,161
+Gopalganj,10,30
+Gopalganj,11,8
+Gopalganj,12,467
+Gopalganj,13,7058
+Gopalganj,14,3030
+Gopalganj,15,268
+Gopalganj,16,19
+Jamui,1,1
+Jamui,2,50
+Jamui,3,181
+Jamui,4,1018
+Jamui,5,610
+Jamui,6,770
+Jamui,7,312
+Jamui,8,171
+Jamui,9,39
+Jamui,10,14
+Jamui,11,6
+Jamui,12,174
+Jamui,13,5248
+Jamui,14,726
+Jamui,15,65
+Jamui,16,28
+Jehanabad,1,26
+Jehanabad,2,161
+Jehanabad,3,174
+Jehanabad,4,1364
+Jehanabad,5,945
+Jehanabad,6,632
+Jehanabad,7,647
+Jehanabad,8,325
+Jehanabad,9,283
+Jehanabad,10,31
+Jehanabad,11,10
+Jehanabad,12,1135
+Jehanabad,13,4562
+Jehanabad,14,443
+Jehanabad,15,24
+Jehanabad,16,12
+Kaimur,1,33
+Kaimur,2,105
+Kaimur,3,112
+Kaimur,4,707
+Kaimur,5,507
+Kaimur,6,268
+Kaimur,7,138
+Kaimur,8,93
+Kaimur,9,211
+Kaimur,10,82
+Kaimur,11,16
+Kaimur,12,192
+Kaimur,13,2213
+Kaimur,14,267
+Kaimur,15,30
+Kaimur,16,9
+Katihar,1,12
+Katihar,2,211
+Katihar,3,278
+Katihar,4,2868
+Katihar,5,1800
+Katihar,6,993
+Katihar,7,488
+Katihar,8,393
+Katihar,9,164
+Katihar,10,23
+Katihar,11,19
+Katihar,12,304
+Katihar,13,7928
+Katihar,14,2410
+Katihar,15,174
+Katihar,16,64
+Khagaria,1,36
+Khagaria,2,255
+Khagaria,3,183
+Khagaria,4,1393
+Khagaria,5,650
+Khagaria,6,274
+Khagaria,7,130
+Khagaria,8,82
+Khagaria,9,117
+Khagaria,10,13
+Khagaria,11,14
+Khagaria,12,152
+Khagaria,13,5422
+Khagaria,14,1114
+Khagaria,15,142
+Khagaria,16,80
+Kishanganj,1,10
+Kishanganj,2,112
+Kishanganj,3,125
+Kishanganj,4,1077
+Kishanganj,5,1288
+Kishanganj,6,765
+Kishanganj,7,533
+Kishanganj,8,276
+Kishanganj,9,124
+Kishanganj,10,10
+Kishanganj,11,2
+Kishanganj,12,261
+Kishanganj,13,3314
+Kishanganj,14,1930
+Kishanganj,15,216
+Kishanganj,16,64
+Lakhisarai,1,12
+Lakhisarai,2,60
+Lakhisarai,3,183
+Lakhisarai,4,995
+Lakhisarai,5,1012
+Lakhisarai,6,764
+Lakhisarai,7,343
+Lakhisarai,8,233
+Lakhisarai,9,185
+Lakhisarai,10,56
+Lakhisarai,11,19
+Lakhisarai,12,271
+Lakhisarai,13,2711
+Lakhisarai,14,755
+Lakhisarai,15,136
+Lakhisarai,16,36
+Madhepura,1,9
+Madhepura,2,133
+Madhepura,3,141
+Madhepura,4,1035
+Madhepura,5,1314
+Madhepura,6,1224
+Madhepura,7,628
+Madhepura,8,245
+Madhepura,9,123
+Madhepura,10,26
+Madhepura,11,14
+Madhepura,12,268
+Madhepura,13,5440
+Madhepura,14,1703
+Madhepura,15,174
+Madhepura,16,46
+Madhubani,1,31
+Madhubani,2,261
+Madhubani,3,375
+Madhubani,4,1882
+Madhubani,5,2863
+Madhubani,6,1144
+Madhubani,7,578
+Madhubani,8,312
+Madhubani,9,231
+Madhubani,10,57
+Madhubani,11,43
+Madhubani,12,291
+Madhubani,13,7488
+Madhubani,14,2554
+Madhubani,15,159
+Madhubani,16,70
+Munger,1,122
+Munger,2,148
+Munger,3,424
+Munger,4,1190
+Munger,5,735
+Munger,6,659
+Munger,7,555
+Munger,8,236
+Munger,9,150
+Munger,10,39
+Munger,11,27
+Munger,12,701
+Munger,13,8033
+Munger,14,1962
+Munger,15,103
+Munger,16,18
+Muzaffarpur,1,18
+Muzaffarpur,2,144
+Muzaffarpur,3,679
+Muzaffarpur,4,3140
+Muzaffarpur,5,3141
+Muzaffarpur,6,1847
+Muzaffarpur,7,1345
+Muzaffarpur,8,784
+Muzaffarpur,9,710
+Muzaffarpur,10,121
+Muzaffarpur,11,46
+Muzaffarpur,12,1518
+Muzaffarpur,13,13917
+Muzaffarpur,14,3672
+Muzaffarpur,15,220
+Muzaffarpur,16,80
+Nalanda,1,66
+Nalanda,2,82
+Nalanda,3,511
+Nalanda,4,2943
+Nalanda,5,1538
+Nalanda,6,1354
+Nalanda,7,969
+Nalanda,8,416
+Nalanda,9,380
+Nalanda,10,75
+Nalanda,11,35
+Nalanda,12,492
+Nalanda,13,11796
+Nalanda,14,2580
+Nalanda,15,142
+Nalanda,16,45
+Nawada,1,24
+Nawada,2,158
+Nawada,3,477
+Nawada,4,1155
+Nawada,5,634
+Nawada,6,614
+Nawada,7,620
+Nawada,8,305
+Nawada,9,221
+Nawada,10,33
+Nawada,11,88
+Nawada,12,379
+Nawada,13,4659
+Nawada,14,826
+Nawada,15,115
+Nawada,16,37
+Patna,1,99
+Patna,2,230
+Patna,3,1930
+Patna,4,13609
+Patna,5,8322
+Patna,6,7332
+Patna,7,7569
+Patna,8,6119
+Patna,9,5926
+Patna,10,1461
+Patna,11,429
+Patna,12,11764
+Patna,13,67757
+Patna,14,13198
+Patna,15,879
+Patna,16,222
+Purnia,1,12
+Purnia,2,208
+Purnia,3,164
+Purnia,4,2120
+Purnia,5,2582
+Purnia,6,2192
+Purnia,7,1217
+Purnia,8,625
+Purnia,9,217
+Purnia,10,64
+Purnia,11,38
+Purnia,12,618
+Purnia,13,10807
+Purnia,14,3119
+Purnia,15,364
+Purnia,16,66
+Rohtas,1,77
+Rohtas,2,205
+Rohtas,3,240
+Rohtas,4,2995
+Rohtas,5,1335
+Rohtas,6,1090
+Rohtas,7,416
+Rohtas,8,225
+Rohtas,9,207
+Rohtas,10,58
+Rohtas,11,18
+Rohtas,12,523
+Rohtas,13,5742
+Rohtas,14,695
+Rohtas,15,82
+Rohtas,16,54
+Saharsa,1,10
+Saharsa,2,98
+Saharsa,3,214
+Saharsa,4,1671
+Saharsa,5,2122
+Saharsa,6,1155
+Saharsa,7,913
+Saharsa,8,408
+Saharsa,9,216
+Saharsa,10,51
+Saharsa,11,11
+Saharsa,12,596
+Saharsa,13,7990
+Saharsa,14,1835
+Saharsa,15,228
+Saharsa,16,74
+Samastipur,1,11
+Samastipur,2,154
+Samastipur,3,339
+Samastipur,4,2070
+Samastipur,5,1269
+Samastipur,6,595
+Samastipur,7,371
+Samastipur,8,244
+Samastipur,9,204
+Samastipur,10,73
+Samastipur,11,26
+Samastipur,12,671
+Samastipur,13,10091
+Samastipur,14,3543
+Samastipur,15,232
+Samastipur,16,95
+Saran,1,10
+Saran,2,150
+Saran,3,262
+Saran,4,2650
+Saran,5,1880
+Saran,6,846
+Saran,7,544
+Saran,8,421
+Saran,9,538
+Saran,10,130
+Saran,11,24
+Saran,12,753
+Saran,13,12655
+Saran,14,2057
+Saran,15,311
+Saran,16,36
+Sheikhpura,1,12
+Sheikhpura,2,111
+Sheikhpura,3,92
+Sheikhpura,4,1124
+Sheikhpura,5,648
+Sheikhpura,6,583
+Sheikhpura,7,330
+Sheikhpura,8,59
+Sheikhpura,9,31
+Sheikhpura,10,9
+Sheikhpura,11,1
+Sheikhpura,12,186
+Sheikhpura,13,4003
+Sheikhpura,14,443
+Sheikhpura,15,37
+Sheikhpura,16,21
+Sheohar,1,3
+Sheohar,2,66
+Sheohar,3,50
+Sheohar,4,415
+Sheohar,5,410
+Sheohar,6,230
+Sheohar,7,104
+Sheohar,8,99
+Sheohar,9,115
+Sheohar,10,47
+Sheohar,11,8
+Sheohar,12,74
+Sheohar,13,1980
+Sheohar,14,744
+Sheohar,15,36
+Sheohar,16,16
+Sitamarhi,1,7
+Sitamarhi,2,112
+Sitamarhi,3,73
+Sitamarhi,4,1510
+Sitamarhi,5,1407
+Sitamarhi,6,441
+Sitamarhi,7,404
+Sitamarhi,8,238
+Sitamarhi,9,231
+Sitamarhi,10,38
+Sitamarhi,11,20
+Sitamarhi,12,287
+Sitamarhi,13,3182
+Sitamarhi,14,1109
+Sitamarhi,15,64
+Sitamarhi,16,51
+Siwan,1,38
+Siwan,2,207
+Siwan,3,521
+Siwan,4,1612
+Siwan,5,946
+Siwan,6,616
+Siwan,7,349
+Siwan,8,228
+Siwan,9,239
+Siwan,10,60
+Siwan,11,11
+Siwan,12,681
+Siwan,13,7634
+Siwan,14,1884
+Siwan,15,139
+Siwan,16,30
+Supaul,1,9
+Supaul,2,163
+Supaul,3,218
+Supaul,4,1364
+Supaul,5,1416
+Supaul,6,1464
+Supaul,7,502
+Supaul,8,365
+Supaul,9,100
+Supaul,10,31
+Supaul,11,11
+Supaul,12,224
+Supaul,13,7961
+Supaul,14,3149
+Supaul,15,193
+Supaul,16,35
+Vaishali,1,6
+Vaishali,2,108
+Vaishali,3,279
+Vaishali,4,2460
+Vaishali,5,955
+Vaishali,6,756
+Vaishali,7,352
+Vaishali,8,333
+Vaishali,9,266
+Vaishali,10,124
+Vaishali,11,37
+Vaishali,12,427
+Vaishali,13,10956
+Vaishali,14,2519
+Vaishali,15,185
+Vaishali,16,46
+West Champaran,1,25
+West Champaran,2,83
+West Champaran,3,377
+West Champaran,4,2042
+West Champaran,5,1688
+West Champaran,6,977
+West Champaran,7,449
+West Champaran,8,216
+West Champaran,9,160
+West Champaran,10,42
+West Champaran,11,22
+West Champaran,12,526
+West Champaran,13,12239
+West Champaran,14,1959
+West Champaran,15,56
+West Champaran,16,25
+Chandigarh,1,191
+Chandigarh,2,161
+Chandigarh,3,248
+Chandigarh,4,1328
+Chandigarh,5,6317
+Chandigarh,6,5158
+Chandigarh,7,2233
+Chandigarh,8,3078
+Chandigarh,9,1724
+Chandigarh,10,800
+Chandigarh,11,1858
+Chandigarh,12,8889
+Chandigarh,13,22058
+Chandigarh,14,7117
+Chandigarh,15,691
+Chandigarh,16,177
+Balod,1,1
+Balod,2,40
+Balod,3,26
+Balod,4,82
+Balod,5,975
+Balod,6,2305
+Balod,7,2317
+Balod,8,2477
+Balod,9,1395
+Balod,10,225
+Balod,11,53
+Balod,12,4056
+Balod,13,10796
+Balod,14,2226
+Balod,15,216
+Balod,16,68
+Baloda Bazar,1,138
+Baloda Bazar,2,158
+Baloda Bazar,3,229
+Baloda Bazar,4,1104
+Baloda Bazar,5,2488
+Baloda Bazar,6,1911
+Baloda Bazar,7,2137
+Baloda Bazar,8,1111
+Baloda Bazar,9,749
+Baloda Bazar,10,197
+Baloda Bazar,11,6432
+Baloda Bazar,12,21287
+Baloda Bazar,13,4394
+Baloda Bazar,14,411
+Baloda Bazar,15,261
+Balrampur,1,65
+Balrampur,2,97
+Balrampur,3,86
+Balrampur,4,339
+Balrampur,5,929
+Balrampur,6,817
+Balrampur,7,683
+Balrampur,8,578
+Balrampur,9,177
+Balrampur,10,44
+Balrampur,11,963
+Balrampur,12,10231
+Balrampur,13,4907
+Balrampur,14,292
+Balrampur,15,72
+Bametara,1,37
+Bametara,2,51
+Bametara,3,107
+Bametara,4,566
+Bametara,5,1131
+Bametara,6,1261
+Bametara,7,1021
+Bametara,8,547
+Bametara,9,347
+Bametara,10,76
+Bametara,11,5565
+Bametara,12,8032
+Bametara,13,1004
+Bametara,14,180
+Bametara,15,20
+Bastar,1,5
+Bastar,2,60
+Bastar,3,326
+Bastar,4,1120
+Bastar,5,3501
+Bastar,6,1850
+Bastar,7,590
+Bastar,8,222
+Bastar,9,1396
+Bastar,10,127
+Bastar,11,1755
+Bastar,12,5646
+Bastar,13,3153
+Bastar,14,778
+Bastar,15,424
+Bijapur,1,0
+Bijapur,2,18
+Bijapur,3,101
+Bijapur,4,866
+Bijapur,5,1683
+Bijapur,6,945
+Bijapur,7,329
+Bijapur,8,56
+Bijapur,9,118
+Bijapur,10,11
+Bijapur,11,125
+Bijapur,12,1031
+Bijapur,13,1552
+Bijapur,14,1189
+Bijapur,15,245
+Bilaspur,1,1
+Bilaspur,2,159
+Bilaspur,3,149
+Bilaspur,4,651
+Bilaspur,5,3800
+Bilaspur,6,4661
+Bilaspur,7,3669
+Bilaspur,8,3338
+Bilaspur,9,2687
+Bilaspur,10,2376
+Bilaspur,11,615
+Bilaspur,12,10091
+Bilaspur,13,29973
+Bilaspur,14,2738
+Bilaspur,15,299
+Bilaspur,16,264
+Dakshin Bastar Dantewada,1,2
+Dakshin Bastar Dantewada,2,50
+Dakshin Bastar Dantewada,3,111
+Dakshin Bastar Dantewada,4,657
+Dakshin Bastar Dantewada,5,2598
+Dakshin Bastar Dantewada,6,1632
+Dakshin Bastar Dantewada,7,668
+Dakshin Bastar Dantewada,8,188
+Dakshin Bastar Dantewada,9,184
+Dakshin Bastar Dantewada,10,50
+Dakshin Bastar Dantewada,11,471
+Dakshin Bastar Dantewada,12,2048
+Dakshin Bastar Dantewada,13,1452
+Dakshin Bastar Dantewada,14,528
+Dakshin Bastar Dantewada,15,115
+Dhamtari,1,8
+Dhamtari,2,10
+Dhamtari,3,53
+Dhamtari,4,949
+Dhamtari,5,2453
+Dhamtari,6,1876
+Dhamtari,7,1654
+Dhamtari,8,1332
+Dhamtari,9,-1
+Dhamtari,10,160
+Dhamtari,11,4145
+Dhamtari,12,11494
+Dhamtari,13,2541
+Dhamtari,14,378
+Dhamtari,15,145
+Durg,1,10
+Durg,2,54
+Durg,3,166
+Durg,4,1088
+Durg,5,5270
+Durg,6,7415
+Durg,7,3360
+Durg,8,3455
+Durg,9,3408
+Durg,10,2913
+Durg,11,1723
+Durg,12,31526
+Durg,13,33258
+Durg,14,2260
+Durg,15,430
+Durg,16,316
+Gariaband,1,12
+Gariaband,2,46
+Gariaband,3,80
+Gariaband,4,624
+Gariaband,5,1223
+Gariaband,6,1072
+Gariaband,7,671
+Gariaband,8,345
+Gariaband,9,569
+Gariaband,10,105
+Gariaband,11,2757
+Gariaband,12,10305
+Gariaband,13,1608
+Gariaband,14,182
+Gariaband,15,74
+Gaurela Pendra Marwahi,1,3
+Gaurela Pendra Marwahi,2,4
+Gaurela Pendra Marwahi,3,26
+Gaurela Pendra Marwahi,4,158
+Gaurela Pendra Marwahi,5,257
+Gaurela Pendra Marwahi,6,220
+Gaurela Pendra Marwahi,7,243
+Gaurela Pendra Marwahi,8,239
+Gaurela Pendra Marwahi,9,348
+Gaurela Pendra Marwahi,10,28
+Gaurela Pendra Marwahi,11,1023
+Gaurela Pendra Marwahi,12,7367
+Gaurela Pendra Marwahi,13,1969
+Gaurela Pendra Marwahi,14,87
+Gaurela Pendra Marwahi,15,34
+Janjgir Champa,1,136
+Janjgir Champa,2,163
+Janjgir Champa,3,282
+Janjgir Champa,4,1952
+Janjgir Champa,5,5398
+Janjgir Champa,6,5492
+Janjgir Champa,7,3862
+Janjgir Champa,8,2031
+Janjgir Champa,9,1285
+Janjgir Champa,10,132
+Janjgir Champa,11,3970
+Janjgir Champa,12,26008
+Janjgir Champa,13,5567
+Janjgir Champa,14,777
+Janjgir Champa,15,406
+Jashpur,1,85
+Jashpur,2,107
+Jashpur,3,103
+Jashpur,4,429
+Jashpur,5,650
+Jashpur,6,847
+Jashpur,7,681
+Jashpur,8,835
+Jashpur,9,256
+Jashpur,10,297
+Jashpur,11,3398
+Jashpur,12,13474
+Jashpur,13,4911
+Jashpur,14,599
+Jashpur,15,278
+Kabeerdham,1,6
+Kabeerdham,2,82
+Kabeerdham,3,30
+Kabeerdham,4,120
+Kabeerdham,5,917
+Kabeerdham,6,1754
+Kabeerdham,7,1451
+Kabeerdham,8,895
+Kabeerdham,9,451
+Kabeerdham,10,256
+Kabeerdham,11,55
+Kabeerdham,12,4007
+Kabeerdham,13,11183
+Kabeerdham,14,1453
+Kabeerdham,15,83
+Kabeerdham,16,27
+Kondagaon,1,1
+Kondagaon,2,7
+Kondagaon,3,182
+Kondagaon,4,519
+Kondagaon,5,1422
+Kondagaon,6,1743
+Kondagaon,7,850
+Kondagaon,8,377
+Kondagaon,9,180
+Kondagaon,10,16
+Kondagaon,11,650
+Kondagaon,12,4940
+Kondagaon,13,1693
+Kondagaon,14,359
+Kondagaon,15,133
+Korba,1,28
+Korba,2,211
+Korba,3,105
+Korba,4,152
+Korba,5,986
+Korba,6,4321
+Korba,7,4992
+Korba,8,4049
+Korba,9,1624
+Korba,10,531
+Korba,11,251
+Korba,12,5927
+Korba,13,26646
+Korba,14,4209
+Korba,15,352
+Korba,16,208
+Koriya,1,47
+Koriya,2,30
+Koriya,3,89
+Koriya,4,757
+Koriya,5,1285
+Koriya,6,1099
+Koriya,7,923
+Koriya,8,841
+Koriya,9,313
+Koriya,10,225
+Koriya,11,2004
+Koriya,12,12878
+Koriya,13,5883
+Koriya,14,415
+Koriya,15,134
+Mahasamund,1,72
+Mahasamund,2,19
+Mahasamund,3,154
+Mahasamund,4,1151
+Mahasamund,5,1922
+Mahasamund,6,1716
+Mahasamund,7,1946
+Mahasamund,8,1468
+Mahasamund,9,983
+Mahasamund,10,163
+Mahasamund,11,5893
+Mahasamund,12,12865
+Mahasamund,13,2661
+Mahasamund,14,207
+Mahasamund,15,104
+Mungeli,1,110
+Mungeli,2,22
+Mungeli,3,52
+Mungeli,4,597
+Mungeli,5,1341
+Mungeli,6,1095
+Mungeli,7,487
+Mungeli,8,229
+Mungeli,9,190
+Mungeli,10,36
+Mungeli,11,2149
+Mungeli,12,14824
+Mungeli,13,2619
+Mungeli,14,109
+Mungeli,15,33
+Narayanpur,1,0
+Narayanpur,2,116
+Narayanpur,3,149
+Narayanpur,4,523
+Narayanpur,5,790
+Narayanpur,6,253
+Narayanpur,7,66
+Narayanpur,8,31
+Narayanpur,9,37
+Narayanpur,10,6
+Narayanpur,11,137
+Narayanpur,12,853
+Narayanpur,13,781
+Narayanpur,14,187
+Narayanpur,15,77
+Raigarh,1,68
+Raigarh,2,82
+Raigarh,3,380
+Raigarh,4,3220
+Raigarh,5,5999
+Raigarh,6,5823
+Raigarh,7,4182
+Raigarh,8,2236
+Raigarh,9,2056
+Raigarh,10,231
+Raigarh,11,3796
+Raigarh,12,27569
+Raigarh,13,6195
+Raigarh,14,423
+Raigarh,15,226
+Raipur,1,7
+Raipur,2,127
+Raipur,3,707
+Raipur,4,4132
+Raipur,5,17633
+Raipur,6,15649
+Raipur,7,5073
+Raipur,8,6008
+Raipur,9,5558
+Raipur,10,-297
+Raipur,11,2544
+Raipur,12,45740
+Raipur,13,49343
+Raipur,14,4637
+Raipur,15,611
+Raipur,16,331
+Rajnandgaon,1,1
+Rajnandgaon,2,78
+Rajnandgaon,3,306
+Rajnandgaon,4,734
+Rajnandgaon,5,4233
+Rajnandgaon,6,4574
+Rajnandgaon,7,3394
+Rajnandgaon,8,3537
+Rajnandgaon,9,2436
+Rajnandgaon,10,493
+Rajnandgaon,11,395
+Rajnandgaon,12,13917
+Rajnandgaon,13,20060
+Rajnandgaon,14,1634
+Rajnandgaon,15,140
+Rajnandgaon,16,80
+Sukma,1,0
+Sukma,2,24
+Sukma,3,164
+Sukma,4,734
+Sukma,5,1595
+Sukma,6,960
+Sukma,7,192
+Sukma,8,101
+Sukma,9,242
+Sukma,10,5
+Sukma,11,134
+Sukma,12,1100
+Sukma,13,1481
+Sukma,14,991
+Sukma,15,252
+Surajpur,1,6
+Surajpur,2,8
+Surajpur,3,18
+Surajpur,4,82
+Surajpur,5,759
+Surajpur,6,1550
+Surajpur,7,1292
+Surajpur,8,1131
+Surajpur,9,1238
+Surajpur,10,388
+Surajpur,11,257
+Surajpur,12,2567
+Surajpur,13,13103
+Surajpur,14,6227
+Surajpur,15,295
+Surajpur,16,95
+Surguja,1,27
+Surguja,2,80
+Surguja,3,178
+Surguja,4,1081
+Surguja,5,2228
+Surguja,6,1411
+Surguja,7,1570
+Surguja,8,1419
+Surguja,9,219
+Surguja,10,343
+Surguja,11,3511
+Surguja,12,15089
+Surguja,13,5932
+Surguja,14,438
+Surguja,15,115
+Uttar Bastar Kanker,1,26
+Uttar Bastar Kanker,2,64
+Uttar Bastar Kanker,3,262
+Uttar Bastar Kanker,4,738
+Uttar Bastar Kanker,5,2185
+Uttar Bastar Kanker,6,1624
+Uttar Bastar Kanker,7,870
+Uttar Bastar Kanker,8,435
+Uttar Bastar Kanker,9,464
+Uttar Bastar Kanker,10,82
+Uttar Bastar Kanker,11,2150
+Uttar Bastar Kanker,12,12148
+Uttar Bastar Kanker,13,1915
+Uttar Bastar Kanker,14,265
+Uttar Bastar Kanker,15,314
+Dadra and Nagar Haveli,1,1
+Dadra and Nagar Haveli,2,29
+Dadra and Nagar Haveli,3,210
+Dadra and Nagar Haveli,4,563
+Dadra and Nagar Haveli,5,533
+Dadra and Nagar Haveli,6,206
+Dadra and Nagar Haveli,7,57
+Dadra and Nagar Haveli,8,39
+Dadra and Nagar Haveli,9,12
+Dadra and Nagar Haveli,10,6
+Dadra and Nagar Haveli,11,16
+Dadra and Nagar Haveli,12,563
+Dadra and Nagar Haveli,13,3311
+Dadra and Nagar Haveli,14,269
+Dadra and Nagar Haveli,15,52
+Dadra and Nagar Haveli,16,38
+Daman,1,6
+Daman,2,270
+Daman,3,570
+Daman,4,297
+Daman,5,176
+Daman,6,50
+Daman,7,30
+Daman,8,10
+Daman,9,5
+Daman,10,22
+Daman,11,344
+Daman,12,1348
+Daman,13,317
+Daman,14,67
+Daman,15,23
+Diu,1,2
+Diu,2,23
+Diu,3,108
+Diu,4,153
+Diu,5,24
+Diu,6,2
+Diu,7,0
+Diu,8,0
+Diu,9,0
+Diu,10,0
+Diu,11,78
+Diu,12,422
+Diu,13,394
+Diu,14,9
+Diu,15,3
+Delhi,1,8470
+Delhi,2,32712
+Delhi,3,74164
+Delhi,4,35306
+Delhi,5,70881
+Delhi,6,96015
+Delhi,7,164622
+Delhi,8,126660
+Delhi,9,22759
+Delhi,10,5357
+Delhi,11,6750
+Delhi,12,123742
+Delhi,13,613543
+Delhi,14,50289
+Delhi,15,4011
+Delhi,16,1757
+Ahmedabad,1,6910
+Ahmedabad,2,9730
+Ahmedabad,3,6786
+Ahmedabad,4,5252
+Ahmedabad,5,5222
+Ahmedabad,6,5569
+Ahmedabad,7,5655
+Ahmedabad,8,9084
+Ahmedabad,9,5322
+Ahmedabad,10,2257
+Ahmedabad,11,2849
+Ahmedabad,12,25004
+Ahmedabad,13,129274
+Ahmedabad,14,18250
+Ahmedabad,15,702
+Ahmedabad,16,178
+Amreli,1,1
+Amreli,2,26
+Amreli,3,153
+Amreli,4,648
+Amreli,5,836
+Amreli,6,833
+Amreli,7,512
+Amreli,8,588
+Amreli,9,243
+Amreli,10,85
+Amreli,11,80
+Amreli,12,702
+Amreli,13,4184
+Amreli,14,1803
+Amreli,15,87
+Amreli,16,25
+Anand,1,82
+Anand,2,46
+Anand,3,189
+Anand,4,295
+Anand,5,323
+Anand,6,316
+Anand,7,337
+Anand,8,481
+Anand,9,342
+Anand,10,167
+Anand,11,249
+Anand,12,696
+Anand,13,3839
+Anand,14,2176
+Anand,15,64
+Anand,16,22
+Aravalli,1,76
+Aravalli,2,68
+Aravalli,3,110
+Aravalli,4,91
+Aravalli,5,154
+Aravalli,6,162
+Aravalli,7,199
+Aravalli,8,219
+Aravalli,9,108
+Aravalli,10,23
+Aravalli,11,37
+Aravalli,12,192
+Aravalli,13,2749
+Aravalli,14,983
+Aravalli,15,12
+Aravalli,16,1
+Banaskantha,1,83
+Banaskantha,2,68
+Banaskantha,3,218
+Banaskantha,4,468
+Banaskantha,5,584
+Banaskantha,6,993
+Banaskantha,7,778
+Banaskantha,8,1112
+Banaskantha,9,360
+Banaskantha,10,39
+Banaskantha,11,40
+Banaskantha,12,793
+Banaskantha,13,6423
+Banaskantha,14,1601
+Banaskantha,15,63
+Banaskantha,16,8
+Bharuch,1,32
+Bharuch,2,52
+Bharuch,3,374
+Bharuch,4,695
+Bharuch,5,724
+Bharuch,6,710
+Bharuch,7,519
+Bharuch,8,494
+Bharuch,9,413
+Bharuch,10,134
+Bharuch,11,178
+Bharuch,12,847
+Bharuch,13,4352
+Bharuch,14,1803
+Bharuch,15,86
+Bharuch,16,12
+Bhavnagar,1,103
+Bhavnagar,2,66
+Bhavnagar,3,518
+Bhavnagar,4,1334
+Bhavnagar,5,1484
+Bhavnagar,6,1009
+Bhavnagar,7,419
+Bhavnagar,8,590
+Bhavnagar,9,426
+Bhavnagar,10,137
+Bhavnagar,11,258
+Bhavnagar,12,1851
+Bhavnagar,13,10909
+Bhavnagar,14,2259
+Bhavnagar,15,41
+Bhavnagar,16,9
+Botad,1,56
+Botad,2,10
+Botad,3,59
+Botad,4,252
+Botad,5,240
+Botad,6,178
+Botad,7,73
+Botad,8,118
+Botad,9,57
+Botad,10,5
+Botad,11,16
+Botad,12,200
+Botad,13,837
+Botad,14,114
+Botad,15,3
+Botad,16,0
+Chhota Udaipur,1,21
+Chhota Udaipur,2,19
+Chhota Udaipur,3,45
+Chhota Udaipur,4,126
+Chhota Udaipur,5,206
+Chhota Udaipur,6,147
+Chhota Udaipur,7,135
+Chhota Udaipur,8,133
+Chhota Udaipur,9,68
+Chhota Udaipur,10,22
+Chhota Udaipur,11,63
+Chhota Udaipur,12,246
+Chhota Udaipur,13,1834
+Chhota Udaipur,14,328
+Chhota Udaipur,15,2
+Chhota Udaipur,16,0
+Dahod,1,20
+Dahod,2,28
+Dahod,3,123
+Dahod,4,696
+Dahod,5,582
+Dahod,6,323
+Dahod,7,301
+Dahod,8,600
+Dahod,9,520
+Dahod,10,132
+Dahod,11,93
+Dahod,12,801
+Dahod,13,4642
+Dahod,14,1052
+Dahod,15,9
+Dahod,16,22
+Dang,1,2
+Dang,2,2
+Dang,3,3
+Dang,4,23
+Dang,5,49
+Dang,6,36
+Dang,7,7
+Dang,8,22
+Dang,9,30
+Dang,10,9
+Dang,11,8
+Dang,12,127
+Dang,13,457
+Dang,14,85
+Dang,15,1
+Dang,16,3
+Devbhumi Dwarka,1,12
+Devbhumi Dwarka,2,3
+Devbhumi Dwarka,3,14
+Devbhumi Dwarka,4,76
+Devbhumi Dwarka,5,319
+Devbhumi Dwarka,6,242
+Devbhumi Dwarka,7,176
+Devbhumi Dwarka,8,137
+Devbhumi Dwarka,9,94
+Devbhumi Dwarka,10,52
+Devbhumi Dwarka,11,45
+Devbhumi Dwarka,12,308
+Devbhumi Dwarka,13,1755
+Devbhumi Dwarka,14,872
+Devbhumi Dwarka,15,65
+Devbhumi Dwarka,16,3
+Gandhinagar,1,146
+Gandhinagar,2,321
+Gandhinagar,3,477
+Gandhinagar,4,950
+Gandhinagar,5,1073
+Gandhinagar,6,1289
+Gandhinagar,7,1286
+Gandhinagar,8,1960
+Gandhinagar,9,861
+Gandhinagar,10,304
+Gandhinagar,11,315
+Gandhinagar,12,1737
+Gandhinagar,13,8185
+Gandhinagar,14,1750
+Gandhinagar,15,68
+Gandhinagar,16,19
+Gir Somnath,1,22
+Gir Somnath,2,28
+Gir Somnath,3,89
+Gir Somnath,4,546
+Gir Somnath,5,494
+Gir Somnath,6,423
+Gir Somnath,7,325
+Gir Somnath,8,277
+Gir Somnath,9,209
+Gir Somnath,10,136
+Gir Somnath,11,122
+Gir Somnath,12,298
+Gir Somnath,13,3746
+Gir Somnath,14,1685
+Gir Somnath,15,136
+Gir Somnath,16,21
+Jamnagar,1,33
+Jamnagar,2,43
+Jamnagar,3,304
+Jamnagar,4,944
+Jamnagar,5,2964
+Jamnagar,6,3090
+Jamnagar,7,1288
+Jamnagar,8,1147
+Jamnagar,9,540
+Jamnagar,10,203
+Jamnagar,11,258
+Jamnagar,12,3230
+Jamnagar,13,17480
+Jamnagar,14,3290
+Jamnagar,15,107
+Jamnagar,16,30
+Junagadh,1,4
+Junagadh,2,39
+Junagadh,3,340
+Junagadh,4,912
+Junagadh,5,935
+Junagadh,6,1038
+Junagadh,7,668
+Junagadh,8,656
+Junagadh,9,530
+Junagadh,10,252
+Junagadh,11,191
+Junagadh,12,1019
+Junagadh,13,9257
+Junagadh,14,4405
+Junagadh,15,186
+Junagadh,16,38
+Kheda,1,33
+Kheda,2,83
+Kheda,3,227
+Kheda,4,447
+Kheda,5,314
+Kheda,6,310
+Kheda,7,349
+Kheda,8,850
+Kheda,9,495
+Kheda,10,127
+Kheda,11,239
+Kheda,12,903
+Kheda,13,4263
+Kheda,14,1721
+Kheda,15,53
+Kheda,16,8
+Kutch,1,14
+Kutch,2,78
+Kutch,3,167
+Kutch,4,594
+Kutch,5,780
+Kutch,6,817
+Kutch,7,483
+Kutch,8,654
+Kutch,9,679
+Kutch,10,219
+Kutch,11,248
+Kutch,12,850
+Kutch,13,5158
+Kutch,14,1764
+Kutch,15,77
+Kutch,16,5
+Mahisagar,1,47
+Mahisagar,2,73
+Mahisagar,3,66
+Mahisagar,4,276
+Mahisagar,5,285
+Mahisagar,6,386
+Mahisagar,7,205
+Mahisagar,8,471
+Mahisagar,9,176
+Mahisagar,10,59
+Mahisagar,11,125
+Mahisagar,12,740
+Mahisagar,13,4088
+Mahisagar,14,1182
+Mahisagar,15,12
+Mahisagar,16,1
+Mehsana,1,73
+Mehsana,2,112
+Mehsana,3,287
+Mehsana,4,778
+Mehsana,5,708
+Mehsana,6,1341
+Mehsana,7,1299
+Mehsana,8,1600
+Mehsana,9,670
+Mehsana,10,131
+Mehsana,11,196
+Mehsana,12,1648
+Mehsana,13,13776
+Mehsana,14,1748
+Mehsana,15,40
+Mehsana,16,7
+Morbi,1,2
+Morbi,2,4
+Morbi,3,94
+Morbi,4,422
+Morbi,5,753
+Morbi,6,641
+Morbi,7,443
+Morbi,8,550
+Morbi,9,268
+Morbi,10,126
+Morbi,11,101
+Morbi,12,749
+Morbi,13,2058
+Morbi,14,278
+Morbi,15,10
+Morbi,16,3
+Narmada,1,13
+Narmada,2,18
+Narmada,3,81
+Narmada,4,358
+Narmada,5,309
+Narmada,6,292
+Narmada,7,414
+Narmada,8,338
+Narmada,9,199
+Narmada,10,94
+Narmada,11,77
+Narmada,12,689
+Narmada,13,2382
+Narmada,14,670
+Narmada,15,12
+Narmada,16,6
+Navsari,1,8
+Navsari,2,31
+Navsari,3,241
+Navsari,4,429
+Navsari,5,343
+Navsari,6,229
+Navsari,7,112
+Navsari,8,131
+Navsari,9,93
+Navsari,10,21
+Navsari,11,54
+Navsari,12,488
+Navsari,13,3734
+Navsari,14,1147
+Navsari,15,80
+Navsari,16,15
+Panchmahal,1,68
+Panchmahal,2,51
+Panchmahal,3,138
+Panchmahal,4,583
+Panchmahal,5,1042
+Panchmahal,6,736
+Panchmahal,7,430
+Panchmahal,8,664
+Panchmahal,9,475
+Panchmahal,10,104
+Panchmahal,11,176
+Panchmahal,12,835
+Panchmahal,13,4366
+Panchmahal,14,2055
+Panchmahal,15,42
+Panchmahal,16,5
+Patan,1,34
+Patan,2,80
+Patan,3,181
+Patan,4,454
+Patan,5,598
+Patan,6,823
+Patan,7,782
+Patan,8,1059
+Patan,9,191
+Patan,10,37
+Patan,11,64
+Patan,12,1512
+Patan,13,4721
+Patan,14,1077
+Patan,15,9
+Patan,16,2
+Porbandar,1,4
+Porbandar,2,10
+Porbandar,3,16
+Porbandar,4,147
+Porbandar,5,200
+Porbandar,6,142
+Porbandar,7,75
+Porbandar,8,77
+Porbandar,9,43
+Porbandar,10,15
+Porbandar,11,8
+Porbandar,12,75
+Porbandar,13,1204
+Porbandar,14,1403
+Porbandar,15,53
+Porbandar,16,5
+Rajkot,1,66
+Rajkot,2,83
+Rajkot,3,564
+Rajkot,4,2365
+Rajkot,5,3770
+Rajkot,6,4270
+Rajkot,7,3089
+Rajkot,8,4147
+Rajkot,9,2927
+Rajkot,10,1521
+Rajkot,11,1464
+Rajkot,12,8681
+Rajkot,13,19196
+Rajkot,14,5461
+Rajkot,15,283
+Rajkot,16,38
+Sabarkantha,1,27
+Sabarkantha,2,110
+Sabarkantha,3,128
+Sabarkantha,4,314
+Sabarkantha,5,297
+Sabarkantha,6,466
+Sabarkantha,7,603
+Sabarkantha,8,616
+Sabarkantha,9,348
+Sabarkantha,10,123
+Sabarkantha,11,178
+Sabarkantha,12,603
+Sabarkantha,13,3622
+Sabarkantha,14,1827
+Sabarkantha,15,44
+Sabarkantha,16,8
+Surat,1,983
+Surat,2,1596
+Surat,3,5827
+Surat,4,8046
+Surat,5,8092
+Surat,6,8389
+Surat,7,6725
+Surat,8,7044
+Surat,9,4427
+Surat,10,1856
+Surat,11,2844
+Surat,12,23678
+Surat,13,54264
+Surat,14,8862
+Surat,15,712
+Surat,16,157
+Surendranagar,1,3
+Surendranagar,2,68
+Surendranagar,3,277
+Surendranagar,4,678
+Surendranagar,5,422
+Surendranagar,6,607
+Surendranagar,7,594
+Surendranagar,8,597
+Surendranagar,9,257
+Surendranagar,10,37
+Surendranagar,11,15
+Surendranagar,12,505
+Surendranagar,13,3561
+Surendranagar,14,477
+Surendranagar,15,17
+Surendranagar,16,6
+Tapi,1,2
+Tapi,2,8
+Tapi,3,40
+Tapi,4,150
+Tapi,5,280
+Tapi,6,261
+Tapi,7,142
+Tapi,8,108
+Tapi,9,72
+Tapi,10,11
+Tapi,11,24
+Tapi,12,266
+Tapi,13,2798
+Tapi,14,258
+Tapi,15,11
+Tapi,16,7
+Vadodara,1,605
+Vadodara,2,948
+Vadodara,3,1649
+Vadodara,4,2965
+Vadodara,5,3782
+Vadodara,6,3897
+Vadodara,7,3673
+Vadodara,8,4977
+Vadodara,9,4008
+Vadodara,10,2471
+Vadodara,11,2313
+Vadodara,12,8699
+Vadodara,13,25553
+Vadodara,14,11807
+Vadodara,15,429
+Vadodara,16,148
+Valsad,1,6
+Valsad,2,51
+Valsad,3,308
+Valsad,4,489
+Valsad,5,230
+Valsad,6,137
+Valsad,7,46
+Valsad,8,62
+Valsad,9,60
+Valsad,10,21
+Valsad,11,35
+Valsad,12,437
+Valsad,13,3065
+Valsad,14,1185
+Valsad,15,104
+Valsad,16,8
+Ambala,1,42
+Ambala,2,141
+Ambala,3,475
+Ambala,4,1788
+Ambala,5,3562
+Ambala,6,2597
+Ambala,7,847
+Ambala,8,1613
+Ambala,9,654
+Ambala,10,180
+Ambala,11,550
+Ambala,12,3598
+Ambala,13,10594
+Ambala,14,3274
+Ambala,15,166
+Ambala,16,24
+Bhiwani,1,6
+Bhiwani,2,101
+Bhiwani,3,574
+Bhiwani,4,238
+Bhiwani,5,1153
+Bhiwani,6,1134
+Bhiwani,7,1621
+Bhiwani,8,1247
+Bhiwani,9,226
+Bhiwani,10,33
+Bhiwani,11,41
+Bhiwani,12,561
+Bhiwani,13,10189
+Bhiwani,14,5099
+Bhiwani,15,153
+Bhiwani,16,19
+Charkhi Dadri,1,4
+Charkhi Dadri,2,43
+Charkhi Dadri,3,51
+Charkhi Dadri,4,117
+Charkhi Dadri,5,196
+Charkhi Dadri,6,348
+Charkhi Dadri,7,393
+Charkhi Dadri,8,270
+Charkhi Dadri,9,94
+Charkhi Dadri,10,2
+Charkhi Dadri,11,14
+Charkhi Dadri,12,128
+Charkhi Dadri,13,2056
+Charkhi Dadri,14,1288
+Charkhi Dadri,15,62
+Charkhi Dadri,16,3
+Faridabad,1,131
+Faridabad,2,1146
+Faridabad,3,4388
+Faridabad,4,5117
+Faridabad,5,5357
+Faridabad,6,5828
+Faridabad,7,9623
+Faridabad,8,12496
+Faridabad,9,1881
+Faridabad,10,409
+Faridabad,11,394
+Faridabad,12,5203
+Faridabad,13,41880
+Faridabad,14,5735
+Faridabad,15,152
+Faridabad,16,68
+Fatehabad,1,7
+Fatehabad,2,58
+Fatehabad,3,82
+Fatehabad,4,389
+Fatehabad,5,1039
+Fatehabad,6,1026
+Fatehabad,7,1140
+Fatehabad,8,808
+Fatehabad,9,157
+Fatehabad,10,20
+Fatehabad,11,50
+Fatehabad,12,1171
+Fatehabad,13,8016
+Fatehabad,14,3660
+Fatehabad,15,208
+Fatehabad,16,30
+Foreign Evacuees,1,21
+Foreign Evacuees,2,0
+Foreign Evacuees,3,0
+Gurugram,1,170
+Gurugram,2,3124
+Gurugram,3,3832
+Gurugram,4,2996
+Gurugram,5,5477
+Gurugram,6,8735
+Gurugram,7,14552
+Gurugram,8,15930
+Gurugram,9,2899
+Gurugram,10,825
+Gurugram,11,1309
+Gurugram,12,13587
+Gurugram,13,95538
+Gurugram,14,11555
+Gurugram,15,258
+Gurugram,16,205
+Hisar,1,4
+Hisar,2,121
+Hisar,3,350
+Hisar,4,777
+Hisar,5,2623
+Hisar,6,3827
+Hisar,7,5352
+Hisar,8,3500
+Hisar,9,490
+Hisar,10,69
+Hisar,11,73
+Hisar,12,1668
+Hisar,13,26597
+Hisar,14,8333
+Hisar,15,162
+Hisar,16,33
+Italians,1,14
+Italians,2,0
+Italians,3,0
+Italians,4,0
+Jhajjar,1,87
+Jhajjar,2,45
+Jhajjar,3,398
+Jhajjar,4,438
+Jhajjar,5,949
+Jhajjar,6,984
+Jhajjar,7,1441
+Jhajjar,8,1208
+Jhajjar,9,299
+Jhajjar,10,78
+Jhajjar,11,20
+Jhajjar,12,940
+Jhajjar,13,7461
+Jhajjar,14,4422
+Jhajjar,15,42
+Jhajjar,16,17
+Jind,1,20
+Jind,2,51
+Jind,3,82
+Jind,4,222
+Jind,5,990
+Jind,6,1063
+Jind,7,848
+Jind,8,1171
+Jind,9,388
+Jind,10,79
+Jind,11,100
+Jind,12,1936
+Jind,13,10955
+Jind,14,3098
+Jind,15,196
+Jind,16,3
+Kaithal,1,3
+Kaithal,2,56
+Kaithal,3,93
+Kaithal,4,285
+Kaithal,5,1394
+Kaithal,6,897
+Kaithal,7,413
+Kaithal,8,514
+Kaithal,9,169
+Kaithal,10,78
+Kaithal,11,264
+Kaithal,12,1239
+Kaithal,13,4053
+Kaithal,14,1614
+Kaithal,15,124
+Kaithal,16,22
+Karnal,1,17
+Karnal,2,111
+Karnal,3,416
+Karnal,4,943
+Karnal,5,4152
+Karnal,6,2283
+Karnal,7,906
+Karnal,8,1503
+Karnal,9,676
+Karnal,10,215
+Karnal,11,1046
+Karnal,12,5791
+Karnal,13,17407
+Karnal,14,4289
+Karnal,15,185
+Karnal,16,60
+Kurukshetra,1,3
+Kurukshetra,2,73
+Kurukshetra,3,131
+Kurukshetra,4,648
+Kurukshetra,5,2909
+Kurukshetra,6,2454
+Kurukshetra,7,935
+Kurukshetra,8,1091
+Kurukshetra,9,502
+Kurukshetra,10,169
+Kurukshetra,11,730
+Kurukshetra,12,3460
+Kurukshetra,13,6738
+Kurukshetra,14,2064
+Kurukshetra,15,171
+Kurukshetra,16,38
+Mahendragarh,1,6
+Mahendragarh,2,116
+Mahendragarh,3,390
+Mahendragarh,4,572
+Mahendragarh,5,1479
+Mahendragarh,6,1419
+Mahendragarh,7,1829
+Mahendragarh,8,664
+Mahendragarh,9,125
+Mahendragarh,10,14
+Mahendragarh,11,5
+Mahendragarh,12,172
+Mahendragarh,13,11311
+Mahendragarh,14,3553
+Mahendragarh,15,31
+Mahendragarh,16,1
+Nuh,1,60
+Nuh,2,54
+Nuh,3,234
+Nuh,4,272
+Nuh,5,353
+Nuh,6,223
+Nuh,7,183
+Nuh,8,251
+Nuh,9,71
+Nuh,10,7
+Nuh,11,10
+Nuh,12,67
+Nuh,13,2394
+Nuh,14,796
+Nuh,15,29
+Nuh,16,7
+Palwal,1,37
+Palwal,2,161
+Palwal,3,331
+Palwal,4,712
+Palwal,5,742
+Palwal,6,963
+Palwal,7,672
+Palwal,8,631
+Palwal,9,156
+Palwal,10,23
+Palwal,11,9
+Palwal,12,172
+Palwal,13,3381
+Palwal,14,2523
+Palwal,15,405
+Palwal,16,66
+Panchkula,1,23
+Panchkula,2,31
+Panchkula,3,101
+Panchkula,4,970
+Panchkula,5,3080
+Panchkula,6,2479
+Panchkula,7,1178
+Panchkula,8,1634
+Panchkula,9,785
+Panchkula,10,385
+Panchkula,11,666
+Panchkula,12,4299
+Panchkula,13,11440
+Panchkula,14,3390
+Panchkula,15,158
+Panchkula,16,39
+Panipat,1,36
+Panipat,2,58
+Panipat,3,321
+Panipat,4,1546
+Panipat,5,3909
+Panipat,6,1848
+Panipat,7,822
+Panipat,8,1547
+Panipat,9,571
+Panipat,10,139
+Panipat,11,254
+Panipat,12,2146
+Panipat,13,14867
+Panipat,14,2989
+Panipat,15,70
+Panipat,16,12
+Rewari,1,6
+Rewari,2,70
+Rewari,3,634
+Rewari,4,1766
+Rewari,5,2105
+Rewari,6,2020
+Rewari,7,2420
+Rewari,8,2053
+Rewari,9,282
+Rewari,10,21
+Rewari,11,11
+Rewari,12,335
+Rewari,13,4752
+Rewari,14,3725
+Rewari,15,86
+Rewari,16,18
+Rohtak,1,7
+Rohtak,2,293
+Rohtak,3,728
+Rohtak,4,987
+Rohtak,5,2238
+Rohtak,6,2494
+Rohtak,7,2488
+Rohtak,8,2503
+Rohtak,9,458
+Rohtak,10,102
+Rohtak,11,47
+Rohtak,12,1196
+Rohtak,13,8438
+Rohtak,14,3761
+Rohtak,15,83
+Rohtak,16,56
+Sirsa,1,7
+Sirsa,2,63
+Sirsa,3,153
+Sirsa,4,483
+Sirsa,5,1709
+Sirsa,6,2051
+Sirsa,7,1978
+Sirsa,8,1299
+Sirsa,9,264
+Sirsa,10,72
+Sirsa,11,42
+Sirsa,12,1310
+Sirsa,13,13703
+Sirsa,14,5870
+Sirsa,15,234
+Sirsa,16,19
+Sonipat,1,120
+Sonipat,2,416
+Sonipat,3,1568
+Sonipat,4,1323
+Sonipat,5,2775
+Sonipat,6,2883
+Sonipat,7,2183
+Sonipat,8,2809
+Sonipat,9,630
+Sonipat,10,101
+Sonipat,11,110
+Sonipat,12,2572
+Sonipat,13,24589
+Sonipat,14,4922
+Sonipat,15,100
+Sonipat,16,25
+Yamunanagar,1,8
+Yamunanagar,2,37
+Yamunanagar,3,88
+Yamunanagar,4,432
+Yamunanagar,5,2324
+Yamunanagar,6,1822
+Yamunanagar,7,586
+Yamunanagar,8,726
+Yamunanagar,9,641
+Yamunanagar,10,222
+Yamunanagar,11,346
+Yamunanagar,12,3254
+Yamunanagar,13,9335
+Yamunanagar,14,4533
+Yamunanagar,15,179
+Yamunanagar,16,38
+Bilaspur,1,4
+Bilaspur,2,25
+Bilaspur,3,23
+Bilaspur,4,108
+Bilaspur,5,367
+Bilaspur,6,525
+Bilaspur,7,579
+Bilaspur,8,959
+Bilaspur,9,311
+Bilaspur,10,40
+Bilaspur,11,79
+Bilaspur,12,797
+Bilaspur,13,5752
+Bilaspur,14,2882
+Bilaspur,15,341
+Bilaspur,16,373
+Chamba,1,12
+Chamba,2,24
+Chamba,3,32
+Chamba,4,211
+Chamba,5,360
+Chamba,6,356
+Chamba,7,561
+Chamba,8,969
+Chamba,9,397
+Chamba,10,48
+Chamba,11,13
+Chamba,12,431
+Chamba,13,3968
+Chamba,14,3365
+Chamba,15,847
+Chamba,16,1399
+Hamirpur,1,7
+Hamirpur,2,124
+Hamirpur,3,145
+Hamirpur,4,118
+Hamirpur,5,344
+Hamirpur,6,308
+Hamirpur,7,488
+Hamirpur,8,965
+Hamirpur,9,492
+Hamirpur,10,52
+Hamirpur,11,69
+Hamirpur,12,1143
+Hamirpur,13,6539
+Hamirpur,14,3336
+Hamirpur,15,332
+Hamirpur,16,421
+Kangra,1,18
+Kangra,2,124
+Kangra,3,172
+Kangra,4,248
+Kangra,5,973
+Kangra,6,1160
+Kangra,7,1147
+Kangra,8,2965
+Kangra,9,1253
+Kangra,10,259
+Kangra,11,425
+Kangra,12,2640
+Kangra,13,21346
+Kangra,14,12562
+Kangra,15,818
+Kangra,16,882
+Kinnaur,1,2
+Kinnaur,2,34
+Kinnaur,3,23
+Kinnaur,4,62
+Kinnaur,5,91
+Kinnaur,6,418
+Kinnaur,7,579
+Kinnaur,8,126
+Kinnaur,9,38
+Kinnaur,10,14
+Kinnaur,11,35
+Kinnaur,12,852
+Kinnaur,13,894
+Kinnaur,14,112
+Kinnaur,15,68
+Kullu,1,4
+Kullu,2,4
+Kullu,3,192
+Kullu,4,188
+Kullu,5,548
+Kullu,6,1421
+Kullu,7,1757
+Kullu,8,282
+Kullu,9,35
+Kullu,10,46
+Kullu,11,389
+Kullu,12,2257
+Kullu,13,1553
+Kullu,14,318
+Kullu,15,327
+Lahaul and Spiti,1,4
+Lahaul and Spiti,2,2
+Lahaul and Spiti,3,23
+Lahaul and Spiti,4,222
+Lahaul and Spiti,5,373
+Lahaul and Spiti,6,546
+Lahaul and Spiti,7,82
+Lahaul and Spiti,8,6
+Lahaul and Spiti,9,0
+Lahaul and Spiti,10,187
+Lahaul and Spiti,11,853
+Lahaul and Spiti,12,378
+Lahaul and Spiti,13,62
+Lahaul and Spiti,14,91
+Mandi,1,2
+Mandi,2,20
+Mandi,3,18
+Mandi,4,250
+Mandi,5,619
+Mandi,6,1268
+Mandi,7,2477
+Mandi,8,3757
+Mandi,9,1441
+Mandi,10,398
+Mandi,11,72
+Mandi,12,956
+Mandi,13,9935
+Mandi,14,5471
+Mandi,15,793
+Mandi,16,1413
+Shimla,1,1
+Shimla,2,20
+Shimla,3,41
+Shimla,4,155
+Shimla,5,415
+Shimla,6,1152
+Shimla,7,2446
+Shimla,8,4942
+Shimla,9,1092
+Shimla,10,176
+Shimla,11,130
+Shimla,12,1305
+Shimla,13,8084
+Shimla,14,4772
+Shimla,15,700
+Shimla,16,726
+Sirmaur,1,4
+Sirmaur,2,23
+Sirmaur,3,19
+Sirmaur,4,433
+Sirmaur,5,780
+Sirmaur,6,793
+Sirmaur,7,378
+Sirmaur,8,496
+Sirmaur,9,375
+Sirmaur,10,170
+Sirmaur,11,227
+Sirmaur,12,843
+Sirmaur,13,7345
+Sirmaur,14,3269
+Sirmaur,15,199
+Sirmaur,16,50
+Solan,1,9
+Solan,2,31
+Solan,3,219
+Solan,4,655
+Solan,5,1361
+Solan,6,1101
+Solan,7,679
+Solan,8,1786
+Solan,9,803
+Solan,10,108
+Solan,11,166
+Solan,12,2024
+Solan,13,9531
+Solan,14,3588
+Solan,15,291
+Solan,16,124
+Una,1,17
+Una,2,47
+Una,3,80
+Una,4,170
+Una,5,557
+Una,6,561
+Una,7,355
+Una,8,710
+Una,9,336
+Una,10,141
+Una,11,212
+Una,12,1894
+Una,13,4936
+Una,14,3089
+Una,15,273
+Una,16,125
+Anantnag,1,145
+Anantnag,2,345
+Anantnag,3,370
+Anantnag,4,849
+Anantnag,5,1210
+Anantnag,6,924
+Anantnag,7,574
+Anantnag,8,250
+Anantnag,9,172
+Anantnag,10,120
+Anantnag,11,126
+Anantnag,12,383
+Anantnag,13,5692
+Anantnag,14,4395
+Anantnag,15,701
+Anantnag,16,118
+Bandipora,1,134
+Bandipora,2,105
+Bandipora,3,162
+Bandipora,4,900
+Bandipora,5,1582
+Bandipora,6,869
+Bandipora,7,472
+Bandipora,8,324
+Bandipora,9,128
+Bandipora,10,27
+Bandipora,11,24
+Bandipora,12,197
+Bandipora,13,1793
+Bandipora,14,2291
+Bandipora,15,402
+Bandipora,16,142
+Baramulla,1,110
+Baramulla,2,405
+Baramulla,3,822
+Baramulla,4,1014
+Baramulla,5,1144
+Baramulla,6,1538
+Baramulla,7,1826
+Baramulla,8,887
+Baramulla,9,304
+Baramulla,10,108
+Baramulla,11,235
+Baramulla,12,1609
+Baramulla,13,7655
+Baramulla,14,5069
+Baramulla,15,721
+Baramulla,16,309
+Budgam,1,53
+Budgam,2,186
+Budgam,3,347
+Budgam,4,1128
+Budgam,5,2105
+Budgam,6,1696
+Budgam,7,913
+Budgam,8,899
+Budgam,9,367
+Budgam,10,128
+Budgam,11,151
+Budgam,12,758
+Budgam,13,6709
+Budgam,14,6449
+Budgam,15,871
+Budgam,16,253
+Doda,1,63
+Doda,2,85
+Doda,3,183
+Doda,4,608
+Doda,5,1483
+Doda,6,384
+Doda,7,490
+Doda,8,130
+Doda,9,10
+Doda,10,4
+Doda,11,64
+Doda,12,1055
+Doda,13,1845
+Doda,14,678
+Doda,15,323
+Ganderbal,1,23
+Ganderbal,2,38
+Ganderbal,3,144
+Ganderbal,4,644
+Ganderbal,5,1297
+Ganderbal,6,1079
+Ganderbal,7,696
+Ganderbal,8,437
+Ganderbal,9,188
+Ganderbal,10,114
+Ganderbal,11,27
+Ganderbal,12,157
+Ganderbal,13,1892
+Ganderbal,14,2558
+Ganderbal,15,476
+Ganderbal,16,243
+Jammu,1,38
+Jammu,2,235
+Jammu,3,251
+Jammu,4,1319
+Jammu,5,6901
+Jammu,6,6886
+Jammu,7,3305
+Jammu,8,3322
+Jammu,9,2241
+Jammu,10,591
+Jammu,11,309
+Jammu,12,2390
+Jammu,13,15188
+Jammu,14,9049
+Jammu,15,569
+Jammu,16,313
+Kathua,1,17
+Kathua,2,142
+Kathua,3,167
+Kathua,4,319
+Kathua,5,715
+Kathua,6,929
+Kathua,7,309
+Kathua,8,423
+Kathua,9,221
+Kathua,10,14
+Kathua,11,15
+Kathua,12,339
+Kathua,13,3357
+Kathua,14,2103
+Kathua,15,175
+Kathua,16,28
+Kishtwar,1,1
+Kishtwar,2,21
+Kishtwar,3,33
+Kishtwar,4,125
+Kishtwar,5,456
+Kishtwar,6,952
+Kishtwar,7,573
+Kishtwar,8,510
+Kishtwar,9,58
+Kishtwar,10,4
+Kishtwar,11,6
+Kishtwar,12,48
+Kishtwar,13,674
+Kishtwar,14,791
+Kishtwar,15,316
+Kishtwar,16,139
+Kulgam,1,72
+Kulgam,2,561
+Kulgam,3,395
+Kulgam,4,660
+Kulgam,5,405
+Kulgam,6,264
+Kulgam,7,189
+Kulgam,8,82
+Kulgam,9,46
+Kulgam,10,35
+Kulgam,11,42
+Kulgam,12,308
+Kulgam,13,4313
+Kulgam,14,3347
+Kulgam,15,478
+Kulgam,16,129
+Kupwara,1,83
+Kupwara,2,313
+Kupwara,3,409
+Kupwara,4,654
+Kupwara,5,1404
+Kupwara,6,1104
+Kupwara,7,841
+Kupwara,8,564
+Kupwara,9,236
+Kupwara,10,63
+Kupwara,11,39
+Kupwara,12,370
+Kupwara,13,3034
+Kupwara,14,4210
+Kupwara,15,644
+Kupwara,16,183
+Pulwama,1,14
+Pulwama,2,231
+Pulwama,3,456
+Pulwama,4,1315
+Pulwama,5,1188
+Pulwama,6,1112
+Pulwama,7,524
+Pulwama,8,460
+Pulwama,9,355
+Pulwama,10,133
+Pulwama,11,114
+Pulwama,12,277
+Pulwama,13,3996
+Pulwama,14,4276
+Pulwama,15,606
+Pulwama,16,198
+Punch,1,104
+Punch,2,43
+Punch,3,169
+Punch,4,641
+Punch,5,1090
+Punch,6,296
+Punch,7,77
+Punch,8,49
+Punch,9,50
+Punch,10,14
+Punch,11,75
+Punch,12,1411
+Punch,13,1839
+Punch,14,339
+Punch,15,92
+Rajouri,1,4
+Rajouri,2,62
+Rajouri,3,219
+Rajouri,4,493
+Rajouri,5,743
+Rajouri,6,1536
+Rajouri,7,259
+Rajouri,8,389
+Rajouri,9,157
+Rajouri,10,11
+Rajouri,11,6
+Rajouri,12,103
+Rajouri,13,3607
+Rajouri,14,2818
+Rajouri,15,407
+Rajouri,16,208
+Ramban,1,4
+Ramban,2,191
+Ramban,3,76
+Ramban,4,352
+Ramban,5,216
+Ramban,6,632
+Ramban,7,270
+Ramban,8,299
+Ramban,9,81
+Ramban,10,14
+Ramban,11,0
+Ramban,12,53
+Ramban,13,1325
+Ramban,14,2099
+Ramban,15,307
+Ramban,16,61
+Reasi,1,3
+Reasi,2,21
+Reasi,3,36
+Reasi,4,205
+Reasi,5,352
+Reasi,6,545
+Reasi,7,205
+Reasi,8,200
+Reasi,9,66
+Reasi,10,13
+Reasi,11,11
+Reasi,12,536
+Reasi,13,2156
+Reasi,14,1172
+Reasi,15,651
+Reasi,16,252
+Samba,1,11
+Samba,2,88
+Samba,3,170
+Samba,4,277
+Samba,5,558
+Samba,6,919
+Samba,7,240
+Samba,8,364
+Samba,9,180
+Samba,10,28
+Samba,11,8
+Samba,12,130
+Samba,13,2384
+Samba,14,1646
+Samba,15,99
+Samba,16,28
+Shopiyan,1,107
+Shopiyan,2,430
+Shopiyan,3,392
+Shopiyan,4,624
+Shopiyan,5,328
+Shopiyan,6,230
+Shopiyan,7,168
+Shopiyan,8,152
+Shopiyan,9,105
+Shopiyan,10,48
+Shopiyan,11,38
+Shopiyan,12,115
+Shopiyan,13,1610
+Shopiyan,14,1156
+Shopiyan,15,68
+Shopiyan,16,18
+Srinagar,1,141
+Srinagar,2,382
+Srinagar,3,1410
+Srinagar,4,4747
+Srinagar,5,5117
+Srinagar,6,5267
+Srinagar,7,4242
+Srinagar,8,3011
+Srinagar,9,1406
+Srinagar,10,806
+Srinagar,11,1042
+Srinagar,12,5455
+Srinagar,13,23769
+Srinagar,14,11594
+Srinagar,15,2390
+Srinagar,16,1015
+Udhampur,1,23
+Udhampur,2,135
+Udhampur,3,145
+Udhampur,4,339
+Udhampur,5,866
+Udhampur,6,1029
+Udhampur,7,464
+Udhampur,8,955
+Udhampur,9,220
+Udhampur,10,60
+Udhampur,11,88
+Udhampur,12,729
+Udhampur,13,3434
+Udhampur,14,2514
+Udhampur,15,243
+Udhampur,16,121
+Bokaro,1,10
+Bokaro,2,19
+Bokaro,3,64
+Bokaro,4,453
+Bokaro,5,2576
+Bokaro,6,1507
+Bokaro,7,1158
+Bokaro,8,495
+Bokaro,9,350
+Bokaro,10,76
+Bokaro,11,54
+Bokaro,12,989
+Bokaro,13,9350
+Bokaro,14,1982
+Bokaro,15,197
+Bokaro,16,135
+Chatra,1,36
+Chatra,2,94
+Chatra,3,340
+Chatra,4,577
+Chatra,5,230
+Chatra,6,67
+Chatra,7,34
+Chatra,8,38
+Chatra,9,13
+Chatra,10,5
+Chatra,11,244
+Chatra,12,3550
+Chatra,13,721
+Chatra,14,69
+Chatra,15,9
+Deoghar,1,4
+Deoghar,2,6
+Deoghar,3,78
+Deoghar,4,651
+Deoghar,5,1113
+Deoghar,6,894
+Deoghar,7,556
+Deoghar,8,240
+Deoghar,9,108
+Deoghar,10,17
+Deoghar,11,37
+Deoghar,12,732
+Deoghar,13,5082
+Deoghar,14,1134
+Deoghar,15,93
+Deoghar,16,61
+Dhanbad,1,4
+Dhanbad,2,110
+Dhanbad,3,192
+Dhanbad,4,1108
+Dhanbad,5,2646
+Dhanbad,6,1627
+Dhanbad,7,1093
+Dhanbad,8,440
+Dhanbad,9,438
+Dhanbad,10,120
+Dhanbad,11,50
+Dhanbad,12,1122
+Dhanbad,13,5090
+Dhanbad,14,2186
+Dhanbad,15,202
+Dhanbad,16,91
+Dumka,1,2
+Dumka,2,2
+Dumka,3,18
+Dumka,4,211
+Dumka,5,593
+Dumka,6,342
+Dumka,7,118
+Dumka,8,68
+Dumka,9,34
+Dumka,10,22
+Dumka,11,9
+Dumka,12,869
+Dumka,13,2108
+Dumka,14,209
+Dumka,15,16
+Dumka,16,11
+East Singhbhum,1,3
+East Singhbhum,2,237
+East Singhbhum,3,460
+East Singhbhum,4,2968
+East Singhbhum,5,7143
+East Singhbhum,6,4683
+East Singhbhum,7,1292
+East Singhbhum,8,638
+East Singhbhum,9,742
+East Singhbhum,10,258
+East Singhbhum,11,225
+East Singhbhum,12,3641
+East Singhbhum,13,23058
+East Singhbhum,14,5907
+East Singhbhum,15,426
+East Singhbhum,16,108
+Garhwa,1,23
+Garhwa,2,67
+Garhwa,3,65
+Garhwa,4,579
+Garhwa,5,848
+Garhwa,6,752
+Garhwa,7,262
+Garhwa,8,140
+Garhwa,9,78
+Garhwa,10,17
+Garhwa,11,0
+Garhwa,12,252
+Garhwa,13,2848
+Garhwa,14,837
+Garhwa,15,87
+Garhwa,16,30
+Giridih,1,10
+Giridih,2,43
+Giridih,3,95
+Giridih,4,1029
+Giridih,5,1551
+Giridih,6,511
+Giridih,7,88
+Giridih,8,70
+Giridih,9,27
+Giridih,10,0
+Giridih,11,1
+Giridih,12,225
+Giridih,13,4036
+Giridih,14,1180
+Giridih,15,86
+Giridih,16,7
+Godda,1,1
+Godda,2,0
+Godda,3,28
+Godda,4,600
+Godda,5,412
+Godda,6,784
+Godda,7,188
+Godda,8,42
+Godda,9,36
+Godda,10,17
+Godda,11,3
+Godda,12,409
+Godda,13,2824
+Godda,14,420
+Godda,15,44
+Godda,16,28
+Gumla,1,89
+Gumla,2,41
+Gumla,3,379
+Gumla,4,793
+Gumla,5,576
+Gumla,6,281
+Gumla,7,68
+Gumla,8,74
+Gumla,9,41
+Gumla,10,27
+Gumla,11,561
+Gumla,12,5264
+Gumla,13,1526
+Gumla,14,152
+Gumla,15,22
+Hazaribagh,1,18
+Hazaribagh,2,115
+Hazaribagh,3,167
+Hazaribagh,4,709
+Hazaribagh,5,1629
+Hazaribagh,6,1210
+Hazaribagh,7,276
+Hazaribagh,8,151
+Hazaribagh,9,143
+Hazaribagh,10,24
+Hazaribagh,11,10
+Hazaribagh,12,968
+Hazaribagh,13,11733
+Hazaribagh,14,2228
+Hazaribagh,15,170
+Hazaribagh,16,31
+Jamtara,1,2
+Jamtara,2,26
+Jamtara,3,7
+Jamtara,4,143
+Jamtara,5,376
+Jamtara,6,367
+Jamtara,7,219
+Jamtara,8,77
+Jamtara,9,44
+Jamtara,10,11
+Jamtara,11,6
+Jamtara,12,426
+Jamtara,13,3278
+Jamtara,14,469
+Jamtara,15,87
+Jamtara,16,17
+Khunti,1,16
+Khunti,2,20
+Khunti,3,365
+Khunti,4,719
+Khunti,5,655
+Khunti,6,235
+Khunti,7,56
+Khunti,8,64
+Khunti,9,11
+Khunti,10,8
+Khunti,11,467
+Khunti,12,4256
+Khunti,13,863
+Khunti,14,30
+Khunti,15,22
+Koderma,1,6
+Koderma,2,122
+Koderma,3,180
+Koderma,4,542
+Koderma,5,1311
+Koderma,6,1026
+Koderma,7,140
+Koderma,8,57
+Koderma,9,69
+Koderma,10,20
+Koderma,11,10
+Koderma,12,820
+Koderma,13,7226
+Koderma,14,1195
+Koderma,15,103
+Koderma,16,44
+Latehar,1,1
+Latehar,2,51
+Latehar,3,66
+Latehar,4,412
+Latehar,5,709
+Latehar,6,392
+Latehar,7,132
+Latehar,8,97
+Latehar,9,76
+Latehar,10,31
+Latehar,11,10
+Latehar,12,388
+Latehar,13,4253
+Latehar,14,1070
+Latehar,15,142
+Latehar,16,34
+Lohardaga,1,37
+Lohardaga,2,72
+Lohardaga,3,247
+Lohardaga,4,449
+Lohardaga,5,605
+Lohardaga,6,243
+Lohardaga,7,86
+Lohardaga,8,45
+Lohardaga,9,19
+Lohardaga,10,9
+Lohardaga,11,283
+Lohardaga,12,3690
+Lohardaga,13,832
+Lohardaga,14,48
+Lohardaga,15,26
+Pakur,1,29
+Pakur,2,75
+Pakur,3,234
+Pakur,4,248
+Pakur,5,232
+Pakur,6,62
+Pakur,7,20
+Pakur,8,2
+Pakur,9,1
+Pakur,10,2
+Pakur,11,283
+Pakur,12,1247
+Pakur,13,103
+Pakur,14,4
+Pakur,15,8
+Palamu,1,15
+Palamu,2,30
+Palamu,3,53
+Palamu,4,856
+Palamu,5,1112
+Palamu,6,816
+Palamu,7,299
+Palamu,8,178
+Palamu,9,236
+Palamu,10,45
+Palamu,11,0
+Palamu,12,204
+Palamu,13,6888
+Palamu,14,1480
+Palamu,15,68
+Palamu,16,9
+Ramgarh,1,108
+Ramgarh,2,90
+Ramgarh,3,533
+Ramgarh,4,2153
+Ramgarh,5,869
+Ramgarh,6,369
+Ramgarh,7,185
+Ramgarh,8,204
+Ramgarh,9,21
+Ramgarh,10,25
+Ramgarh,11,775
+Ramgarh,12,7163
+Ramgarh,13,1243
+Ramgarh,14,100
+Ramgarh,15,63
+Ranchi,1,102
+Ranchi,2,72
+Ranchi,3,320
+Ranchi,4,3778
+Ranchi,5,9183
+Ranchi,6,9902
+Ranchi,7,3431
+Ranchi,8,2254
+Ranchi,9,2651
+Ranchi,10,1107
+Ranchi,11,771
+Ranchi,12,11925
+Ranchi,13,35593
+Ranchi,14,3899
+Ranchi,15,283
+Ranchi,16,218
+Sahibganj,1,3
+Sahibganj,2,46
+Sahibganj,3,344
+Sahibganj,4,643
+Sahibganj,5,379
+Sahibganj,6,141
+Sahibganj,7,56
+Sahibganj,8,25
+Sahibganj,9,7
+Sahibganj,10,4
+Sahibganj,11,678
+Sahibganj,12,1938
+Sahibganj,13,423
+Sahibganj,14,93
+Sahibganj,15,38
+Saraikela-Kharsawan,1,36
+Saraikela-Kharsawan,2,71
+Saraikela-Kharsawan,3,459
+Saraikela-Kharsawan,4,1510
+Saraikela-Kharsawan,5,1210
+Saraikela-Kharsawan,6,244
+Saraikela-Kharsawan,7,110
+Saraikela-Kharsawan,8,43
+Saraikela-Kharsawan,9,8
+Saraikela-Kharsawan,10,21
+Saraikela-Kharsawan,11,148
+Saraikela-Kharsawan,12,2546
+Saraikela-Kharsawan,13,731
+Saraikela-Kharsawan,14,58
+Saraikela-Kharsawan,15,9
+Simdega,1,2
+Simdega,2,244
+Simdega,3,124
+Simdega,4,391
+Simdega,5,582
+Simdega,6,414
+Simdega,7,180
+Simdega,8,60
+Simdega,9,35
+Simdega,10,25
+Simdega,11,10
+Simdega,12,314
+Simdega,13,3339
+Simdega,14,1247
+Simdega,15,189
+Simdega,16,35
+West Singhbhum,1,47
+West Singhbhum,2,51
+West Singhbhum,3,569
+West Singhbhum,4,1736
+West Singhbhum,5,1649
+West Singhbhum,6,492
+West Singhbhum,7,165
+West Singhbhum,8,100
+West Singhbhum,9,29
+West Singhbhum,10,8
+West Singhbhum,11,440
+West Singhbhum,12,5872
+West Singhbhum,13,1700
+West Singhbhum,14,123
+West Singhbhum,15,23
+Bagalkote,1,69
+Bagalkote,2,35
+Bagalkote,3,410
+Bagalkote,4,3312
+Bagalkote,5,4563
+Bagalkote,6,3635
+Bagalkote,7,1324
+Bagalkote,8,263
+Bagalkote,9,113
+Bagalkote,10,42
+Bagalkote,11,37
+Bagalkote,12,566
+Bagalkote,13,13631
+Bagalkote,14,6774
+Bagalkote,15,268
+Bagalkote,16,94
+Ballari,1,17
+Ballari,2,170
+Ballari,3,1700
+Ballari,4,11161
+Ballari,5,14029
+Ballari,6,7809
+Ballari,7,3002
+Ballari,8,642
+Ballari,9,512
+Ballari,10,151
+Ballari,11,206
+Ballari,12,1620
+Ballari,13,30036
+Ballari,14,24742
+Ballari,15,1487
+Ballari,16,227
+Belagavi,1,114
+Belagavi,2,190
+Belagavi,3,257
+Belagavi,4,6397
+Belagavi,5,9578
+Belagavi,6,6438
+Belagavi,7,2224
+Belagavi,8,757
+Belagavi,9,503
+Belagavi,10,337
+Belagavi,11,267
+Belagavi,12,1185
+Belagavi,13,15310
+Belagavi,14,30035
+Belagavi,15,3629
+Belagavi,16,1541
+Bengaluru Rural,1,6
+Bengaluru Rural,2,32
+Bengaluru Rural,3,361
+Bengaluru Rural,4,2865
+Bengaluru Rural,5,3586
+Bengaluru Rural,6,5957
+Bengaluru Rural,7,4174
+Bengaluru Rural,8,973
+Bengaluru Rural,9,549
+Bengaluru Rural,10,263
+Bengaluru Rural,11,178
+Bengaluru Rural,12,1962
+Bengaluru Rural,13,20929
+Bengaluru Rural,14,15812
+Bengaluru Rural,15,2725
+Bengaluru Rural,16,899
+Bengaluru Urban,1,189
+Bengaluru Urban,2,501
+Bengaluru Urban,3,20279
+Bengaluru Urban,4,63216
+Bengaluru Urban,5,89443
+Bengaluru Urban,6,119777
+Bengaluru Urban,7,63035
+Bengaluru Urban,8,22458
+Bengaluru Urban,9,14916
+Bengaluru Urban,10,8202
+Bengaluru Urban,11,9423
+Bengaluru Urban,12,90585
+Bengaluru Urban,13,527288
+Bengaluru Urban,14,168846
+Bengaluru Urban,15,22340
+Bengaluru Urban,16,12099
+Bidar,1,48
+Bidar,2,322
+Bidar,3,733
+Bidar,4,2242
+Bidar,5,2150
+Bidar,6,1259
+Bidar,7,202
+Bidar,8,184
+Bidar,9,186
+Bidar,10,154
+Bidar,11,253
+Bidar,12,4401
+Bidar,13,10293
+Bidar,14,1644
+Bidar,15,164
+Bidar,16,49
+Chamarajanagara,1,1
+Chamarajanagara,2,187
+Chamarajanagara,3,1296
+Chamarajanagara,4,1592
+Chamarajanagara,5,2207
+Chamarajanagara,6,911
+Chamarajanagara,7,367
+Chamarajanagara,8,305
+Chamarajanagara,9,83
+Chamarajanagara,10,58
+Chamarajanagara,11,545
+Chamarajanagara,12,12329
+Chamarajanagara,13,10133
+Chamarajanagara,14,1837
+Chamarajanagara,15,787
+Chikkaballapura,1,24
+Chikkaballapura,2,128
+Chikkaballapura,3,306
+Chikkaballapura,4,2296
+Chikkaballapura,5,3072
+Chikkaballapura,6,3341
+Chikkaballapura,7,2587
+Chikkaballapura,8,787
+Chikkaballapura,9,793
+Chikkaballapura,10,343
+Chikkaballapura,11,154
+Chikkaballapura,12,875
+Chikkaballapura,13,14948
+Chikkaballapura,14,12308
+Chikkaballapura,15,1477
+Chikkaballapura,16,358
+Chikkamagaluru,1,19
+Chikkamagaluru,2,138
+Chikkamagaluru,3,1881
+Chikkamagaluru,4,4233
+Chikkamagaluru,5,4807
+Chikkamagaluru,6,1835
+Chikkamagaluru,7,598
+Chikkamagaluru,8,328
+Chikkamagaluru,9,146
+Chikkamagaluru,10,75
+Chikkamagaluru,11,705
+Chikkamagaluru,12,10768
+Chikkamagaluru,13,17544
+Chikkamagaluru,14,3951
+Chikkamagaluru,15,2216
+Chitradurga,1,7
+Chitradurga,2,36
+Chitradurga,3,78
+Chitradurga,4,1272
+Chitradurga,5,3739
+Chitradurga,6,5567
+Chitradurga,7,2376
+Chitradurga,8,904
+Chitradurga,9,510
+Chitradurga,10,352
+Chitradurga,11,151
+Chitradurga,12,565
+Chitradurga,13,4168
+Chitradurga,14,14271
+Chitradurga,15,1563
+Chitradurga,16,604
+Dakshina Kannada,1,28
+Dakshina Kannada,2,240
+Dakshina Kannada,3,2176
+Dakshina Kannada,4,5929
+Dakshina Kannada,5,9403
+Dakshina Kannada,6,9662
+Dakshina Kannada,7,3787
+Dakshina Kannada,8,1158
+Dakshina Kannada,9,954
+Dakshina Kannada,10,856
+Dakshina Kannada,11,555
+Dakshina Kannada,12,2392
+Dakshina Kannada,13,24430
+Dakshina Kannada,14,22823
+Dakshina Kannada,15,11598
+Dakshina Kannada,16,9542
+Davanagere,1,88
+Davanagere,2,138
+Davanagere,3,372
+Davanagere,4,4158
+Davanagere,5,8466
+Davanagere,6,5534
+Davanagere,7,2490
+Davanagere,8,562
+Davanagere,9,380
+Davanagere,10,210
+Davanagere,11,86
+Davanagere,12,583
+Davanagere,13,8487
+Davanagere,14,15931
+Davanagere,15,2625
+Davanagere,16,433
+Dharwad,1,21
+Dharwad,2,100
+Dharwad,3,1138
+Dharwad,4,5888
+Dharwad,5,7478
+Dharwad,6,4646
+Dharwad,7,1876
+Dharwad,8,477
+Dharwad,9,413
+Dharwad,10,230
+Dharwad,11,230
+Dharwad,12,1696
+Dharwad,13,17949
+Dharwad,14,16859
+Dharwad,15,1274
+Dharwad,16,345
+Gadag,1,12
+Gadag,2,37
+Gadag,3,282
+Gadag,4,2504
+Gadag,5,4818
+Gadag,6,2382
+Gadag,7,568
+Gadag,8,225
+Gadag,9,125
+Gadag,10,50
+Gadag,11,50
+Gadag,12,383
+Gadag,13,5464
+Gadag,14,8525
+Gadag,15,494
+Gadag,16,92
+Hassan,1,9
+Hassan,2,228
+Hassan,3,477
+Hassan,4,3579
+Hassan,5,7958
+Hassan,6,9913
+Hassan,7,4202
+Hassan,8,1192
+Hassan,9,749
+Hassan,10,322
+Hassan,11,216
+Hassan,12,2158
+Hassan,13,28753
+Hassan,14,36469
+Hassan,15,8500
+Hassan,16,3434
+Haveri,1,3
+Haveri,2,22
+Haveri,3,282
+Haveri,4,1985
+Haveri,5,4509
+Haveri,6,2806
+Haveri,7,817
+Haveri,8,471
+Haveri,9,88
+Haveri,10,23
+Haveri,11,21
+Haveri,12,232
+Haveri,13,4574
+Haveri,14,5464
+Haveri,15,489
+Haveri,16,100
+Kalaburagi,1,83
+Kalaburagi,2,813
+Kalaburagi,3,1417
+Kalaburagi,4,6038
+Kalaburagi,5,6265
+Kalaburagi,6,4175
+Kalaburagi,7,1333
+Kalaburagi,8,602
+Kalaburagi,9,607
+Kalaburagi,10,477
+Kalaburagi,11,571
+Kalaburagi,12,4824
+Kalaburagi,13,27311
+Kalaburagi,14,6431
+Kalaburagi,15,556
+Kalaburagi,16,194
+Kodagu,1,1
+Kodagu,2,2
+Kodagu,3,192
+Kodagu,4,691
+Kodagu,5,1087
+Kodagu,6,2035
+Kodagu,7,1116
+Kodagu,8,381
+Kodagu,9,373
+Kodagu,10,233
+Kodagu,11,104
+Kodagu,12,398
+Kodagu,13,13149
+Kodagu,14,8352
+Kodagu,15,3800
+Kodagu,16,2303
+Kolar,1,5
+Kolar,2,43
+Kolar,3,269
+Kolar,4,1932
+Kolar,5,2290
+Kolar,6,2875
+Kolar,7,1466
+Kolar,8,560
+Kolar,9,467
+Kolar,10,157
+Kolar,11,136
+Kolar,12,1245
+Kolar,13,16387
+Kolar,14,14530
+Kolar,15,2618
+Kolar,16,990
+Koppal,1,13
+Koppal,2,330
+Koppal,3,2768
+Koppal,4,6112
+Koppal,5,3383
+Koppal,6,969
+Koppal,7,183
+Koppal,8,158
+Koppal,9,20
+Koppal,10,17
+Koppal,11,465
+Koppal,12,9782
+Koppal,13,10092
+Koppal,14,732
+Koppal,15,98
+Mandya,1,36
+Mandya,2,307
+Mandya,3,413
+Mandya,4,2423
+Mandya,5,5191
+Mandya,6,5790
+Mandya,7,3743
+Mandya,8,1157
+Mandya,9,504
+Mandya,10,167
+Mandya,11,100
+Mandya,12,1437
+Mandya,13,27617
+Mandya,14,18725
+Mandya,15,3726
+Mandya,16,1276
+Mysuru,1,88
+Mysuru,2,26
+Mysuru,3,977
+Mysuru,4,8189
+Mysuru,5,17148
+Mysuru,6,17002
+Mysuru,7,5983
+Mysuru,8,2056
+Mysuru,9,1448
+Mysuru,10,866
+Mysuru,11,662
+Mysuru,12,4976
+Mysuru,13,48406
+Mysuru,14,50639
+Mysuru,15,11896
+Mysuru,16,4171
+Raichur,1,385
+Raichur,2,403
+Raichur,3,3963
+Raichur,4,4717
+Raichur,5,3214
+Raichur,6,838
+Raichur,7,520
+Raichur,8,193
+Raichur,9,55
+Raichur,10,40
+Raichur,11,733
+Raichur,12,15152
+Raichur,13,9327
+Raichur,14,293
+Raichur,15,72
+Ramanagara,1,19
+Ramanagara,2,370
+Ramanagara,3,1607
+Ramanagara,4,2335
+Ramanagara,5,2018
+Ramanagara,6,716
+Ramanagara,7,236
+Ramanagara,8,99
+Ramanagara,9,23
+Ramanagara,10,18
+Ramanagara,11,472
+Ramanagara,12,9035
+Ramanagara,13,6327
+Ramanagara,14,613
+Ramanagara,15,168
+Shivamogga,1,8
+Shivamogga,2,83
+Shivamogga,3,439
+Shivamogga,4,3057
+Shivamogga,5,8849
+Shivamogga,6,6663
+Shivamogga,7,2096
+Shivamogga,8,567
+Shivamogga,9,441
+Shivamogga,10,198
+Shivamogga,11,145
+Shivamogga,12,908
+Shivamogga,13,14802
+Shivamogga,14,22497
+Shivamogga,15,5029
+Shivamogga,16,1815
+Tumakuru,1,11
+Tumakuru,2,30
+Tumakuru,3,487
+Tumakuru,4,2514
+Tumakuru,5,6336
+Tumakuru,6,8565
+Tumakuru,7,4352
+Tumakuru,8,1643
+Tumakuru,9,862
+Tumakuru,10,668
+Tumakuru,11,532
+Tumakuru,12,3516
+Tumakuru,13,47523
+Tumakuru,14,35202
+Tumakuru,15,4353
+Tumakuru,16,1983
+Udupi,1,3
+Udupi,2,1023
+Udupi,3,709
+Udupi,4,5761
+Udupi,5,6590
+Udupi,6,5993
+Udupi,7,2261
+Udupi,8,567
+Udupi,9,298
+Udupi,10,258
+Udupi,11,367
+Udupi,12,2428
+Udupi,13,18581
+Udupi,14,19551
+Udupi,15,3504
+Udupi,16,3751
+Uttara Kannada,1,41
+Uttara Kannada,2,73
+Uttara Kannada,3,584
+Uttara Kannada,4,2438
+Uttara Kannada,5,4008
+Uttara Kannada,6,4430
+Uttara Kannada,7,1755
+Uttara Kannada,8,701
+Uttara Kannada,9,373
+Uttara Kannada,10,249
+Uttara Kannada,11,134
+Uttara Kannada,12,1030
+Uttara Kannada,13,14718
+Uttara Kannada,14,19629
+Uttara Kannada,15,2425
+Uttara Kannada,16,1642
+Vijayapura,1,52
+Vijayapura,2,177
+Vijayapura,3,667
+Vijayapura,4,3584
+Vijayapura,5,3446
+Vijayapura,6,3314
+Vijayapura,7,2019
+Vijayapura,8,705
+Vijayapura,9,367
+Vijayapura,10,133
+Vijayapura,11,179
+Vijayapura,12,1259
+Vijayapura,13,12341
+Vijayapura,14,7336
+Vijayapura,15,470
+Vijayapura,16,130
+Yadgir,1,2
+Yadgir,2,807
+Yadgir,3,643
+Yadgir,4,2085
+Yadgir,5,3590
+Yadgir,6,2485
+Yadgir,7,654
+Yadgir,8,262
+Yadgir,9,106
+Yadgir,10,42
+Yadgir,11,37
+Yadgir,12,496
+Yadgir,13,11194
+Yadgir,14,4884
+Yadgir,15,182
+Yadgir,16,33
+Alappuzha,1,5
+Alappuzha,2,124
+Alappuzha,3,669
+Alappuzha,4,2284
+Alappuzha,5,4948
+Alappuzha,6,14246
+Alappuzha,7,18727
+Alappuzha,8,10641
+Alappuzha,9,10438
+Alappuzha,10,11876
+Alappuzha,11,6380
+Alappuzha,12,4914
+Alappuzha,13,55114
+Alappuzha,14,47021
+Alappuzha,15,22332
+Alappuzha,16,30800
+Ernakulam,1,26
+Ernakulam,2,81
+Ernakulam,3,485
+Ernakulam,4,2715
+Ernakulam,5,6071
+Ernakulam,6,21568
+Ernakulam,7,25614
+Ernakulam,8,16088
+Ernakulam,9,20929
+Ernakulam,10,23729
+Ernakulam,11,9625
+Ernakulam,12,12296
+Ernakulam,13,123616
+Ernakulam,14,72028
+Ernakulam,15,39787
+Ernakulam,16,62794
+Idukki,1,25
+Idukki,2,36
+Idukki,3,151
+Idukki,4,1005
+Idukki,5,1114
+Idukki,6,2999
+Idukki,7,3745
+Idukki,8,4882
+Idukki,9,5464
+Idukki,10,6544
+Idukki,11,2144
+Idukki,12,3597
+Idukki,13,26708
+Idukki,14,19779
+Idukki,15,8488
+Idukki,16,11452
+Kannur,1,119
+Kannur,2,184
+Kannur,3,461
+Kannur,4,1167
+Kannur,5,4367
+Kannur,6,11733
+Kannur,7,10925
+Kannur,8,6812
+Kannur,9,7044
+Kannur,10,7974
+Kannur,11,5086
+Kannur,12,9406
+Kannur,13,55472
+Kannur,14,30498
+Kannur,15,20115
+Kannur,16,31692
+Kasaragod,1,193
+Kasaragod,2,175
+Kasaragod,3,326
+Kasaragod,4,2439
+Kasaragod,5,4116
+Kasaragod,6,8299
+Kasaragod,7,4791
+Kasaragod,8,2679
+Kasaragod,9,2065
+Kasaragod,10,2615
+Kasaragod,11,2865
+Kasaragod,12,4874
+Kasaragod,13,26086
+Kasaragod,14,16329
+Kasaragod,15,17061
+Kasaragod,16,21483
+Kollam,1,20
+Kollam,2,126
+Kollam,3,406
+Kollam,4,1849
+Kollam,5,4661
+Kollam,6,16853
+Kollam,7,17156
+Kollam,8,10973
+Kollam,9,12832
+Kollam,10,16763
+Kollam,11,8138
+Kollam,12,6284
+Kollam,13,51780
+Kollam,14,62653
+Kollam,15,36684
+Kollam,16,41037
+Kottayam,1,22
+Kottayam,2,70
+Kottayam,3,271
+Kottayam,4,1585
+Kottayam,5,4368
+Kottayam,6,10161
+Kottayam,7,13085
+Kottayam,8,12318
+Kottayam,9,16300
+Kottayam,10,16284
+Kottayam,11,7352
+Kottayam,12,7747
+Kottayam,13,66221
+Kottayam,14,33389
+Kottayam,15,16902
+Kottayam,16,29040
+Kozhikode,1,26
+Kozhikode,2,131
+Kozhikode,3,320
+Kozhikode,4,2380
+Kozhikode,5,6153
+Kozhikode,6,24164
+Kozhikode,7,25400
+Kozhikode,8,18120
+Kozhikode,9,17117
+Kozhikode,10,19328
+Kozhikode,11,10989
+Kozhikode,12,13739
+Kozhikode,13,109596
+Kozhikode,14,47230
+Kozhikode,15,34420
+Kozhikode,16,65860
+Malappuram,1,39
+Malappuram,2,235
+Malappuram,3,821
+Malappuram,4,3328
+Malappuram,5,8794
+Malappuram,6,24058
+Malappuram,7,23072
+Malappuram,8,21762
+Malappuram,9,15274
+Malappuram,10,14916
+Malappuram,11,8345
+Malappuram,12,8237
+Malappuram,13,96334
+Malappuram,14,90822
+Malappuram,15,43986
+Malappuram,16,90059
+Palakkad,1,19
+Palakkad,2,265
+Palakkad,3,644
+Palakkad,4,2145
+Palakkad,5,3410
+Palakkad,6,12501
+Palakkad,7,12901
+Palakkad,8,11061
+Palakkad,9,8099
+Palakkad,10,6577
+Palakkad,11,2890
+Palakkad,12,4314
+Palakkad,13,61129
+Palakkad,14,65766
+Palakkad,15,31865
+Palakkad,16,51396
+Pathanamthitta,1,19
+Pathanamthitta,2,111
+Pathanamthitta,3,451
+Pathanamthitta,4,1374
+Pathanamthitta,5,2847
+Pathanamthitta,6,6774
+Pathanamthitta,7,5906
+Pathanamthitta,8,6143
+Pathanamthitta,9,13149
+Pathanamthitta,10,14789
+Pathanamthitta,11,7106
+Pathanamthitta,12,4089
+Pathanamthitta,13,28295
+Pathanamthitta,14,19989
+Pathanamthitta,15,11901
+Pathanamthitta,16,15763
+Thiruvananthapuram,1,17
+Thiruvananthapuram,2,109
+Thiruvananthapuram,3,880
+Thiruvananthapuram,4,7635
+Thiruvananthapuram,5,12981
+Thiruvananthapuram,6,25422
+Thiruvananthapuram,7,19114
+Thiruvananthapuram,8,10238
+Thiruvananthapuram,9,9968
+Thiruvananthapuram,10,12197
+Thiruvananthapuram,11,6126
+Thiruvananthapuram,12,8283
+Thiruvananthapuram,13,85595
+Thiruvananthapuram,14,78543
+Thiruvananthapuram,15,37661
+Thiruvananthapuram,16,31272
+Thrissur,1,15
+Thrissur,2,214
+Thrissur,3,444
+Thrissur,4,1602
+Thrissur,5,4659
+Thrissur,6,17421
+Thrissur,7,26377
+Thrissur,8,15150
+Thrissur,9,14429
+Thrissur,10,13491
+Thrissur,11,7736
+Thrissur,12,7482
+Thrissur,13,89506
+Thrissur,14,56474
+Thrissur,15,37684
+Thrissur,16,69649
+Wayanad,1,16
+Wayanad,2,40
+Wayanad,3,140
+Wayanad,4,839
+Wayanad,5,1052
+Wayanad,6,3123
+Wayanad,7,3464
+Wayanad,8,4753
+Wayanad,9,6114
+Wayanad,10,5793
+Wayanad,11,2353
+Wayanad,12,2643
+Wayanad,13,20956
+Wayanad,14,9854
+Wayanad,15,8465
+Wayanad,16,15934
+Kargil,1,9
+Kargil,2,416
+Kargil,3,300
+Kargil,4,241
+Kargil,5,538
+Kargil,6,276
+Kargil,7,167
+Kargil,8,134
+Kargil,9,21
+Kargil,10,11
+Kargil,11,29
+Kargil,12,69
+Kargil,13,680
+Kargil,14,523
+Kargil,15,123
+Kargil,16,38
+Leh,1,34
+Leh,2,90
+Leh,3,279
+Leh,4,510
+Leh,5,1002
+Leh,6,1609
+Leh,7,1885
+Leh,8,1676
+Leh,9,459
+Leh,10,110
+Leh,11,51
+Leh,12,1362
+Leh,13,4198
+Leh,14,2932
+Leh,15,497
+Leh,16,176
+Lakshadweep,1,233
+Lakshadweep,2,372
+Lakshadweep,3,240
+Lakshadweep,4,3723
+Lakshadweep,5,4668
+Lakshadweep,6,800
+Lakshadweep,7,249
+Agar Malwa,1,13
+Agar Malwa,2,2
+Agar Malwa,3,20
+Agar Malwa,4,98
+Agar Malwa,5,175
+Agar Malwa,6,122
+Agar Malwa,7,71
+Agar Malwa,8,88
+Agar Malwa,9,62
+Agar Malwa,10,13
+Agar Malwa,11,30
+Agar Malwa,12,511
+Agar Malwa,13,1765
+Agar Malwa,14,320
+Agar Malwa,15,13
+Agar Malwa,16,0
+Alirajpur,1,3
+Alirajpur,2,0
+Alirajpur,3,29
+Alirajpur,4,205
+Alirajpur,5,614
+Alirajpur,6,178
+Alirajpur,7,43
+Alirajpur,8,86
+Alirajpur,9,123
+Alirajpur,10,18
+Alirajpur,11,34
+Alirajpur,12,513
+Alirajpur,13,1559
+Alirajpur,14,93
+Alirajpur,15,3
+Alirajpur,16,0
+Anuppur,1,3
+Anuppur,2,25
+Anuppur,3,4
+Anuppur,4,73
+Anuppur,5,458
+Anuppur,6,836
+Anuppur,7,383
+Anuppur,8,171
+Anuppur,9,114
+Anuppur,10,41
+Anuppur,11,26
+Anuppur,12,634
+Anuppur,13,5203
+Anuppur,14,1253
+Anuppur,15,5
+Anuppur,16,0
+Ashoknagar,1,2
+Ashoknagar,2,39
+Ashoknagar,3,24
+Ashoknagar,4,68
+Ashoknagar,5,192
+Ashoknagar,6,216
+Ashoknagar,7,162
+Ashoknagar,8,306
+Ashoknagar,9,110
+Ashoknagar,10,16
+Ashoknagar,11,13
+Ashoknagar,12,442
+Ashoknagar,13,1781
+Ashoknagar,14,283
+Ashoknagar,15,16
+Ashoknagar,16,0
+Balaghat,1,12
+Balaghat,2,43
+Balaghat,3,131
+Balaghat,4,375
+Balaghat,5,1132
+Balaghat,6,646
+Balaghat,7,502
+Balaghat,8,262
+Balaghat,9,85
+Balaghat,10,70
+Balaghat,11,1167
+Balaghat,12,3805
+Balaghat,13,843
+Balaghat,14,13
+Balaghat,15,7
+Barwani,1,26
+Barwani,2,40
+Barwani,3,138
+Barwani,4,753
+Barwani,5,509
+Barwani,6,557
+Barwani,7,165
+Barwani,8,332
+Barwani,9,298
+Barwani,10,122
+Barwani,11,113
+Barwani,12,1852
+Barwani,13,3173
+Barwani,14,263
+Barwani,15,17
+Barwani,16,5
+Betul,1,1
+Betul,2,36
+Betul,3,93
+Betul,4,207
+Betul,5,834
+Betul,6,1033
+Betul,7,518
+Betul,8,361
+Betul,9,300
+Betul,10,261
+Betul,11,277
+Betul,12,2131
+Betul,13,5653
+Betul,14,1114
+Betul,15,79
+Betul,16,3
+Bhind,1,10
+Bhind,2,105
+Bhind,3,251
+Bhind,4,157
+Bhind,5,193
+Bhind,6,358
+Bhind,7,165
+Bhind,8,178
+Bhind,9,74
+Bhind,10,15
+Bhind,11,0
+Bhind,12,173
+Bhind,13,1115
+Bhind,14,197
+Bhind,15,3
+Bhind,16,0
+Bhopal,1,900
+Bhopal,2,1295
+Bhopal,3,1498
+Bhopal,4,4446
+Bhopal,5,5292
+Bhopal,6,8102
+Bhopal,7,5773
+Bhopal,8,8804
+Bhopal,9,5189
+Bhopal,10,1957
+Bhopal,11,2080
+Bhopal,12,16568
+Bhopal,13,49081
+Bhopal,14,11789
+Bhopal,15,470
+Bhopal,16,90
+Burhanpur,1,95
+Burhanpur,2,289
+Burhanpur,3,48
+Burhanpur,4,73
+Burhanpur,5,113
+Burhanpur,6,149
+Burhanpur,7,25
+Burhanpur,8,39
+Burhanpur,9,27
+Burhanpur,10,17
+Burhanpur,11,226
+Burhanpur,12,621
+Burhanpur,13,737
+Burhanpur,14,109
+Burhanpur,15,0
+Burhanpur,16,0
+Chhatarpur,1,45
+Chhatarpur,2,28
+Chhatarpur,3,346
+Chhatarpur,4,448
+Chhatarpur,5,557
+Chhatarpur,6,221
+Chhatarpur,7,254
+Chhatarpur,8,182
+Chhatarpur,9,29
+Chhatarpur,10,3
+Chhatarpur,11,547
+Chhatarpur,12,4515
+Chhatarpur,13,420
+Chhatarpur,14,4
+Chhatarpur,15,8
+Chhindwara,1,5
+Chhindwara,2,26
+Chhindwara,3,48
+Chhindwara,4,191
+Chhindwara,5,473
+Chhindwara,6,1380
+Chhindwara,7,214
+Chhindwara,8,239
+Chhindwara,9,186
+Chhindwara,10,132
+Chhindwara,11,320
+Chhindwara,12,1554
+Chhindwara,13,1566
+Chhindwara,14,376
+Chhindwara,15,22
+Chhindwara,16,0
+Damoh,1,29
+Damoh,2,39
+Damoh,3,329
+Damoh,4,706
+Damoh,5,838
+Damoh,6,272
+Damoh,7,280
+Damoh,8,212
+Damoh,9,117
+Damoh,10,109
+Damoh,11,588
+Damoh,12,3441
+Damoh,13,1120
+Damoh,14,13
+Damoh,15,27
+Datia,1,21
+Datia,2,53
+Datia,3,287
+Datia,4,624
+Datia,5,328
+Datia,6,185
+Datia,7,232
+Datia,8,143
+Datia,9,37
+Datia,10,16
+Datia,11,468
+Datia,12,4169
+Datia,13,374
+Datia,14,21
+Datia,15,0
+Dewas,1,58
+Dewas,2,105
+Dewas,3,106
+Dewas,4,246
+Dewas,5,461
+Dewas,6,768
+Dewas,7,291
+Dewas,8,525
+Dewas,9,290
+Dewas,10,120
+Dewas,11,35
+Dewas,12,820
+Dewas,13,3182
+Dewas,14,715
+Dewas,15,1
+Dewas,16,0
+Dhar,1,89
+Dhar,2,48
+Dhar,3,73
+Dhar,4,328
+Dhar,5,913
+Dhar,6,1090
+Dhar,7,419
+Dhar,8,598
+Dhar,9,441
+Dhar,10,145
+Dhar,11,66
+Dhar,12,1182
+Dhar,13,6129
+Dhar,14,982
+Dhar,15,26
+Dhar,16,4
+Dindori,1,2
+Dindori,2,28
+Dindori,3,1
+Dindori,4,57
+Dindori,5,184
+Dindori,6,337
+Dindori,7,218
+Dindori,8,92
+Dindori,9,48
+Dindori,10,58
+Dindori,11,45
+Dindori,12,511
+Dindori,13,2466
+Dindori,14,567
+Dindori,15,7
+Dindori,16,2
+Guna,1,1
+Guna,2,9
+Guna,3,24
+Guna,4,92
+Guna,5,351
+Guna,6,370
+Guna,7,189
+Guna,8,294
+Guna,9,184
+Guna,10,42
+Guna,11,38
+Guna,12,828
+Guna,13,2326
+Guna,14,378
+Guna,15,6
+Guna,16,0
+Gwalior,1,31
+Gwalior,2,226
+Gwalior,3,949
+Gwalior,4,2024
+Gwalior,5,4595
+Gwalior,6,3851
+Gwalior,7,1567
+Gwalior,8,2102
+Gwalior,9,893
+Gwalior,10,236
+Gwalior,11,247
+Gwalior,12,4840
+Gwalior,13,28981
+Gwalior,14,2491
+Gwalior,15,44
+Gwalior,16,19
+Harda,1,3
+Harda,2,8
+Harda,3,80
+Harda,4,147
+Harda,5,410
+Harda,6,540
+Harda,7,443
+Harda,8,295
+Harda,9,165
+Harda,10,56
+Harda,11,34
+Harda,12,316
+Harda,13,2243
+Harda,14,289
+Harda,15,26
+Harda,16,0
+Hoshangabad,1,37
+Hoshangabad,2,0
+Hoshangabad,3,22
+Hoshangabad,4,290
+Hoshangabad,5,583
+Hoshangabad,6,1663
+Hoshangabad,7,460
+Hoshangabad,8,349
+Hoshangabad,9,337
+Hoshangabad,10,134
+Hoshangabad,11,87
+Hoshangabad,12,770
+Hoshangabad,13,5024
+Hoshangabad,14,884
+Hoshangabad,15,36
+Hoshangabad,16,4
+Indore,1,2238
+Indore,2,1825
+Indore,3,1340
+Indore,4,4011
+Indore,5,7747
+Indore,6,13221
+Indore,7,5136
+Indore,8,13581
+Indore,9,7745
+Indore,10,1154
+Indore,11,4154
+Indore,12,20445
+Indore,13,52246
+Indore,14,17732
+Indore,15,356
+Indore,16,86
+Jabalpur,1,157
+Jabalpur,2,152
+Jabalpur,3,297
+Jabalpur,4,1548
+Jabalpur,5,4287
+Jabalpur,6,5422
+Jabalpur,7,1427
+Jabalpur,8,1562
+Jabalpur,9,1112
+Jabalpur,10,495
+Jabalpur,11,552
+Jabalpur,12,6558
+Jabalpur,13,22667
+Jabalpur,14,4237
+Jabalpur,15,129
+Jabalpur,16,43
+Jhabua,1,7
+Jhabua,2,7
+Jhabua,3,38
+Jhabua,4,197
+Jhabua,5,778
+Jhabua,6,588
+Jhabua,7,169
+Jhabua,8,339
+Jhabua,9,344
+Jhabua,10,88
+Jhabua,11,104
+Jhabua,12,1250
+Jhabua,13,3605
+Jhabua,14,167
+Jhabua,15,6
+Jhabua,16,1
+Katni,1,1
+Katni,2,7
+Katni,3,35
+Katni,4,264
+Katni,5,391
+Katni,6,969
+Katni,7,145
+Katni,8,191
+Katni,9,209
+Katni,10,60
+Katni,11,39
+Katni,12,1632
+Katni,13,4826
+Katni,14,590
+Katni,15,3
+Katni,16,3
+Khandwa,1,81
+Khandwa,2,198
+Khandwa,3,150
+Khandwa,4,317
+Khandwa,5,463
+Khandwa,6,481
+Khandwa,7,179
+Khandwa,8,260
+Khandwa,9,168
+Khandwa,10,53
+Khandwa,11,105
+Khandwa,12,744
+Khandwa,13,742
+Khandwa,14,99
+Khandwa,15,0
+Khandwa,16,0
+Khargone,1,97
+Khargone,2,123
+Khargone,3,189
+Khargone,4,624
+Khargone,5,1408
+Khargone,6,1207
+Khargone,7,409
+Khargone,8,584
+Khargone,9,653
+Khargone,10,167
+Khargone,11,203
+Khargone,12,1998
+Khargone,13,5175
+Khargone,14,1086
+Khargone,15,38
+Khargone,16,4
+Mandla,1,1
+Mandla,2,4
+Mandla,3,2
+Mandla,4,79
+Mandla,5,301
+Mandla,6,536
+Mandla,7,113
+Mandla,8,94
+Mandla,9,79
+Mandla,10,14
+Mandla,11,33
+Mandla,12,585
+Mandla,13,3001
+Mandla,14,342
+Mandla,15,3
+Mandla,16,1
+Mandsaur,1,57
+Mandsaur,2,38
+Mandsaur,3,116
+Mandsaur,4,353
+Mandsaur,5,614
+Mandsaur,6,720
+Mandsaur,7,248
+Mandsaur,8,307
+Mandsaur,9,323
+Mandsaur,10,75
+Mandsaur,11,118
+Mandsaur,12,821
+Mandsaur,13,3944
+Mandsaur,14,888
+Mandsaur,15,14
+Mandsaur,16,1
+Morena,1,25
+Morena,2,121
+Morena,3,928
+Morena,4,796
+Morena,5,414
+Morena,6,415
+Morena,7,250
+Morena,8,197
+Morena,9,79
+Morena,10,10
+Morena,11,17
+Morena,12,353
+Morena,13,4044
+Morena,14,575
+Morena,15,11
+Morena,16,1
+Narsinghpur,1,19
+Narsinghpur,2,22
+Narsinghpur,3,220
+Narsinghpur,4,985
+Narsinghpur,5,1653
+Narsinghpur,6,202
+Narsinghpur,7,198
+Narsinghpur,8,185
+Narsinghpur,9,45
+Narsinghpur,10,45
+Narsinghpur,11,1419
+Narsinghpur,12,5440
+Narsinghpur,13,752
+Narsinghpur,14,14
+Narsinghpur,15,1
+Neemuch,1,45
+Neemuch,2,335
+Neemuch,3,119
+Neemuch,4,385
+Neemuch,5,666
+Neemuch,6,716
+Neemuch,7,205
+Neemuch,8,302
+Neemuch,9,218
+Neemuch,10,53
+Neemuch,11,77
+Neemuch,12,820
+Neemuch,13,3419
+Neemuch,14,549
+Neemuch,15,15
+Neemuch,16,0
+Niwari,1,1
+Niwari,2,0
+Niwari,3,18
+Niwari,4,52
+Niwari,5,183
+Niwari,6,122
+Niwari,7,115
+Niwari,8,90
+Niwari,9,90
+Niwari,10,14
+Niwari,11,7
+Niwari,12,241
+Niwari,13,2500
+Niwari,14,260
+Niwari,15,18
+Niwari,16,0
+Other Region,1,2
+Panna,1,1
+Panna,2,20
+Panna,3,37
+Panna,4,119
+Panna,5,205
+Panna,6,388
+Panna,7,86
+Panna,8,111
+Panna,9,131
+Panna,10,36
+Panna,11,43
+Panna,12,589
+Panna,13,4828
+Panna,14,693
+Panna,15,26
+Panna,16,6
+Raisen,1,65
+Raisen,2,19
+Raisen,3,33
+Raisen,4,354
+Raisen,5,520
+Raisen,6,592
+Raisen,7,348
+Raisen,8,319
+Raisen,9,175
+Raisen,10,53
+Raisen,11,51
+Raisen,12,983
+Raisen,13,4786
+Raisen,14,903
+Raisen,15,28
+Raisen,16,4
+Rajgarh,1,45
+Rajgarh,2,103
+Rajgarh,3,336
+Rajgarh,4,563
+Rajgarh,5,450
+Rajgarh,6,340
+Rajgarh,7,309
+Rajgarh,8,218
+Rajgarh,9,85
+Rajgarh,10,79
+Rajgarh,11,1017
+Rajgarh,12,4243
+Rajgarh,13,826
+Rajgarh,14,74
+Rajgarh,15,12
+Ratlam,1,28
+Ratlam,2,59
+Ratlam,3,146
+Ratlam,4,404
+Ratlam,5,886
+Ratlam,6,717
+Ratlam,7,544
+Ratlam,8,1192
+Ratlam,9,614
+Ratlam,10,158
+Ratlam,11,185
+Ratlam,12,2418
+Ratlam,13,8332
+Ratlam,14,2116
+Ratlam,15,51
+Ratlam,16,5
+Rewa,1,7
+Rewa,2,32
+Rewa,3,47
+Rewa,4,421
+Rewa,5,654
+Rewa,6,1018
+Rewa,7,633
+Rewa,8,718
+Rewa,9,521
+Rewa,10,81
+Rewa,11,121
+Rewa,12,1226
+Rewa,13,9102
+Rewa,14,1836
+Rewa,15,14
+Rewa,16,0
+Sagar,1,14
+Sagar,2,238
+Sagar,3,211
+Sagar,4,373
+Sagar,5,784
+Sagar,6,1352
+Sagar,7,897
+Sagar,8,794
+Sagar,9,578
+Sagar,10,231
+Sagar,11,176
+Sagar,12,1637
+Sagar,13,7064
+Sagar,14,2180
+Sagar,15,20
+Sagar,16,44
+Satna,1,7
+Satna,2,15
+Satna,3,32
+Satna,4,247
+Satna,5,608
+Satna,6,1044
+Satna,7,548
+Satna,8,498
+Satna,9,404
+Satna,10,84
+Satna,11,64
+Satna,12,961
+Satna,13,6602
+Satna,14,842
+Satna,15,8
+Satna,16,1
+Sehore,1,4
+Sehore,2,7
+Sehore,3,47
+Sehore,4,366
+Sehore,5,684
+Sehore,6,868
+Sehore,7,230
+Sehore,8,329
+Sehore,9,217
+Sehore,10,58
+Sehore,11,75
+Sehore,12,938
+Sehore,13,5324
+Sehore,14,973
+Sehore,15,15
+Sehore,16,1
+Seoni,1,1
+Seoni,2,1
+Seoni,3,20
+Seoni,4,86
+Seoni,5,332
+Seoni,6,703
+Seoni,7,142
+Seoni,8,134
+Seoni,9,126
+Seoni,10,44
+Seoni,11,41
+Seoni,12,1130
+Seoni,13,3430
+Seoni,14,561
+Seoni,15,19
+Seoni,16,4
+Shahdol,1,3
+Shahdol,2,12
+Shahdol,3,20
+Shahdol,4,153
+Shahdol,5,790
+Shahdol,6,1475
+Shahdol,7,234
+Shahdol,8,156
+Shahdol,9,118
+Shahdol,10,27
+Shahdol,11,23
+Shahdol,12,984
+Shahdol,13,5187
+Shahdol,14,893
+Shahdol,15,5
+Shahdol,16,0
+Shajapur,1,8
+Shajapur,2,38
+Shajapur,3,96
+Shajapur,4,194
+Shajapur,5,348
+Shajapur,6,388
+Shajapur,7,293
+Shajapur,8,214
+Shajapur,9,181
+Shajapur,10,38
+Shajapur,11,50
+Shajapur,12,1286
+Shajapur,13,2676
+Shajapur,14,519
+Shajapur,15,20
+Shajapur,16,0
+Sheopur,1,4
+Sheopur,2,54
+Sheopur,3,56
+Sheopur,4,217
+Sheopur,5,344
+Sheopur,6,283
+Sheopur,7,192
+Sheopur,8,177
+Sheopur,9,127
+Sheopur,10,54
+Sheopur,11,64
+Sheopur,12,204
+Sheopur,13,1841
+Sheopur,14,376
+Sheopur,15,5
+Sheopur,16,0
+Shivpuri,1,3
+Shivpuri,2,18
+Shivpuri,3,156
+Shivpuri,4,251
+Shivpuri,5,1241
+Shivpuri,6,946
+Shivpuri,7,325
+Shivpuri,8,440
+Shivpuri,9,231
+Shivpuri,10,36
+Shivpuri,11,27
+Shivpuri,12,814
+Shivpuri,13,6729
+Shivpuri,14,1162
+Shivpuri,15,8
+Shivpuri,16,6
+Sidhi,1,4
+Sidhi,2,13
+Sidhi,3,25
+Sidhi,4,165
+Sidhi,5,323
+Sidhi,6,575
+Sidhi,7,437
+Sidhi,8,303
+Sidhi,9,137
+Sidhi,10,58
+Sidhi,11,129
+Sidhi,12,304
+Sidhi,13,5753
+Sidhi,14,990
+Sidhi,15,3
+Sidhi,16,0
+Singrauli,1,12
+Singrauli,2,25
+Singrauli,3,206
+Singrauli,4,241
+Singrauli,5,683
+Singrauli,6,344
+Singrauli,7,254
+Singrauli,8,127
+Singrauli,9,36
+Singrauli,10,72
+Singrauli,11,579
+Singrauli,12,5382
+Singrauli,13,823
+Singrauli,14,8
+Singrauli,15,1
+Tikamgarh,1,3
+Tikamgarh,2,19
+Tikamgarh,3,125
+Tikamgarh,4,199
+Tikamgarh,5,243
+Tikamgarh,6,343
+Tikamgarh,7,110
+Tikamgarh,8,145
+Tikamgarh,9,103
+Tikamgarh,10,22
+Tikamgarh,11,23
+Tikamgarh,12,735
+Tikamgarh,13,4450
+Tikamgarh,14,335
+Tikamgarh,15,1
+Tikamgarh,16,7
+Ujjain,1,274
+Ujjain,2,518
+Ujjain,3,117
+Ujjain,4,481
+Ujjain,5,889
+Ujjain,6,1012
+Ujjain,7,398
+Ujjain,8,640
+Ujjain,9,521
+Ujjain,10,147
+Ujjain,11,296
+Ujjain,12,2802
+Ujjain,13,8744
+Ujjain,14,2020
+Ujjain,15,34
+Ujjain,16,3
+Umaria,1,10
+Umaria,2,17
+Umaria,3,35
+Umaria,4,163
+Umaria,5,591
+Umaria,6,221
+Umaria,7,125
+Umaria,8,111
+Umaria,9,44
+Umaria,10,12
+Umaria,11,833
+Umaria,12,3383
+Umaria,13,740
+Umaria,14,5
+Umaria,15,3
+Vidisha,1,13
+Vidisha,2,27
+Vidisha,3,65
+Vidisha,4,408
+Vidisha,5,758
+Vidisha,6,663
+Vidisha,7,431
+Vidisha,8,889
+Vidisha,9,308
+Vidisha,10,46
+Vidisha,11,94
+Vidisha,12,1416
+Vidisha,13,5977
+Vidisha,14,792
+Vidisha,15,29
+Vidisha,16,2
+Ahmednagar,1,70
+Ahmednagar,2,169
+Ahmednagar,3,741
+Ahmednagar,4,11172
+Ahmednagar,5,17961
+Ahmednagar,6,21284
+Ahmednagar,7,7624
+Ahmednagar,8,7342
+Ahmednagar,9,4011
+Ahmednagar,10,2784
+Ahmednagar,11,6722
+Ahmednagar,12,41453
+Ahmednagar,13,96827
+Ahmednagar,14,42693
+Ahmednagar,15,13109
+Ahmednagar,16,23497
+Akola,1,208
+Akola,2,813
+Akola,3,879
+Akola,4,1290
+Akola,5,2293
+Akola,6,2491
+Akola,7,894
+Akola,8,1113
+Akola,9,1179
+Akola,10,1405
+Akola,11,7737
+Akola,12,12739
+Akola,13,15349
+Akola,14,9734
+Akola,15,859
+Akola,16,-334
+Amravati,1,92
+Amravati,2,252
+Amravati,3,572
+Amravati,4,2447
+Amravati,5,5222
+Amravati,6,7072
+Amravati,7,1980
+Amravati,8,1696
+Amravati,9,1598
+Amravati,10,4694
+Amravati,11,17693
+Amravati,12,10101
+Amravati,13,23277
+Amravati,14,16432
+Amravati,15,1329
+Amravati,16,1567
+Aurangabad,1,716
+Aurangabad,2,1952
+Aurangabad,3,5991
+Aurangabad,4,9264
+Aurangabad,5,11894
+Aurangabad,6,9592
+Aurangabad,7,4027
+Aurangabad,8,2908
+Aurangabad,9,2316
+Aurangabad,10,1364
+Aurangabad,11,9405
+Aurangabad,12,43533
+Aurangabad,13,35309
+Aurangabad,14,11155
+Aurangabad,15,3327
+Aurangabad,16,1858
+Beed,1,1
+Beed,2,74
+Beed,3,166
+Beed,4,2186
+Beed,5,4606
+Beed,6,5214
+Beed,7,2833
+Beed,8,1711
+Beed,9,761
+Beed,10,970
+Beed,11,2274
+Beed,12,14929
+Beed,13,37770
+Beed,14,17023
+Beed,15,4811
+Beed,16,4557
+Bhandara,1,1
+Bhandara,2,48
+Bhandara,3,126
+Bhandara,4,292
+Bhandara,5,2549
+Bhandara,6,4419
+Bhandara,7,2471
+Bhandara,8,2155
+Bhandara,9,1173
+Bhandara,10,428
+Bhandara,11,942
+Bhandara,12,18108
+Bhandara,13,24595
+Bhandara,14,2597
+Bhandara,15,169
+Bhandara,16,-33
+Buldhana,1,26
+Buldhana,2,99
+Buldhana,3,295
+Buldhana,4,1792
+Buldhana,5,3186
+Buldhana,6,3734
+Buldhana,7,2140
+Buldhana,8,1397
+Buldhana,9,1607
+Buldhana,10,1368
+Buldhana,11,5221
+Buldhana,12,16103
+Buldhana,13,30344
+Buldhana,14,14838
+Buldhana,15,2136
+Buldhana,16,585
+Chandrapur,1,5
+Chandrapur,2,42
+Chandrapur,3,137
+Chandrapur,4,788
+Chandrapur,5,4672
+Chandrapur,6,7451
+Chandrapur,7,5053
+Chandrapur,8,3971
+Chandrapur,9,1711
+Chandrapur,10,510
+Chandrapur,11,1647
+Chandrapur,12,11251
+Chandrapur,13,42199
+Chandrapur,14,8058
+Chandrapur,15,600
+Chandrapur,16,616
+Dhule,1,71
+Dhule,2,322
+Dhule,3,1217
+Dhule,4,3160
+Dhule,5,6132
+Dhule,6,2572
+Dhule,7,1045
+Dhule,8,488
+Dhule,9,845
+Dhule,10,453
+Dhule,11,2565
+Dhule,12,13556
+Dhule,13,9416
+Dhule,14,3607
+Dhule,15,510
+Dhule,16,318
+Gadchiroli,1,49
+Gadchiroli,2,87
+Gadchiroli,3,364
+Gadchiroli,4,758
+Gadchiroli,5,2491
+Gadchiroli,6,2638
+Gadchiroli,7,1686
+Gadchiroli,8,665
+Gadchiroli,9,147
+Gadchiroli,10,440
+Gadchiroli,11,2975
+Gadchiroli,12,13283
+Gadchiroli,13,3518
+Gadchiroli,14,856
+Gadchiroli,15,343
+Gondia,1,1
+Gondia,2,69
+Gondia,3,147
+Gondia,4,517
+Gondia,5,2556
+Gondia,6,4994
+Gondia,7,2620
+Gondia,8,2297
+Gondia,9,951
+Gondia,10,295
+Gondia,11,411
+Gondia,12,7750
+Gondia,13,15842
+Gondia,14,1890
+Gondia,15,125
+Gondia,16,70
+Hingoli,1,61
+Hingoli,2,178
+Hingoli,3,105
+Hingoli,4,595
+Hingoli,5,1213
+Hingoli,6,1223
+Hingoli,7,428
+Hingoli,8,257
+Hingoli,9,240
+Hingoli,10,174
+Hingoli,11,868
+Hingoli,12,4300
+Hingoli,13,6606
+Hingoli,14,1892
+Hingoli,15,180
+Hingoli,16,104
+Jalgaon,1,223
+Jalgaon,2,1479
+Jalgaon,3,4653
+Jalgaon,4,10503
+Jalgaon,5,21238
+Jalgaon,6,13376
+Jalgaon,7,2697
+Jalgaon,8,1405
+Jalgaon,9,1265
+Jalgaon,10,1231
+Jalgaon,11,11534
+Jalgaon,12,32257
+Jalgaon,13,28979
+Jalgaon,14,7919
+Jalgaon,15,659
+Jalgaon,16,404
+Jalna,1,20
+Jalna,2,252
+Jalna,3,812
+Jalna,4,1866
+Jalna,5,3057
+Jalna,6,2637
+Jalna,7,2582
+Jalna,8,1155
+Jalna,9,689
+Jalna,10,619
+Jalna,11,3024
+Jalna,12,15088
+Jalna,13,21739
+Jalna,14,5589
+Jalna,15,792
+Jalna,16,423
+Kolhapur,1,25
+Kolhapur,2,669
+Kolhapur,3,628
+Kolhapur,4,11423
+Kolhapur,5,20469
+Kolhapur,6,12871
+Kolhapur,7,2077
+Kolhapur,8,1010
+Kolhapur,9,-249
+Kolhapur,10,430
+Kolhapur,11,791
+Kolhapur,12,4307
+Kolhapur,13,33049
+Kolhapur,14,46940
+Kolhapur,15,44118
+Kolhapur,16,22275
+Latur,1,32
+Latur,2,144
+Latur,3,582
+Latur,4,4043
+Latur,5,7930
+Latur,6,6766
+Latur,7,1847
+Latur,8,1515
+Latur,9,898
+Latur,10,1188
+Latur,11,1982
+Latur,12,22123
+Latur,13,35039
+Latur,14,6310
+Latur,15,-162
+Latur,16,1011
+Mumbai,1,16738
+Mumbai,2,41488
+Mumbai,3,36874
+Mumbai,4,33435
+Mumbai,5,43475
+Mumbai,6,62592
+Mumbai,7,34531
+Mumbai,8,21980
+Mumbai,9,9968
+Mumbai,10,12995
+Mumbai,11,29886
+Mumbai,12,201233
+Mumbai,13,139650
+Mumbai,14,31345
+Mumbai,15,13073
+Mumbai,16,9806
+Nagpur,1,331
+Nagpur,2,682
+Nagpur,3,1143
+Nagpur,4,9761
+Nagpur,5,40136
+Nagpur,6,36618
+Nagpur,7,19920
+Nagpur,8,11020
+Nagpur,9,11541
+Nagpur,10,9165
+Nagpur,11,33230
+Nagpur,12,130213
+Nagpur,13,172397
+Nagpur,14,16079
+Nagpur,15,632
+Nagpur,16,219
+Nanded,1,57
+Nanded,2,178
+Nanded,3,404
+Nanded,4,3053
+Nanded,5,7838
+Nanded,6,6463
+Nanded,7,1644
+Nanded,8,1134
+Nanded,9,1070
+Nanded,10,702
+Nanded,11,3627
+Nanded,12,37625
+Nanded,13,23700
+Nanded,14,2587
+Nanded,15,408
+Nanded,16,176
+Nandurbar,1,22
+Nandurbar,2,26
+Nandurbar,3,234
+Nandurbar,4,821
+Nandurbar,5,2934
+Nandurbar,6,1877
+Nandurbar,7,731
+Nandurbar,8,977
+Nandurbar,9,1375
+Nandurbar,10,971
+Nandurbar,11,1480
+Nandurbar,12,14918
+Nandurbar,13,11283
+Nandurbar,14,1332
+Nandurbar,15,407
+Nandurbar,16,581
+Nashik,1,807
+Nashik,2,1127
+Nashik,3,5729
+Nashik,4,16781
+Nashik,5,31150
+Nashik,6,31631
+Nashik,7,12809
+Nashik,8,10423
+Nashik,9,8059
+Nashik,10,5228
+Nashik,11,14205
+Nashik,12,94041
+Nashik,13,131086
+Nashik,14,31060
+Nashik,15,6458
+Nashik,16,3374
+Osmanabad,1,4
+Osmanabad,2,142
+Osmanabad,3,264
+Osmanabad,4,2846
+Osmanabad,5,5770
+Osmanabad,6,5297
+Osmanabad,7,1469
+Osmanabad,8,895
+Osmanabad,9,526
+Osmanabad,10,498
+Osmanabad,11,822
+Osmanabad,12,8960
+Osmanabad,13,21104
+Osmanabad,14,11830
+Osmanabad,15,2324
+Osmanabad,16,2510
+Palghar,1,337
+Palghar,2,1989
+Palghar,3,7900
+Palghar,4,10017
+Palghar,5,10944
+Palghar,6,9292
+Palghar,7,3547
+Palghar,8,2126
+Palghar,9,1337
+Palghar,10,888
+Palghar,11,1495
+Palghar,12,15997
+Palghar,13,40427
+Palghar,14,14302
+Palghar,15,7484
+Palghar,16,5876
+Parbhani,1,2
+Parbhani,2,80
+Parbhani,3,145
+Parbhani,4,1104
+Parbhani,5,2885
+Parbhani,6,2009
+Parbhani,7,658
+Parbhani,8,498
+Parbhani,9,377
+Parbhani,10,289
+Parbhani,11,1285
+Parbhani,12,13080
+Parbhani,13,23763
+Parbhani,14,5042
+Parbhani,15,717
+Parbhani,16,349
+Pune,1,3314
+Pune,2,8870
+Pune,3,29908
+Pune,4,82549
+Pune,5,110778
+Pune,6,83961
+Pune,7,22198
+Pune,8,21205
+Pune,9,17848
+Pune,10,14032
+Pune,11,44899
+Pune,12,239751
+Pune,13,283780
+Pune,14,73522
+Pune,15,34654
+Pune,16,31999
+Raigad,1,327
+Raigad,2,1541
+Raigad,3,7242
+Raigad,4,13168
+Raigad,5,19835
+Raigad,6,14288
+Raigad,7,4822
+Raigad,8,3331
+Raigad,9,3086
+Raigad,10,1789
+Raigad,11,3545
+Raigad,12,23230
+Raigad,13,41026
+Raigad,14,20220
+Raigad,15,18449
+Raigad,16,10356
+Ratnagiri,1,83
+Ratnagiri,2,309
+Ratnagiri,3,524
+Ratnagiri,4,1695
+Ratnagiri,5,3776
+Ratnagiri,6,3032
+Ratnagiri,7,653
+Ratnagiri,8,1009
+Ratnagiri,9,230
+Ratnagiri,10,427
+Ratnagiri,11,598
+Ratnagiri,12,2241
+Ratnagiri,13,19604
+Ratnagiri,14,19103
+Ratnagiri,15,13965
+Ratnagiri,16,6674
+Sangli,1,43
+Sangli,2,182
+Sangli,3,423
+Sangli,4,5096
+Sangli,5,19915
+Sangli,6,18134
+Sangli,7,4046
+Sangli,8,1387
+Sangli,9,1297
+Sangli,10,543
+Sangli,11,763
+Sangli,12,8725
+Sangli,13,42064
+Sangli,14,36676
+Sangli,15,28931
+Sangli,16,26042
+Satara,1,125
+Satara,2,616
+Satara,3,1114
+Satara,4,4938
+Satara,5,18070
+Satara,6,18602
+Satara,7,6680
+Satara,8,3968
+Satara,9,1289
+Satara,10,2041
+Satara,11,3279
+Satara,12,15523
+Satara,13,56409
+Satara,14,47848
+Satara,15,24161
+Satara,16,24168
+Sindhudurg,1,7
+Sindhudurg,2,143
+Sindhudurg,3,112
+Sindhudurg,4,304
+Sindhudurg,5,1909
+Sindhudurg,6,2099
+Sindhudurg,7,621
+Sindhudurg,8,569
+Sindhudurg,9,439
+Sindhudurg,10,329
+Sindhudurg,11,245
+Sindhudurg,12,2131
+Sindhudurg,13,10383
+Sindhudurg,14,15274
+Sindhudurg,15,10610
+Sindhudurg,16,4492
+Solapur,1,344
+Solapur,2,1476
+Solapur,3,2658
+Solapur,4,9136
+Solapur,5,14093
+Solapur,6,12973
+Solapur,7,5885
+Solapur,8,5281
+Solapur,9,3061
+Solapur,10,1883
+Solapur,11,2964
+Solapur,12,20513
+Solapur,13,55374
+Solapur,14,32506
+Solapur,15,11550
+Solapur,16,16567
+Thane,1,3287
+Thane,2,14793
+Thane,3,47244
+Thane,4,45614
+Thane,5,47970
+Thane,6,48853
+Thane,7,23089
+Thane,8,17178
+Thane,9,15339
+Thane,10,9312
+Thane,11,20373
+Thane,12,133550
+Thane,13,119747
+Thane,14,24192
+Thane,15,16098
+Thane,16,6111
+Wardha,1,1
+Wardha,2,13
+Wardha,3,30
+Wardha,4,301
+Wardha,5,1932
+Wardha,6,3409
+Wardha,7,1599
+Wardha,8,1584
+Wardha,9,1294
+Wardha,10,1266
+Wardha,11,4714
+Wardha,12,12158
+Wardha,13,24571
+Wardha,14,5867
+Wardha,15,-194
+Wardha,16,-200
+Washim,1,3
+Washim,2,46
+Washim,3,204
+Washim,4,869
+Washim,5,1732
+Washim,6,2334
+Washim,7,735
+Washim,8,657
+Washim,9,421
+Washim,10,527
+Washim,11,3824
+Washim,12,9074
+Washim,13,13428
+Washim,14,7162
+Washim,15,538
+Washim,16,75
+Yavatmal,1,99
+Yavatmal,2,82
+Yavatmal,3,288
+Yavatmal,4,1479
+Yavatmal,5,3269
+Yavatmal,6,4617
+Yavatmal,7,1686
+Yavatmal,8,1386
+Yavatmal,9,1724
+Yavatmal,10,1714
+Yavatmal,11,5645
+Yavatmal,12,10211
+Yavatmal,13,31636
+Yavatmal,14,11764
+Yavatmal,15,443
+Yavatmal,16,180
+Churachandpur,1,0
+Churachandpur,2,0
+Churachandpur,3,0
+Churachandpur,4,0
+Churachandpur,5,0
+Churachandpur,6,0
+Churachandpur,7,0
+Churachandpur,8,0
+Churachandpur,9,0
+Churachandpur,10,0
+Churachandpur,11,0
+Churachandpur,12,0
+Churachandpur,13,0
+East Garo Hills,1,1
+East Garo Hills,2,103
+East Garo Hills,3,39
+East Garo Hills,4,151
+East Garo Hills,5,42
+East Garo Hills,6,3
+East Garo Hills,7,0
+East Garo Hills,8,0
+East Garo Hills,9,0
+East Garo Hills,10,85
+East Garo Hills,11,441
+East Garo Hills,12,620
+East Garo Hills,13,286
+East Jaintia Hills,1,1
+East Jaintia Hills,2,20
+East Jaintia Hills,3,164
+East Jaintia Hills,4,201
+East Jaintia Hills,5,106
+East Jaintia Hills,6,31
+East Jaintia Hills,7,19
+East Jaintia Hills,8,7
+East Jaintia Hills,9,3
+East Jaintia Hills,10,7
+East Jaintia Hills,11,324
+East Jaintia Hills,12,664
+East Jaintia Hills,13,355
+East Jaintia Hills,14,342
+East Khasi Hills,1,13
+East Khasi Hills,2,12
+East Khasi Hills,3,111
+East Khasi Hills,4,729
+East Khasi Hills,5,1592
+East Khasi Hills,6,2795
+East Khasi Hills,7,1152
+East Khasi Hills,8,1466
+East Khasi Hills,9,611
+East Khasi Hills,10,181
+East Khasi Hills,11,39
+East Khasi Hills,12,357
+East Khasi Hills,13,4914
+East Khasi Hills,14,10277
+East Khasi Hills,15,4287
+East Khasi Hills,16,6181
+North Garo Hills,1,1
+North Garo Hills,2,0
+North Garo Hills,3,7
+North Garo Hills,4,23
+North Garo Hills,5,47
+North Garo Hills,6,23
+North Garo Hills,7,15
+North Garo Hills,8,4
+North Garo Hills,9,0
+North Garo Hills,10,0
+North Garo Hills,11,0
+North Garo Hills,12,53
+North Garo Hills,13,543
+North Garo Hills,14,627
+North Garo Hills,15,288
+Ribhoi,1,1
+Ribhoi,2,15
+Ribhoi,3,138
+Ribhoi,4,183
+Ribhoi,5,407
+Ribhoi,6,487
+Ribhoi,7,99
+Ribhoi,8,25
+Ribhoi,9,27
+Ribhoi,10,7
+Ribhoi,11,32
+Ribhoi,12,881
+Ribhoi,13,2279
+Ribhoi,14,2213
+Ribhoi,15,1678
+South Garo Hills,1,6
+South Garo Hills,2,31
+South Garo Hills,3,39
+South Garo Hills,4,60
+South Garo Hills,5,58
+South Garo Hills,6,4
+South Garo Hills,7,0
+South Garo Hills,8,0
+South Garo Hills,9,0
+South Garo Hills,10,74
+South Garo Hills,11,337
+South Garo Hills,12,337
+South Garo Hills,13,223
+South West Garo Hills,1,5
+South West Garo Hills,2,2
+South West Garo Hills,3,4
+South West Garo Hills,4,12
+South West Garo Hills,5,66
+South West Garo Hills,6,35
+South West Garo Hills,7,67
+South West Garo Hills,8,7
+South West Garo Hills,9,1
+South West Garo Hills,10,1
+South West Garo Hills,11,0
+South West Garo Hills,12,171
+South West Garo Hills,13,853
+South West Garo Hills,14,355
+South West Garo Hills,15,222
+South West Khasi Hills,1,1
+South West Khasi Hills,2,5
+South West Khasi Hills,3,39
+South West Khasi Hills,4,5
+South West Khasi Hills,5,7
+South West Khasi Hills,6,0
+South West Khasi Hills,7,0
+South West Khasi Hills,8,0
+South West Khasi Hills,9,1
+South West Khasi Hills,10,49
+South West Khasi Hills,11,630
+South West Khasi Hills,12,484
+South West Khasi Hills,13,814
+West Garo Hills,1,5
+West Garo Hills,2,3
+West Garo Hills,3,116
+West Garo Hills,4,454
+West Garo Hills,5,391
+West Garo Hills,6,353
+West Garo Hills,7,365
+West Garo Hills,8,26
+West Garo Hills,9,2
+West Garo Hills,10,4
+West Garo Hills,11,29
+West Garo Hills,12,527
+West Garo Hills,13,1907
+West Garo Hills,14,1906
+West Garo Hills,15,2511
+West Jaintia Hills,1,5
+West Jaintia Hills,2,0
+West Jaintia Hills,3,19
+West Jaintia Hills,4,16
+West Jaintia Hills,5,92
+West Jaintia Hills,6,190
+West Jaintia Hills,7,145
+West Jaintia Hills,8,42
+West Jaintia Hills,9,33
+West Jaintia Hills,10,0
+West Jaintia Hills,11,56
+West Jaintia Hills,12,408
+West Jaintia Hills,13,1639
+West Jaintia Hills,14,1598
+West Jaintia Hills,15,1487
+West Khasi Hills,1,1
+West Khasi Hills,2,0
+West Khasi Hills,3,12
+West Khasi Hills,4,52
+West Khasi Hills,5,12
+West Khasi Hills,6,80
+West Khasi Hills,7,13
+West Khasi Hills,8,5
+West Khasi Hills,9,4
+West Khasi Hills,10,1
+West Khasi Hills,11,6
+West Khasi Hills,12,232
+West Khasi Hills,13,536
+West Khasi Hills,14,549
+West Khasi Hills,15,1716
+Aizawl,1,1
+Aizawl,2,27
+Aizawl,3,64
+Aizawl,4,285
+Aizawl,5,567
+Aizawl,6,482
+Aizawl,7,949
+Aizawl,8,300
+Aizawl,9,146
+Aizawl,10,63
+Aizawl,11,22
+Aizawl,12,198
+Aizawl,13,2578
+Aizawl,14,4875
+Aizawl,15,6597
+Aizawl,16,15578
+Champhai,1,5
+Champhai,2,5
+Champhai,3,6
+Champhai,4,1
+Champhai,5,7
+Champhai,6,40
+Champhai,7,28
+Champhai,8,2
+Champhai,9,0
+Champhai,10,8
+Champhai,11,8
+Champhai,12,57
+Champhai,13,68
+Champhai,14,61
+Champhai,15,477
+Hnahthial,1,1
+Hnahthial,2,1
+Hnahthial,3,3
+Hnahthial,4,9
+Hnahthial,5,1
+Hnahthial,6,4
+Hnahthial,7,1
+Hnahthial,8,0
+Hnahthial,9,3
+Hnahthial,10,1
+Hnahthial,11,2
+Hnahthial,12,74
+Hnahthial,13,30
+Khawzawl,1,2
+Khawzawl,2,1
+Khawzawl,3,0
+Khawzawl,4,0
+Khawzawl,5,1
+Khawzawl,6,14
+Khawzawl,7,4
+Khawzawl,8,1
+Khawzawl,9,0
+Khawzawl,10,0
+Khawzawl,11,0
+Khawzawl,12,29
+Khawzawl,13,29
+Khawzawl,14,23
+Khawzawl,15,5
+Kolasib,1,11
+Kolasib,2,1
+Kolasib,3,58
+Kolasib,4,137
+Kolasib,5,35
+Kolasib,6,16
+Kolasib,7,20
+Kolasib,8,14
+Kolasib,9,3
+Kolasib,10,0
+Kolasib,11,21
+Kolasib,12,172
+Kolasib,13,442
+Kolasib,14,931
+Kolasib,15,2179
+Lawngtlai,1,4
+Lawngtlai,2,8
+Lawngtlai,3,12
+Lawngtlai,4,9
+Lawngtlai,5,49
+Lawngtlai,6,47
+Lawngtlai,7,161
+Lawngtlai,8,37
+Lawngtlai,9,6
+Lawngtlai,10,7
+Lawngtlai,11,5
+Lawngtlai,12,166
+Lawngtlai,13,643
+Lawngtlai,14,733
+Lawngtlai,15,1066
+Lunglei,1,45
+Lunglei,2,13
+Lunglei,3,47
+Lunglei,4,23
+Lunglei,5,139
+Lunglei,6,28
+Lunglei,7,56
+Lunglei,8,58
+Lunglei,9,7
+Lunglei,10,2
+Lunglei,11,3
+Lunglei,12,189
+Lunglei,13,501
+Lunglei,14,764
+Lunglei,15,1742
+Mamit,1,9
+Mamit,2,11
+Mamit,3,1
+Mamit,4,12
+Mamit,5,20
+Mamit,6,18
+Mamit,7,11
+Mamit,8,0
+Mamit,9,0
+Mamit,10,1
+Mamit,11,5
+Mamit,12,105
+Mamit,13,48
+Mamit,14,279
+Mamit,15,1039
+Saiha,1,4
+Saiha,2,19
+Saiha,3,3
+Saiha,4,5
+Saiha,5,0
+Saiha,6,1
+Saiha,7,3
+Saiha,8,0
+Saiha,9,1
+Saiha,10,0
+Saiha,11,3
+Saiha,12,76
+Saiha,13,111
+Saiha,14,230
+Saiha,15,519
+Saitual,1,3
+Saitual,2,0
+Saitual,3,1
+Saitual,4,7
+Saitual,5,2
+Saitual,6,5
+Saitual,7,8
+Saitual,8,3
+Saitual,9,0
+Saitual,10,4
+Saitual,11,0
+Saitual,12,42
+Saitual,13,72
+Saitual,14,26
+Saitual,15,56
+Serchhip,1,1
+Serchhip,2,4
+Serchhip,3,5
+Serchhip,4,9
+Serchhip,5,46
+Serchhip,6,29
+Serchhip,7,80
+Serchhip,8,5
+Serchhip,9,1
+Serchhip,10,0
+Serchhip,11,3
+Serchhip,12,277
+Serchhip,13,195
+Serchhip,14,89
+Serchhip,15,134
+Dimapur,1,23
+Dimapur,2,199
+Dimapur,3,1394
+Dimapur,4,949
+Dimapur,5,1307
+Dimapur,6,1589
+Dimapur,7,882
+Dimapur,8,106
+Dimapur,9,27
+Dimapur,10,2
+Dimapur,11,65
+Dimapur,12,3271
+Dimapur,13,2213
+Dimapur,14,546
+Dimapur,15,844
+Kiphire,1,4
+Kiphire,2,0
+Kiphire,3,0
+Kiphire,4,12
+Kiphire,5,0
+Kiphire,6,7
+Kiphire,7,16
+Kiphire,8,2
+Kiphire,9,0
+Kiphire,10,0
+Kiphire,11,0
+Kiphire,12,29
+Kiphire,13,75
+Kiphire,14,46
+Kiphire,15,40
+Kohima,1,7
+Kohima,2,103
+Kohima,3,687
+Kohima,4,807
+Kohima,5,659
+Kohima,6,611
+Kohima,7,762
+Kohima,8,123
+Kohima,9,114
+Kohima,10,31
+Kohima,11,141
+Kohima,12,1337
+Kohima,13,1789
+Kohima,14,748
+Kohima,15,889
+Longleng,1,4
+Longleng,2,1
+Longleng,3,2
+Longleng,4,10
+Longleng,5,1
+Longleng,6,0
+Longleng,7,1
+Longleng,8,0
+Longleng,9,0
+Longleng,10,0
+Longleng,11,33
+Longleng,12,81
+Longleng,13,40
+Longleng,14,97
+Mokokchung,1,0
+Mokokchung,2,5
+Mokokchung,3,13
+Mokokchung,4,21
+Mokokchung,5,41
+Mokokchung,6,40
+Mokokchung,7,15
+Mokokchung,8,51
+Mokokchung,9,6
+Mokokchung,10,3
+Mokokchung,11,4
+Mokokchung,12,111
+Mokokchung,13,810
+Mokokchung,14,463
+Mokokchung,15,420
+Mon,1,33
+Mon,2,75
+Mon,3,180
+Mon,4,38
+Mon,5,112
+Mon,6,135
+Mon,7,27
+Mon,8,5
+Mon,9,0
+Mon,10,0
+Mon,11,0
+Mon,12,107
+Mon,13,214
+Mon,14,114
+Mon,15,59
+Others,1,2
+Others,2,44
+Others,3,0
+Others,4,0
+Others,5,0
+Others,6,0
+Peren,1,80
+Peren,2,232
+Peren,3,31
+Peren,4,7
+Peren,5,18
+Peren,6,-54
+Peren,7,180
+Peren,8,10
+Peren,9,3
+Peren,10,0
+Peren,11,0
+Peren,12,24
+Peren,13,47
+Peren,14,151
+Peren,15,154
+Phek,1,1
+Phek,2,17
+Phek,3,14
+Phek,4,2
+Phek,5,3
+Phek,6,3
+Phek,7,4
+Phek,8,3
+Phek,9,0
+Phek,10,0
+Phek,11,2
+Phek,12,45
+Phek,13,241
+Phek,14,86
+Phek,15,55
+Tuensang,1,10
+Tuensang,2,39
+Tuensang,3,3
+Tuensang,4,21
+Tuensang,5,44
+Tuensang,6,42
+Tuensang,7,79
+Tuensang,8,6
+Tuensang,9,4
+Tuensang,10,0
+Tuensang,11,2
+Tuensang,12,81
+Tuensang,13,391
+Tuensang,14,132
+Tuensang,15,139
+Wokha,1,0
+Wokha,2,11
+Wokha,3,17
+Wokha,4,7
+Wokha,5,1
+Wokha,6,-7
+Wokha,7,10
+Wokha,8,0
+Wokha,9,0
+Wokha,10,0
+Wokha,11,1
+Wokha,12,18
+Wokha,13,130
+Wokha,14,69
+Wokha,15,77
+Zunheboto,1,1
+Zunheboto,2,6
+Zunheboto,3,86
+Zunheboto,4,26
+Zunheboto,5,7
+Zunheboto,6,13
+Zunheboto,7,3
+Zunheboto,8,0
+Zunheboto,9,0
+Zunheboto,10,0
+Zunheboto,11,0
+Zunheboto,12,35
+Zunheboto,13,231
+Zunheboto,14,101
+Zunheboto,15,74
+Angul,1,15
+Angul,2,26
+Angul,3,100
+Angul,4,325
+Angul,5,1544
+Angul,6,4220
+Angul,7,2873
+Angul,8,1198
+Angul,9,917
+Angul,10,210
+Angul,11,78
+Angul,12,451
+Angul,13,9296
+Angul,14,16865
+Angul,15,3221
+Angul,16,1815
+Balangir,1,2
+Balangir,2,141
+Balangir,3,125
+Balangir,4,520
+Balangir,5,2278
+Balangir,6,2480
+Balangir,7,1981
+Balangir,8,731
+Balangir,9,470
+Balangir,10,74
+Balangir,11,60
+Balangir,12,630
+Balangir,13,7909
+Balangir,14,5103
+Balangir,15,546
+Balangir,16,187
+Balasore,1,102
+Balasore,2,102
+Balasore,3,350
+Balasore,4,1130
+Balasore,5,3620
+Balasore,6,3697
+Balasore,7,2035
+Balasore,8,725
+Balasore,9,395
+Balasore,10,183
+Balasore,11,136
+Balasore,12,536
+Balasore,13,5182
+Balasore,14,11056
+Balasore,15,6844
+Balasore,16,2696
+Bargarh,1,34
+Bargarh,2,171
+Bargarh,3,559
+Bargarh,4,3654
+Bargarh,5,3279
+Bargarh,6,1670
+Bargarh,7,568
+Bargarh,8,422
+Bargarh,9,240
+Bargarh,10,107
+Bargarh,11,946
+Bargarh,12,10022
+Bargarh,13,7750
+Bargarh,14,1047
+Bargarh,15,331
+Bhadrak,1,46
+Bhadrak,2,112
+Bhadrak,3,138
+Bhadrak,4,1004
+Bhadrak,5,2640
+Bhadrak,6,2158
+Bhadrak,7,921
+Bhadrak,8,294
+Bhadrak,9,131
+Bhadrak,10,42
+Bhadrak,11,29
+Bhadrak,12,250
+Bhadrak,13,3735
+Bhadrak,14,8403
+Bhadrak,15,4230
+Bhadrak,16,1651
+Boudh,1,4
+Boudh,2,34
+Boudh,3,22
+Boudh,4,197
+Boudh,5,855
+Boudh,6,1121
+Boudh,7,458
+Boudh,8,64
+Boudh,9,37
+Boudh,10,20
+Boudh,11,10
+Boudh,12,20
+Boudh,13,2868
+Boudh,14,5880
+Boudh,15,807
+Boudh,16,138
+Cuttack,1,4
+Cuttack,2,319
+Cuttack,3,737
+Cuttack,4,2559
+Cuttack,5,9763
+Cuttack,6,10233
+Cuttack,7,3682
+Cuttack,8,1086
+Cuttack,9,503
+Cuttack,10,227
+Cuttack,11,122
+Cuttack,12,947
+Cuttack,13,15978
+Cuttack,14,24040
+Cuttack,15,11984
+Cuttack,16,6553
+Deogarh,1,2
+Deogarh,2,38
+Deogarh,3,26
+Deogarh,4,55
+Deogarh,5,286
+Deogarh,6,462
+Deogarh,7,265
+Deogarh,8,105
+Deogarh,9,63
+Deogarh,10,43
+Deogarh,11,47
+Deogarh,12,68
+Deogarh,13,2112
+Deogarh,14,2216
+Deogarh,15,284
+Deogarh,16,153
+Dhenkanal,1,1
+Dhenkanal,2,50
+Dhenkanal,3,53
+Dhenkanal,4,692
+Dhenkanal,5,1823
+Dhenkanal,6,1850
+Dhenkanal,7,986
+Dhenkanal,8,213
+Dhenkanal,9,37
+Dhenkanal,10,8
+Dhenkanal,11,4
+Dhenkanal,12,58
+Dhenkanal,13,2210
+Dhenkanal,14,8276
+Dhenkanal,15,2036
+Dhenkanal,16,988
+Gajapati,1,99
+Gajapati,2,544
+Gajapati,3,1569
+Gajapati,4,954
+Gajapati,5,569
+Gajapati,6,183
+Gajapati,7,40
+Gajapati,8,78
+Gajapati,9,36
+Gajapati,10,14
+Gajapati,11,86
+Gajapati,12,2636
+Gajapati,13,2077
+Gajapati,14,482
+Gajapati,15,173
+Ganjam,1,264
+Ganjam,2,418
+Ganjam,3,3653
+Ganjam,4,9787
+Ganjam,5,5133
+Ganjam,6,1470
+Ganjam,7,742
+Ganjam,8,270
+Ganjam,9,104
+Ganjam,10,49
+Ganjam,11,19
+Ganjam,12,412
+Ganjam,13,5505
+Ganjam,14,4852
+Ganjam,15,578
+Ganjam,16,265
+Jagatsinghpur,1,5
+Jagatsinghpur,2,149
+Jagatsinghpur,3,273
+Jagatsinghpur,4,583
+Jagatsinghpur,5,2083
+Jagatsinghpur,6,3216
+Jagatsinghpur,7,2055
+Jagatsinghpur,8,622
+Jagatsinghpur,9,125
+Jagatsinghpur,10,47
+Jagatsinghpur,11,9
+Jagatsinghpur,12,122
+Jagatsinghpur,13,3398
+Jagatsinghpur,14,7736
+Jagatsinghpur,15,3378
+Jagatsinghpur,16,2434
+Jajpur,1,90
+Jajpur,2,251
+Jajpur,3,573
+Jajpur,4,917
+Jajpur,5,4059
+Jajpur,6,3923
+Jajpur,7,1499
+Jajpur,8,446
+Jajpur,9,347
+Jajpur,10,139
+Jajpur,11,116
+Jajpur,12,370
+Jajpur,13,6791
+Jajpur,14,12896
+Jajpur,15,6878
+Jajpur,16,2560
+Jharsuguda,1,2
+Jharsuguda,2,15
+Jharsuguda,3,165
+Jharsuguda,4,310
+Jharsuguda,5,2111
+Jharsuguda,6,2947
+Jharsuguda,7,1261
+Jharsuguda,8,539
+Jharsuguda,9,325
+Jharsuguda,10,145
+Jharsuguda,11,106
+Jharsuguda,12,502
+Jharsuguda,13,9792
+Jharsuguda,14,4880
+Jharsuguda,15,362
+Jharsuguda,16,182
+Kalahandi,1,2
+Kalahandi,2,55
+Kalahandi,3,26
+Kalahandi,4,588
+Kalahandi,5,1399
+Kalahandi,6,2191
+Kalahandi,7,1437
+Kalahandi,8,521
+Kalahandi,9,116
+Kalahandi,10,46
+Kalahandi,11,21
+Kalahandi,12,884
+Kalahandi,13,9395
+Kalahandi,14,6615
+Kalahandi,15,709
+Kalahandi,16,181
+Kandhamal,1,89
+Kandhamal,2,110
+Kandhamal,3,1002
+Kandhamal,4,1721
+Kandhamal,5,2301
+Kandhamal,6,601
+Kandhamal,7,94
+Kandhamal,8,20
+Kandhamal,9,9
+Kandhamal,10,5
+Kandhamal,11,81
+Kandhamal,12,1562
+Kandhamal,13,2546
+Kandhamal,14,879
+Kandhamal,15,392
+Kendrapara,1,22
+Kendrapara,2,154
+Kendrapara,3,133
+Kendrapara,4,479
+Kendrapara,5,2446
+Kendrapara,6,3212
+Kendrapara,7,1867
+Kendrapara,8,528
+Kendrapara,9,277
+Kendrapara,10,28
+Kendrapara,11,9
+Kendrapara,12,89
+Kendrapara,13,2653
+Kendrapara,14,6795
+Kendrapara,15,3331
+Kendrapara,16,1811
+Kendujhar,1,4
+Kendujhar,2,66
+Kendujhar,3,270
+Kendujhar,4,780
+Kendujhar,5,1808
+Kendujhar,6,2397
+Kendujhar,7,1686
+Kendujhar,8,707
+Kendujhar,9,247
+Kendujhar,10,49
+Kendujhar,11,30
+Kendujhar,12,328
+Kendujhar,13,4760
+Kendujhar,14,4730
+Kendujhar,15,1967
+Kendujhar,16,758
+Khordha,1,53
+Khordha,2,302
+Khordha,3,1068
+Khordha,4,6361
+Khordha,5,18970
+Khordha,6,17919
+Khordha,7,5789
+Khordha,8,1680
+Khordha,9,767
+Khordha,10,221
+Khordha,11,191
+Khordha,12,2436
+Khordha,13,36093
+Khordha,14,35568
+Khordha,15,14673
+Khordha,16,13113
+Koraput,1,1
+Koraput,2,16
+Koraput,3,172
+Koraput,4,1391
+Koraput,5,3278
+Koraput,6,1912
+Koraput,7,887
+Koraput,8,166
+Koraput,9,43
+Koraput,10,18
+Koraput,11,14
+Koraput,12,124
+Koraput,13,2882
+Koraput,14,6076
+Koraput,15,1668
+Koraput,16,243
+Malkangiri,1,26
+Malkangiri,2,169
+Malkangiri,3,888
+Malkangiri,4,1727
+Malkangiri,5,1500
+Malkangiri,6,767
+Malkangiri,7,129
+Malkangiri,8,31
+Malkangiri,9,6
+Malkangiri,10,3
+Malkangiri,11,14
+Malkangiri,12,1204
+Malkangiri,13,3045
+Malkangiri,14,1687
+Malkangiri,15,349
+Mayurbhanj,1,9
+Mayurbhanj,2,112
+Mayurbhanj,3,255
+Mayurbhanj,4,778
+Mayurbhanj,5,4597
+Mayurbhanj,6,4018
+Mayurbhanj,7,2662
+Mayurbhanj,8,1150
+Mayurbhanj,9,453
+Mayurbhanj,10,109
+Mayurbhanj,11,134
+Mayurbhanj,12,525
+Mayurbhanj,13,5678
+Mayurbhanj,14,12357
+Mayurbhanj,15,4607
+Mayurbhanj,16,1666
+Nabarangapur,1,2
+Nabarangapur,2,127
+Nabarangapur,3,325
+Nabarangapur,4,1772
+Nabarangapur,5,2316
+Nabarangapur,6,1042
+Nabarangapur,7,170
+Nabarangapur,8,59
+Nabarangapur,9,15
+Nabarangapur,10,15
+Nabarangapur,11,482
+Nabarangapur,12,8112
+Nabarangapur,13,7673
+Nabarangapur,14,1157
+Nabarangapur,15,209
+Nayagarh,1,4
+Nayagarh,2,104
+Nayagarh,3,163
+Nayagarh,4,1063
+Nayagarh,5,2506
+Nayagarh,6,1650
+Nayagarh,7,797
+Nayagarh,8,122
+Nayagarh,9,65
+Nayagarh,10,7
+Nayagarh,11,10
+Nayagarh,12,118
+Nayagarh,13,4577
+Nayagarh,14,7197
+Nayagarh,15,3143
+Nayagarh,16,1402
+Nuapada,1,74
+Nuapada,2,17
+Nuapada,3,142
+Nuapada,4,1378
+Nuapada,5,2830
+Nuapada,6,1949
+Nuapada,7,723
+Nuapada,8,315
+Nuapada,9,175
+Nuapada,10,40
+Nuapada,11,1484
+Nuapada,12,10551
+Nuapada,13,2694
+Nuapada,14,329
+Nuapada,15,114
+Others,1,149
+Others,2,-147
+Puri,1,14
+Puri,2,141
+Puri,3,216
+Puri,4,1184
+Puri,5,5042
+Puri,6,4907
+Puri,7,1696
+Puri,8,620
+Puri,9,304
+Puri,10,286
+Puri,11,92
+Puri,12,528
+Puri,13,9776
+Puri,14,11604
+Puri,15,5192
+Puri,16,2495
+Rayagada,1,7
+Rayagada,2,158
+Rayagada,3,1639
+Rayagada,4,4418
+Rayagada,5,1599
+Rayagada,6,395
+Rayagada,7,125
+Rayagada,8,53
+Rayagada,9,44
+Rayagada,10,25
+Rayagada,11,285
+Rayagada,12,3711
+Rayagada,13,5406
+Rayagada,14,1596
+Rayagada,15,447
+Sambalpur,1,23
+Sambalpur,2,92
+Sambalpur,3,1213
+Sambalpur,4,2789
+Sambalpur,5,3208
+Sambalpur,6,1126
+Sambalpur,7,538
+Sambalpur,8,621
+Sambalpur,9,315
+Sambalpur,10,242
+Sambalpur,11,911
+Sambalpur,12,10318
+Sambalpur,13,7828
+Sambalpur,14,862
+Sambalpur,15,581
+State Pool,1,1255
+State Pool,2,5469
+State Pool,3,1099
+State Pool,4,350
+State Pool,5,184
+State Pool,6,47
+State Pool,7,38
+State Pool,8,548
+State Pool,9,7063
+State Pool,10,6181
+State Pool,11,2519
+State Pool,12,2699
+Subarnapur,1,29
+Subarnapur,2,15
+Subarnapur,3,230
+Subarnapur,4,1543
+Subarnapur,5,2002
+Subarnapur,6,790
+Subarnapur,7,68
+Subarnapur,8,58
+Subarnapur,9,32
+Subarnapur,10,23
+Subarnapur,11,106
+Subarnapur,12,3210
+Subarnapur,13,4151
+Subarnapur,14,621
+Subarnapur,15,225
+Sundargarh,1,26
+Sundargarh,2,100
+Sundargarh,3,599
+Sundargarh,4,2080
+Sundargarh,5,2923
+Sundargarh,6,3480
+Sundargarh,7,3164
+Sundargarh,8,1591
+Sundargarh,9,1107
+Sundargarh,10,541
+Sundargarh,11,269
+Sundargarh,12,2820
+Sundargarh,13,24355
+Sundargarh,14,14938
+Sundargarh,15,2011
+Sundargarh,16,947
+Karaikal,1,1
+Karaikal,2,3
+Karaikal,3,95
+Karaikal,4,328
+Karaikal,5,942
+Karaikal,6,1781
+Karaikal,7,374
+Karaikal,8,172
+Karaikal,9,141
+Karaikal,10,109
+Karaikal,11,119
+Karaikal,12,1270
+Karaikal,13,3794
+Karaikal,14,4789
+Karaikal,15,891
+Karaikal,16,382
+Mahe,1,2
+Mahe,2,7
+Mahe,3,12
+Mahe,4,7
+Mahe,5,78
+Mahe,6,570
+Mahe,7,493
+Mahe,8,414
+Mahe,9,309
+Mahe,10,243
+Mahe,11,121
+Mahe,12,199
+Mahe,13,1128
+Mahe,14,755
+Mahe,15,338
+Mahe,16,371
+Puducherry,1,13
+Puducherry,2,168
+Puducherry,3,1195
+Puducherry,4,4673
+Puducherry,5,11396
+Puducherry,6,9169
+Puducherry,7,2946
+Puducherry,8,590
+Puducherry,9,575
+Puducherry,10,522
+Puducherry,11,334
+Puducherry,12,3789
+Puducherry,13,27944
+Puducherry,14,24872
+Puducherry,15,5077
+Puducherry,16,2071
+Yanam,1,35
+Yanam,2,456
+Yanam,3,815
+Yanam,4,499
+Yanam,5,241
+Yanam,6,38
+Yanam,7,29
+Yanam,8,7
+Yanam,9,8
+Yanam,10,161
+Yanam,11,2632
+Yanam,12,1474
+Yanam,13,159
+Yanam,14,77
+Amritsar,1,298
+Amritsar,2,315
+Amritsar,3,496
+Amritsar,4,1561
+Amritsar,5,4085
+Amritsar,6,4527
+Amritsar,7,947
+Amritsar,8,1757
+Amritsar,9,799
+Amritsar,10,444
+Amritsar,11,1632
+Amritsar,12,8286
+Amritsar,13,14530
+Amritsar,14,6535
+Amritsar,15,755
+Amritsar,16,177
+Barnala,1,21
+Barnala,2,10
+Barnala,3,46
+Barnala,4,493
+Barnala,5,912
+Barnala,6,473
+Barnala,7,197
+Barnala,8,98
+Barnala,9,51
+Barnala,10,47
+Barnala,11,45
+Barnala,12,560
+Barnala,13,1486
+Barnala,14,1324
+Barnala,15,125
+Barnala,16,29
+Bathinda,1,40
+Bathinda,2,17
+Bathinda,3,94
+Bathinda,4,921
+Bathinda,5,3007
+Bathinda,6,2430
+Bathinda,7,1153
+Bathinda,8,1174
+Bathinda,9,481
+Bathinda,10,300
+Bathinda,11,438
+Bathinda,12,3677
+Bathinda,13,17724
+Bathinda,14,9057
+Bathinda,15,883
+Bathinda,16,175
+Faridkot,1,46
+Faridkot,2,40
+Faridkot,3,83
+Faridkot,4,349
+Faridkot,5,1474
+Faridkot,6,1018
+Faridkot,7,424
+Faridkot,8,354
+Faridkot,9,158
+Faridkot,10,151
+Faridkot,11,230
+Faridkot,12,1405
+Faridkot,13,4369
+Faridkot,14,3285
+Faridkot,15,399
+Faridkot,16,58
+Fatehgarh Sahib,1,56
+Fatehgarh Sahib,2,20
+Fatehgarh Sahib,3,97
+Fatehgarh Sahib,4,442
+Fatehgarh Sahib,5,845
+Fatehgarh Sahib,6,605
+Fatehgarh Sahib,7,160
+Fatehgarh Sahib,8,214
+Fatehgarh Sahib,9,102
+Fatehgarh Sahib,10,122
+Fatehgarh Sahib,11,349
+Fatehgarh Sahib,12,1213
+Fatehgarh Sahib,13,2299
+Fatehgarh Sahib,14,2019
+Fatehgarh Sahib,15,213
+Fatehgarh Sahib,16,52
+Fazilka,1,41
+Fazilka,2,9
+Fazilka,3,62
+Fazilka,4,293
+Fazilka,5,1071
+Fazilka,6,1278
+Fazilka,7,565
+Fazilka,8,450
+Fazilka,9,112
+Fazilka,10,42
+Fazilka,11,119
+Fazilka,12,1017
+Fazilka,13,8463
+Fazilka,14,6085
+Fazilka,15,488
+Fazilka,16,96
+Ferozepur,1,44
+Ferozepur,2,5
+Ferozepur,3,120
+Ferozepur,4,636
+Ferozepur,5,1647
+Ferozepur,6,1606
+Ferozepur,7,218
+Ferozepur,8,200
+Ferozepur,9,84
+Ferozepur,10,38
+Ferozepur,11,218
+Ferozepur,12,1145
+Ferozepur,13,3952
+Ferozepur,14,3792
+Ferozepur,15,435
+Ferozepur,16,108
+Gurdaspur,1,121
+Gurdaspur,2,47
+Gurdaspur,3,123
+Gurdaspur,4,716
+Gurdaspur,5,3150
+Gurdaspur,6,2455
+Gurdaspur,7,461
+Gurdaspur,8,633
+Gurdaspur,9,360
+Gurdaspur,10,222
+Gurdaspur,11,815
+Gurdaspur,12,3486
+Gurdaspur,13,5726
+Gurdaspur,14,3407
+Gurdaspur,15,459
+Gurdaspur,16,74
+Hoshiarpur,1,92
+Hoshiarpur,2,47
+Hoshiarpur,3,65
+Hoshiarpur,4,569
+Hoshiarpur,5,2184
+Hoshiarpur,6,2238
+Hoshiarpur,7,1340
+Hoshiarpur,8,835
+Hoshiarpur,9,537
+Hoshiarpur,10,326
+Hoshiarpur,11,2337
+Hoshiarpur,12,6311
+Hoshiarpur,13,7886
+Hoshiarpur,14,5185
+Hoshiarpur,15,615
+Hoshiarpur,16,120
+Jalandhar,1,205
+Jalandhar,2,119
+Jalandhar,3,1021
+Jalandhar,4,2382
+Jalandhar,5,6216
+Jalandhar,6,4303
+Jalandhar,7,1830
+Jalandhar,8,3078
+Jalandhar,9,1139
+Jalandhar,10,671
+Jalandhar,11,2747
+Jalandhar,12,11316
+Jalandhar,13,17349
+Jalandhar,14,9712
+Jalandhar,15,863
+Jalandhar,16,222
+Kapurthala,1,27
+Kapurthala,2,15
+Kapurthala,3,99
+Kapurthala,4,427
+Kapurthala,5,1539
+Kapurthala,6,1732
+Kapurthala,7,399
+Kapurthala,8,335
+Kapurthala,9,261
+Kapurthala,10,289
+Kapurthala,11,1715
+Kapurthala,12,3598
+Kapurthala,13,4318
+Kapurthala,14,2606
+Kapurthala,15,339
+Kapurthala,16,85
+Ludhiana,1,151
+Ludhiana,2,203
+Ludhiana,3,1166
+Ludhiana,4,4918
+Ludhiana,5,7368
+Ludhiana,6,5597
+Ludhiana,7,1838
+Ludhiana,8,2767
+Ludhiana,9,1195
+Ludhiana,10,1137
+Ludhiana,11,2493
+Ludhiana,12,11630
+Ludhiana,13,33258
+Ludhiana,14,12596
+Ludhiana,15,873
+Ludhiana,16,232
+Mansa,1,32
+Mansa,2,2
+Mansa,3,30
+Mansa,4,194
+Mansa,5,826
+Mansa,6,717
+Mansa,7,244
+Mansa,8,293
+Mansa,9,109
+Mansa,10,39
+Mansa,11,103
+Mansa,12,968
+Mansa,13,7387
+Mansa,14,4305
+Mansa,15,303
+Mansa,16,24
+Moga,1,59
+Moga,2,11
+Moga,3,82
+Moga,4,525
+Moga,5,1206
+Moga,6,530
+Moga,7,118
+Moga,8,165
+Moga,9,76
+Moga,10,50
+Moga,11,266
+Moga,12,1047
+Moga,13,2810
+Moga,14,1475
+Moga,15,182
+Moga,16,30
+Pathankot,1,29
+Pathankot,2,114
+Pathankot,3,113
+Pathankot,4,452
+Pathankot,5,1572
+Pathankot,6,1880
+Pathankot,7,525
+Pathankot,8,764
+Pathankot,9,363
+Pathankot,10,64
+Pathankot,11,203
+Pathankot,12,1361
+Pathankot,13,6867
+Pathankot,14,4011
+Pathankot,15,233
+Pathankot,16,71
+Patiala,1,100
+Patiala,2,59
+Patiala,3,564
+Patiala,4,2651
+Patiala,5,5661
+Patiala,6,3251
+Patiala,7,1172
+Patiala,8,1802
+Patiala,9,793
+Patiala,10,534
+Patiala,11,2009
+Patiala,12,7405
+Patiala,13,15436
+Patiala,14,6598
+Patiala,15,611
+Patiala,16,115
+Rupnagar,1,56
+Rupnagar,2,23
+Rupnagar,3,62
+Rupnagar,4,278
+Rupnagar,5,982
+Rupnagar,6,941
+Rupnagar,7,281
+Rupnagar,8,512
+Rupnagar,9,316
+Rupnagar,10,146
+Rupnagar,11,379
+Rupnagar,12,2514
+Rupnagar,13,4027
+Rupnagar,14,2197
+Rupnagar,15,143
+Rupnagar,16,24
+S.A.S. Nagar,1,102
+S.A.S. Nagar,2,62
+S.A.S. Nagar,3,278
+S.A.S. Nagar,4,1205
+S.A.S. Nagar,5,5336
+S.A.S. Nagar,6,4572
+S.A.S. Nagar,7,1880
+S.A.S. Nagar,8,3633
+S.A.S. Nagar,9,1831
+S.A.S. Nagar,10,880
+S.A.S. Nagar,11,2088
+S.A.S. Nagar,12,11117
+S.A.S. Nagar,13,26540
+S.A.S. Nagar,14,8299
+S.A.S. Nagar,15,564
+S.A.S. Nagar,16,141
+Sangrur,1,88
+Sangrur,2,55
+Sangrur,3,524
+Sangrur,4,765
+Sangrur,5,1395
+Sangrur,6,939
+Sangrur,7,284
+Sangrur,8,247
+Sangrur,9,109
+Sangrur,10,84
+Sangrur,11,347
+Sangrur,12,1560
+Sangrur,13,5365
+Sangrur,14,3578
+Sangrur,15,316
+Sangrur,16,38
+Shahid Bhagat Singh Nagar,1,104
+Shahid Bhagat Singh Nagar,2,15
+Shahid Bhagat Singh Nagar,3,114
+Shahid Bhagat Singh Nagar,4,211
+Shahid Bhagat Singh Nagar,5,547
+Shahid Bhagat Singh Nagar,6,829
+Shahid Bhagat Singh Nagar,7,190
+Shahid Bhagat Singh Nagar,8,261
+Shahid Bhagat Singh Nagar,9,237
+Shahid Bhagat Singh Nagar,10,663
+Shahid Bhagat Singh Nagar,11,2537
+Shahid Bhagat Singh Nagar,12,2204
+Shahid Bhagat Singh Nagar,13,2127
+Shahid Bhagat Singh Nagar,14,1260
+Shahid Bhagat Singh Nagar,15,122
+Shahid Bhagat Singh Nagar,16,14
+Sri Muktsar Sahib,1,65
+Sri Muktsar Sahib,2,8
+Sri Muktsar Sahib,3,80
+Sri Muktsar Sahib,4,205
+Sri Muktsar Sahib,5,1390
+Sri Muktsar Sahib,6,1043
+Sri Muktsar Sahib,7,484
+Sri Muktsar Sahib,8,433
+Sri Muktsar Sahib,9,136
+Sri Muktsar Sahib,10,46
+Sri Muktsar Sahib,11,117
+Sri Muktsar Sahib,12,1149
+Sri Muktsar Sahib,13,7218
+Sri Muktsar Sahib,14,5982
+Sri Muktsar Sahib,15,326
+Sri Muktsar Sahib,16,51
+Tarn Taran,1,158
+Tarn Taran,2,9
+Tarn Taran,3,52
+Tarn Taran,4,309
+Tarn Taran,5,674
+Tarn Taran,6,696
+Tarn Taran,7,135
+Tarn Taran,8,49
+Tarn Taran,9,42
+Tarn Taran,10,53
+Tarn Taran,11,270
+Tarn Taran,12,1781
+Tarn Taran,13,2342
+Tarn Taran,14,1233
+Tarn Taran,15,157
+Tarn Taran,16,31
+Ajmer,1,242
+Ajmer,2,182
+Ajmer,3,366
+Ajmer,4,2157
+Ajmer,5,2441
+Ajmer,6,2980
+Ajmer,7,3282
+Ajmer,8,4171
+Ajmer,9,1038
+Ajmer,10,260
+Ajmer,11,206
+Ajmer,12,2386
+Ajmer,13,14888
+Ajmer,14,3028
+Ajmer,15,51
+Ajmer,16,42
+Alwar,1,33
+Alwar,2,229
+Alwar,3,1026
+Alwar,4,4393
+Alwar,5,3463
+Alwar,6,3844
+Alwar,7,3743
+Alwar,8,4026
+Alwar,9,878
+Alwar,10,187
+Alwar,11,57
+Alwar,12,2092
+Alwar,13,27293
+Alwar,14,7670
+Alwar,15,676
+Alwar,16,49
+BSF Camp,1,43
+BSF Camp,2,7
+BSF Camp,3,4
+BSF Camp,4,31
+BSF Camp,5,0
+BSF Camp,6,0
+BSF Camp,7,0
+BSF Camp,8,0
+BSF Camp,9,0
+BSF Camp,10,0
+BSF Camp,11,0
+BSF Camp,12,0
+BSF Camp,13,0
+BSF Camp,14,0
+BSF Camp,15,0
+BSF Camp,16,0
+Banswara,1,68
+Banswara,2,22
+Banswara,3,15
+Banswara,4,259
+Banswara,5,544
+Banswara,6,479
+Banswara,7,182
+Banswara,8,306
+Banswara,9,355
+Banswara,10,95
+Banswara,11,185
+Banswara,12,886
+Banswara,13,5480
+Banswara,14,1107
+Banswara,15,7
+Banswara,16,15
+Baran,1,3
+Baran,2,59
+Baran,3,14
+Baran,4,247
+Baran,5,706
+Baran,6,370
+Baran,7,193
+Baran,8,567
+Baran,9,422
+Baran,10,62
+Baran,11,36
+Baran,12,932
+Baran,13,7088
+Baran,14,1284
+Baran,15,8
+Baran,16,2
+Barmer,1,16
+Barmer,2,117
+Barmer,3,609
+Barmer,4,1127
+Barmer,5,636
+Barmer,6,510
+Barmer,7,855
+Barmer,8,900
+Barmer,9,221
+Barmer,10,58
+Barmer,11,69
+Barmer,12,277
+Barmer,13,7221
+Barmer,14,2841
+Barmer,15,80
+Barmer,16,13
+Bharatpur,1,121
+Bharatpur,2,877
+Bharatpur,3,997
+Bharatpur,4,1131
+Bharatpur,5,814
+Bharatpur,6,973
+Bharatpur,7,1637
+Bharatpur,8,2124
+Bharatpur,9,363
+Bharatpur,10,55
+Bharatpur,11,24
+Bharatpur,12,469
+Bharatpur,13,6872
+Bharatpur,14,3100
+Bharatpur,15,30
+Bharatpur,16,4
+Bhilwara,1,43
+Bhilwara,2,147
+Bhilwara,3,110
+Bhilwara,4,898
+Bhilwara,5,1432
+Bhilwara,6,2841
+Bhilwara,7,946
+Bhilwara,8,2439
+Bhilwara,9,1193
+Bhilwara,10,292
+Bhilwara,11,230
+Bhilwara,12,2772
+Bhilwara,13,14518
+Bhilwara,14,1882
+Bhilwara,15,27
+Bhilwara,16,3
+Bikaner,1,40
+Bikaner,2,90
+Bikaner,3,931
+Bikaner,4,1930
+Bikaner,5,2322
+Bikaner,6,4748
+Bikaner,7,6433
+Bikaner,8,2350
+Bikaner,9,190
+Bikaner,10,26
+Bikaner,11,42
+Bikaner,12,1176
+Bikaner,13,15881
+Bikaner,14,3996
+Bikaner,15,129
+Bikaner,16,27
+Bundi,1,9
+Bundi,2,21
+Bundi,3,340
+Bundi,4,616
+Bundi,5,347
+Bundi,6,271
+Bundi,7,933
+Bundi,8,479
+Bundi,9,52
+Bundi,10,16
+Bundi,11,438
+Bundi,12,3491
+Bundi,13,951
+Bundi,14,3
+Bundi,15,0
+Chittorgarh,1,142
+Chittorgarh,2,59
+Chittorgarh,3,14
+Chittorgarh,4,312
+Chittorgarh,5,768
+Chittorgarh,6,738
+Chittorgarh,7,535
+Chittorgarh,8,811
+Chittorgarh,9,494
+Chittorgarh,10,121
+Chittorgarh,11,66
+Chittorgarh,12,1635
+Chittorgarh,13,11793
+Chittorgarh,14,2288
+Chittorgarh,15,32
+Chittorgarh,16,1
+Churu,1,31
+Churu,2,158
+Churu,3,253
+Churu,4,303
+Churu,5,529
+Churu,6,1057
+Churu,7,1022
+Churu,8,784
+Churu,9,239
+Churu,10,1
+Churu,11,7
+Churu,12,181
+Churu,13,9424
+Churu,14,2672
+Churu,15,55
+Churu,16,3
+Dausa,1,28
+Dausa,2,59
+Dausa,3,137
+Dausa,4,176
+Dausa,5,303
+Dausa,6,541
+Dausa,7,647
+Dausa,8,434
+Dausa,9,92
+Dausa,10,14
+Dausa,11,8
+Dausa,12,202
+Dausa,13,8342
+Dausa,14,2304
+Dausa,15,61
+Dausa,16,3
+Dholpur,1,24
+Dholpur,2,130
+Dholpur,3,718
+Dholpur,4,840
+Dholpur,5,834
+Dholpur,6,636
+Dholpur,7,203
+Dholpur,8,247
+Dholpur,9,125
+Dholpur,10,9
+Dholpur,11,16
+Dholpur,12,447
+Dholpur,13,6131
+Dholpur,14,635
+Dholpur,15,9
+Dholpur,16,2
+Dungarpur,1,14
+Dungarpur,2,374
+Dungarpur,3,106
+Dungarpur,4,296
+Dungarpur,5,529
+Dungarpur,6,934
+Dungarpur,7,516
+Dungarpur,8,1325
+Dungarpur,9,800
+Dungarpur,10,106
+Dungarpur,11,386
+Dungarpur,12,2893
+Dungarpur,13,8325
+Dungarpur,14,1797
+Dungarpur,15,5
+Dungarpur,16,1
+Evacuees,1,61
+Evacuees,2,0
+Evacuees,3,0
+Evacuees,4,0
+Evacuees,5,0
+Evacuees,6,0
+Evacuees,7,0
+Evacuees,8,0
+Evacuees,9,0
+Evacuees,10,0
+Evacuees,11,0
+Evacuees,12,0
+Evacuees,13,0
+Evacuees,14,0
+Evacuees,15,0
+Evacuees,16,0
+Ganganagar,1,20
+Ganganagar,2,66
+Ganganagar,3,348
+Ganganagar,4,518
+Ganganagar,5,1346
+Ganganagar,6,2485
+Ganganagar,7,1599
+Ganganagar,8,303
+Ganganagar,9,90
+Ganganagar,10,34
+Ganganagar,11,475
+Ganganagar,12,7945
+Ganganagar,13,3938
+Ganganagar,14,143
+Ganganagar,15,28
+Hanumangarh,1,12
+Hanumangarh,2,24
+Hanumangarh,3,103
+Hanumangarh,4,137
+Hanumangarh,5,324
+Hanumangarh,6,630
+Hanumangarh,7,909
+Hanumangarh,8,734
+Hanumangarh,9,93
+Hanumangarh,10,10
+Hanumangarh,11,51
+Hanumangarh,12,626
+Hanumangarh,13,8361
+Hanumangarh,14,3890
+Hanumangarh,15,124
+Hanumangarh,16,23
+Italians,1,2
+Italians,2,0
+Italians,3,0
+Italians,4,0
+Italians,5,0
+Italians,6,0
+Italians,7,0
+Italians,8,0
+Italians,9,0
+Italians,10,0
+Italians,11,0
+Italians,12,0
+Italians,13,0
+Italians,14,0
+Italians,15,0
+Italians,16,0
+Jaipur,1,1362
+Jaipur,2,1170
+Jaipur,3,1470
+Jaipur,4,3142
+Jaipur,5,8188
+Jaipur,6,11995
+Jaipur,7,11199
+Jaipur,8,15565
+Jaipur,9,4242
+Jaipur,10,872
+Jaipur,11,787
+Jaipur,12,10251
+Jaipur,13,91146
+Jaipur,14,25332
+Jaipur,15,695
+Jaipur,16,197
+Jaisalmer,1,41
+Jaisalmer,2,40
+Jaisalmer,3,37
+Jaisalmer,4,145
+Jaisalmer,5,274
+Jaisalmer,6,486
+Jaisalmer,7,363
+Jaisalmer,8,582
+Jaisalmer,9,250
+Jaisalmer,10,26
+Jaisalmer,11,16
+Jaisalmer,12,129
+Jaisalmer,13,7350
+Jaisalmer,14,3862
+Jaisalmer,15,29
+Jaisalmer,16,9
+Jalore,1,64
+Jalore,2,129
+Jalore,3,517
+Jalore,4,564
+Jalore,5,241
+Jalore,6,1451
+Jalore,7,1520
+Jalore,8,867
+Jalore,9,249
+Jalore,10,10
+Jalore,11,16
+Jalore,12,542
+Jalore,13,3668
+Jalore,14,217
+Jalore,15,6
+Jalore,16,4
+Jhalawar,1,47
+Jhalawar,2,295
+Jhalawar,3,42
+Jhalawar,4,504
+Jhalawar,5,1223
+Jhalawar,6,435
+Jhalawar,7,262
+Jhalawar,8,394
+Jhalawar,9,361
+Jhalawar,10,112
+Jhalawar,11,54
+Jhalawar,12,807
+Jhalawar,13,7454
+Jhalawar,14,1564
+Jhalawar,15,43
+Jhalawar,16,3
+Jhunjhunu,1,52
+Jhunjhunu,2,166
+Jhunjhunu,3,241
+Jhunjhunu,4,294
+Jhunjhunu,5,523
+Jhunjhunu,6,896
+Jhunjhunu,7,1340
+Jhunjhunu,8,865
+Jhunjhunu,9,180
+Jhunjhunu,10,16
+Jhunjhunu,11,25
+Jhunjhunu,12,189
+Jhunjhunu,13,6070
+Jhunjhunu,14,3874
+Jhunjhunu,15,71
+Jhunjhunu,16,0
+Jodhpur,1,955
+Jodhpur,2,1226
+Jodhpur,3,1871
+Jodhpur,4,4697
+Jodhpur,5,6551
+Jodhpur,6,9453
+Jodhpur,7,8167
+Jodhpur,8,9433
+Jodhpur,9,2104
+Jodhpur,10,435
+Jodhpur,11,431
+Jodhpur,12,7131
+Jodhpur,13,51629
+Jodhpur,14,8014
+Jodhpur,15,246
+Jodhpur,16,31
+Karauli,1,8
+Karauli,2,34
+Karauli,3,115
+Karauli,4,301
+Karauli,5,246
+Karauli,6,368
+Karauli,7,148
+Karauli,8,230
+Karauli,9,93
+Karauli,10,16
+Karauli,11,15
+Karauli,12,302
+Karauli,13,4290
+Karauli,14,970
+Karauli,15,20
+Karauli,16,0
+Kota,1,270
+Kota,2,275
+Kota,3,312
+Kota,4,2555
+Kota,5,4254
+Kota,6,2302
+Kota,7,2240
+Kota,8,4906
+Kota,9,2063
+Kota,10,752
+Kota,11,402
+Kota,12,6496
+Kota,13,25327
+Kota,14,4841
+Kota,15,54
+Kota,16,2
+Nagaur,1,156
+Nagaur,2,396
+Nagaur,3,396
+Nagaur,4,925
+Nagaur,5,1020
+Nagaur,6,1470
+Nagaur,7,2099
+Nagaur,8,2470
+Nagaur,9,1000
+Nagaur,10,356
+Nagaur,11,62
+Nagaur,12,749
+Nagaur,13,4742
+Nagaur,14,1786
+Nagaur,15,79
+Nagaur,16,25
+Pali,1,100
+Pali,2,663
+Pali,3,791
+Pali,4,1751
+Pali,5,1330
+Pali,6,1909
+Pali,7,1466
+Pali,8,2109
+Pali,9,811
+Pali,10,83
+Pali,11,26
+Pali,12,1098
+Pali,13,12335
+Pali,14,2791
+Pali,15,40
+Pali,16,12
+Pratapgarh,1,4
+Pratapgarh,2,10
+Pratapgarh,3,137
+Pratapgarh,4,95
+Pratapgarh,5,376
+Pratapgarh,6,247
+Pratapgarh,7,90
+Pratapgarh,8,156
+Pratapgarh,9,115
+Pratapgarh,10,24
+Pratapgarh,11,53
+Pratapgarh,12,532
+Pratapgarh,13,4364
+Pratapgarh,14,902
+Pratapgarh,15,32
+Pratapgarh,16,6
+Rajsamand,1,30
+Rajsamand,2,136
+Rajsamand,3,226
+Rajsamand,4,435
+Rajsamand,5,655
+Rajsamand,6,725
+Rajsamand,7,432
+Rajsamand,8,773
+Rajsamand,9,681
+Rajsamand,10,123
+Rajsamand,11,197
+Rajsamand,12,1884
+Rajsamand,13,8576
+Rajsamand,14,2119
+Rajsamand,15,45
+Rajsamand,16,4
+Sawai Madhopur,1,16
+Sawai Madhopur,2,42
+Sawai Madhopur,3,74
+Sawai Madhopur,4,214
+Sawai Madhopur,5,361
+Sawai Madhopur,6,327
+Sawai Madhopur,7,199
+Sawai Madhopur,8,703
+Sawai Madhopur,9,182
+Sawai Madhopur,10,6
+Sawai Madhopur,11,8
+Sawai Madhopur,12,649
+Sawai Madhopur,13,6945
+Sawai Madhopur,14,859
+Sawai Madhopur,15,12
+Sawai Madhopur,16,8
+Sikar,1,19
+Sikar,2,357
+Sikar,3,333
+Sikar,4,1114
+Sikar,5,1387
+Sikar,6,1580
+Sikar,7,2495
+Sikar,8,1416
+Sikar,9,334
+Sikar,10,33
+Sikar,11,37
+Sikar,12,706
+Sikar,13,15996
+Sikar,14,4612
+Sikar,15,169
+Sikar,16,19
+Sirohi,1,22
+Sirohi,2,276
+Sirohi,3,380
+Sirohi,4,321
+Sirohi,5,552
+Sirohi,6,720
+Sirohi,7,429
+Sirohi,8,704
+Sirohi,9,340
+Sirohi,10,24
+Sirohi,11,15
+Sirohi,12,1461
+Sirohi,13,7081
+Sirohi,14,1338
+Sirohi,15,66
+Sirohi,16,0
+Tonk,1,144
+Tonk,2,36
+Tonk,3,34
+Tonk,4,213
+Tonk,5,413
+Tonk,6,787
+Tonk,7,409
+Tonk,8,1116
+Tonk,9,289
+Tonk,10,21
+Tonk,11,7
+Tonk,12,443
+Tonk,13,4341
+Tonk,14,1156
+Tonk,15,76
+Tonk,16,10
+Udaipur,1,316
+Udaipur,2,287
+Udaipur,3,308
+Udaipur,4,904
+Udaipur,5,1073
+Udaipur,6,2977
+Udaipur,7,1676
+Udaipur,8,2867
+Udaipur,9,1254
+Udaipur,10,204
+Udaipur,11,462
+Udaipur,12,7067
+Udaipur,13,30155
+Udaipur,14,6527
+Udaipur,15,140
+Udaipur,16,155
+Airport Quarantine,1,9
+Airport Quarantine,2,276
+Airport Quarantine,3,743
+Airport Quarantine,4,575
+Airport Quarantine,5,213
+Airport Quarantine,6,91
+Airport Quarantine,7,0
+Airport Quarantine,8,36
+Airport Quarantine,9,26
+Airport Quarantine,10,17
+Airport Quarantine,11,19
+Airport Quarantine,12,52
+Airport Quarantine,13,22
+Airport Quarantine,14,1
+Airport Quarantine,15,2
+Airport Quarantine,16,17
+Ariyalur,1,348
+Ariyalur,2,44
+Ariyalur,3,150
+Ariyalur,4,1100
+Ariyalur,5,1647
+Ariyalur,6,902
+Ariyalur,7,307
+Ariyalur,8,113
+Ariyalur,9,49
+Ariyalur,10,50
+Ariyalur,11,45
+Ariyalur,12,233
+Ariyalur,13,2117
+Ariyalur,14,6597
+Ariyalur,15,1720
+Ariyalur,16,665
+Chengalpattu,1,430
+Chengalpattu,2,2452
+Chengalpattu,3,5671
+Chengalpattu,4,11527
+Chengalpattu,5,10663
+Chengalpattu,6,9405
+Chengalpattu,7,5589
+Chengalpattu,8,3051
+Chengalpattu,9,1969
+Chengalpattu,10,1338
+Chengalpattu,11,1490
+Chengalpattu,12,9508
+Chengalpattu,13,46208
+Chengalpattu,14,42458
+Chengalpattu,15,8011
+Chengalpattu,16,3838
+Chennai,1,5637
+Chennai,2,26259
+Chennai,3,47766
+Chennai,4,34598
+Chennai,5,35323
+Chennai,6,35990
+Chennai,7,22606
+Chennai,8,12032
+Chennai,9,8355
+Chennai,10,4768
+Chennai,11,5486
+Chennai,12,33298
+Chennai,13,153485
+Chennai,14,100223
+Chennai,15,9762
+Chennai,16,5383
+Coimbatore,1,146
+Coimbatore,2,30
+Coimbatore,3,1304
+Coimbatore,4,6794
+Coimbatore,5,14388
+Coimbatore,6,15653
+Coimbatore,7,7922
+Coimbatore,8,4321
+Coimbatore,9,2850
+Coimbatore,10,1744
+Coimbatore,11,1316
+Coimbatore,12,8399
+Coimbatore,13,44366
+Coimbatore,14,96036
+Coimbatore,15,20620
+Coimbatore,16,6686
+Cuddalore,1,413
+Cuddalore,2,120
+Cuddalore,3,1032
+Cuddalore,4,4600
+Cuddalore,5,10402
+Cuddalore,6,5473
+Cuddalore,7,1742
+Cuddalore,8,663
+Cuddalore,9,381
+Cuddalore,10,241
+Cuddalore,11,210
+Cuddalore,12,1700
+Cuddalore,13,9507
+Cuddalore,14,18677
+Cuddalore,15,4019
+Cuddalore,16,2254
+Dharmapuri,1,5
+Dharmapuri,2,22
+Dharmapuri,3,233
+Dharmapuri,4,709
+Dharmapuri,5,1147
+Dharmapuri,6,2763
+Dharmapuri,7,983
+Dharmapuri,8,389
+Dharmapuri,9,269
+Dharmapuri,10,106
+Dharmapuri,11,47
+Dharmapuri,12,616
+Dharmapuri,13,5480
+Dharmapuri,14,9817
+Dharmapuri,15,2953
+Dharmapuri,16,947
+Dindigul,1,112
+Dindigul,2,106
+Dindigul,3,728
+Dindigul,4,3578
+Dindigul,5,3416
+Dindigul,6,1506
+Dindigul,7,591
+Dindigul,8,588
+Dindigul,9,469
+Dindigul,10,266
+Dindigul,11,234
+Dindigul,12,1132
+Dindigul,13,7336
+Dindigul,14,10389
+Dindigul,15,1439
+Dindigul,16,460
+Erode,1,70
+Erode,2,3
+Erode,3,378
+Erode,4,883
+Erode,5,3334
+Erode,6,3980
+Erode,7,2895
+Erode,8,1545
+Erode,9,954
+Erode,10,571
+Erode,11,364
+Erode,12,1316
+Erode,13,14742
+Erode,14,46520
+Erode,15,13917
+Erode,16,4615
+Kallakurichi,1,61
+Kallakurichi,2,283
+Kallakurichi,3,1560
+Kallakurichi,4,2872
+Kallakurichi,5,3243
+Kallakurichi,6,1770
+Kallakurichi,7,714
+Kallakurichi,8,230
+Kallakurichi,9,115
+Kallakurichi,10,51
+Kallakurichi,11,16
+Kallakurichi,12,329
+Kallakurichi,13,3767
+Kallakurichi,14,9884
+Kallakurichi,15,3336
+Kallakurichi,16,1401
+Kancheepuram,1,164
+Kancheepuram,2,545
+Kancheepuram,3,3382
+Kancheepuram,4,9318
+Kancheepuram,5,6161
+Kancheepuram,6,4387
+Kancheepuram,7,2743
+Kancheepuram,8,1483
+Kancheepuram,9,835
+Kancheepuram,10,361
+Kancheepuram,11,359
+Kancheepuram,12,2747
+Kancheepuram,13,15482
+Kancheepuram,14,20412
+Kancheepuram,15,2611
+Kancheepuram,16,1258
+Kanyakumari,1,31
+Kanyakumari,2,91
+Kanyakumari,3,1491
+Kanyakumari,4,5565
+Kanyakumari,5,3916
+Kanyakumari,6,2915
+Kanyakumari,7,1376
+Kanyakumari,8,644
+Kanyakumari,9,596
+Kanyakumari,10,338
+Kanyakumari,11,243
+Kanyakumari,12,1148
+Kanyakumari,13,12163
+Kanyakumari,14,26222
+Kanyakumari,15,2807
+Kanyakumari,16,988
+Karur,1,56
+Karur,2,38
+Karur,3,113
+Karur,4,732
+Karur,5,1281
+Karur,6,1446
+Karur,7,875
+Karur,8,454
+Karur,9,316
+Karur,10,154
+Karur,11,68
+Karur,12,469
+Karur,13,5087
+Karur,14,9577
+Karur,15,1733
+Karur,16,486
+Krishnagiri,1,20
+Krishnagiri,2,19
+Krishnagiri,3,235
+Krishnagiri,4,1278
+Krishnagiri,5,1700
+Krishnagiri,6,2513
+Krishnagiri,7,1295
+Krishnagiri,8,594
+Krishnagiri,9,338
+Krishnagiri,10,121
+Krishnagiri,11,108
+Krishnagiri,12,1265
+Krishnagiri,13,12082
+Krishnagiri,14,15836
+Krishnagiri,15,3440
+Krishnagiri,16,869
+Madurai,1,132
+Madurai,2,294
+Madurai,3,6564
+Madurai,4,5571
+Madurai,5,2833
+Madurai,6,2316
+Madurai,7,1573
+Madurai,8,859
+Madurai,9,632
+Madurai,10,383
+Madurai,11,203
+Madurai,12,2285
+Madurai,13,21187
+Madurai,14,25483
+Madurai,15,2772
+Madurai,16,699
+Mayiladuthurai,1,20590
+Mayiladuthurai,2,809
+Nagapattinam,1,47
+Nagapattinam,2,66
+Nagapattinam,3,270
+Nagapattinam,4,1039
+Nagapattinam,5,2779
+Nagapattinam,6,1796
+Nagapattinam,7,1210
+Nagapattinam,8,675
+Nagapattinam,9,427
+Nagapattinam,10,235
+Nagapattinam,11,155
+Nagapattinam,12,1882
+Nagapattinam,13,7449
+Nagapattinam,14,17952
+Nagapattinam,15,-17769
+Nagapattinam,16,948
+Namakkal,1,77
+Namakkal,2,15
+Namakkal,3,111
+Namakkal,4,941
+Namakkal,5,2318
+Namakkal,6,4103
+Namakkal,7,2292
+Namakkal,8,957
+Namakkal,9,622
+Namakkal,10,297
+Namakkal,11,144
+Namakkal,12,863
+Namakkal,13,8207
+Namakkal,14,19496
+Namakkal,15,5762
+Namakkal,16,1733
+Nilgiris,1,14
+Nilgiris,2,0
+Nilgiris,3,244
+Nilgiris,4,752
+Nilgiris,5,1433
+Nilgiris,6,3284
+Nilgiris,7,1362
+Nilgiris,8,593
+Nilgiris,9,408
+Nilgiris,10,186
+Nilgiris,11,165
+Nilgiris,12,585
+Nilgiris,13,2979
+Nilgiris,14,13933
+Nilgiris,15,3687
+Nilgiris,16,1564
+Perambalur,1,137
+Perambalur,2,9
+Perambalur,3,32
+Perambalur,4,685
+Perambalur,5,692
+Perambalur,6,458
+Perambalur,7,213
+Perambalur,8,23
+Perambalur,9,10
+Perambalur,10,19
+Perambalur,11,16
+Perambalur,12,62
+Perambalur,13,1869
+Perambalur,14,6208
+Perambalur,15,880
+Perambalur,16,284
+Pudukkottai,1,6
+Pudukkottai,2,45
+Pudukkottai,3,678
+Pudukkottai,4,3089
+Pudukkottai,5,3707
+Pudukkottai,6,2523
+Pudukkottai,7,875
+Pudukkottai,8,356
+Pudukkottai,9,207
+Pudukkottai,10,128
+Pudukkottai,11,92
+Pudukkottai,12,594
+Pudukkottai,13,4243
+Pudukkottai,14,9168
+Pudukkottai,15,1947
+Pudukkottai,16,960
+Railway Quarantine,1,309
+Railway Quarantine,2,113
+Railway Quarantine,3,6
+Railway Quarantine,4,0
+Railway Quarantine,5,0
+Railway Quarantine,6,0
+Railway Quarantine,7,0
+Railway Quarantine,8,0
+Railway Quarantine,9,0
+Railway Quarantine,10,0
+Railway Quarantine,11,0
+Railway Quarantine,12,0
+Railway Quarantine,13,0
+Railway Quarantine,14,0
+Railway Quarantine,15,0
+Ramanathapuram,1,31
+Ramanathapuram,2,127
+Ramanathapuram,3,1798
+Ramanathapuram,4,1942
+Ramanathapuram,5,1309
+Ramanathapuram,6,590
+Ramanathapuram,7,323
+Ramanathapuram,8,143
+Ramanathapuram,9,110
+Ramanathapuram,10,60
+Ramanathapuram,11,62
+Ramanathapuram,12,347
+Ramanathapuram,13,4695
+Ramanathapuram,14,7359
+Ramanathapuram,15,945
+Ramanathapuram,16,283
+Ranipet,1,76
+Ranipet,2,121
+Ranipet,3,1448
+Ranipet,4,6318
+Ranipet,5,4232
+Ranipet,6,2092
+Ranipet,7,1013
+Ranipet,8,471
+Ranipet,9,257
+Ranipet,10,159
+Ranipet,11,87
+Ranipet,12,903
+Ranipet,13,9048
+Ranipet,14,12638
+Ranipet,15,2701
+Ranipet,16,665
+Salem,1,35
+Salem,2,194
+Salem,3,1797
+Salem,4,3511
+Salem,5,9237
+Salem,6,9421
+Salem,7,4511
+Salem,8,2125
+Salem,9,1260
+Salem,10,487
+Salem,11,323
+Salem,12,2040
+Salem,13,15232
+Salem,14,29976
+Salem,15,11222
+Salem,16,3317
+Sivaganga,1,13
+Sivaganga,2,77
+Sivaganga,3,913
+Sivaganga,4,2268
+Sivaganga,5,1286
+Sivaganga,6,1000
+Sivaganga,7,581
+Sivaganga,8,284
+Sivaganga,9,178
+Sivaganga,10,110
+Sivaganga,11,123
+Sivaganga,12,641
+Sivaganga,13,3278
+Sivaganga,14,5669
+Sivaganga,15,1944
+Sivaganga,16,712
+Tenkasi,1,54
+Tenkasi,2,80
+Tenkasi,3,690
+Tenkasi,4,2901
+Tenkasi,5,2619
+Tenkasi,6,1325
+Tenkasi,7,261
+Tenkasi,8,241
+Tenkasi,9,166
+Tenkasi,10,154
+Tenkasi,11,93
+Tenkasi,12,689
+Tenkasi,13,6262
+Tenkasi,14,10115
+Tenkasi,15,991
+Tenkasi,16,303
+Thanjavur,1,70
+Thanjavur,2,85
+Thanjavur,3,583
+Thanjavur,4,3914
+Thanjavur,5,3814
+Thanjavur,6,5618
+Thanjavur,7,1901
+Thanjavur,8,761
+Thanjavur,9,714
+Thanjavur,10,440
+Thanjavur,11,488
+Thanjavur,12,3271
+Thanjavur,13,11244
+Thanjavur,14,25519
+Thanjavur,15,7680
+Thanjavur,16,3197
+Theni,1,72
+Theni,2,74
+Theni,3,1770
+Theni,4,7573
+Theni,5,4344
+Theni,6,1966
+Theni,7,629
+Theni,8,308
+Theni,9,256
+Theni,10,139
+Theni,11,68
+Theni,12,462
+Theni,13,8314
+Theni,14,14936
+Theni,15,1787
+Theni,16,372
+Thiruvallur,1,495
+Thiruvallur,2,1370
+Thiruvallur,3,5427
+Thiruvallur,4,11666
+Thiruvallur,5,9662
+Thiruvallur,6,6722
+Thiruvallur,7,4183
+Thiruvallur,8,2298
+Thiruvallur,9,1319
+Thiruvallur,10,727
+Thiruvallur,11,776
+Thiruvallur,12,4578
+Thiruvallur,13,28287
+Thiruvallur,14,30554
+Thiruvallur,15,4211
+Thiruvallur,16,2409
+Thiruvarur,1,32
+Thiruvarur,2,96
+Thiruvarur,3,658
+Thiruvarur,4,1416
+Thiruvarur,5,3207
+Thiruvarur,6,3294
+Thiruvarur,7,1413
+Thiruvarur,8,579
+Thiruvarur,9,360
+Thiruvarur,10,221
+Thiruvarur,11,191
+Thiruvarur,12,1656
+Thiruvarur,13,5883
+Thiruvarur,14,16230
+Thiruvarur,15,2096
+Thiruvarur,16,1117
+Thoothukkudi,1,38
+Thoothukkudi,2,360
+Thoothukkudi,3,2099
+Thoothukkudi,4,7293
+Thoothukkudi,5,2584
+Thoothukkudi,6,1908
+Thoothukkudi,7,1170
+Thoothukkudi,8,431
+Thoothukkudi,9,305
+Thoothukkudi,10,127
+Thoothukkudi,11,77
+Thoothukkudi,12,1178
+Thoothukkudi,13,15953
+Thoothukkudi,14,19094
+Thoothukkudi,15,2147
+Thoothukkudi,16,542
+Tiruchirappalli,1,67
+Tiruchirappalli,2,96
+Tiruchirappalli,3,1552
+Tiruchirappalli,4,3939
+Tiruchirappalli,5,3260
+Tiruchirappalli,6,2654
+Tiruchirappalli,7,1448
+Tiruchirappalli,8,746
+Tiruchirappalli,9,691
+Tiruchirappalli,10,413
+Tiruchirappalli,11,267
+Tiruchirappalli,12,2605
+Tiruchirappalli,13,16425
+Tiruchirappalli,14,31266
+Tiruchirappalli,15,5786
+Tiruchirappalli,16,2213
+Tirunelveli,1,114
+Tirunelveli,2,350
+Tirunelveli,3,1471
+Tirunelveli,4,5294
+Tirunelveli,5,3963
+Tirunelveli,6,2488
+Tirunelveli,7,902
+Tirunelveli,8,473
+Tirunelveli,9,390
+Tirunelveli,10,222
+Tirunelveli,11,146
+Tirunelveli,12,1626
+Tirunelveli,13,17061
+Tirunelveli,14,12159
+Tirunelveli,15,822
+Tirunelveli,16,713
+Tirupathur,1,28
+Tirupathur,2,19
+Tirupathur,3,414
+Tirupathur,4,1471
+Tirupathur,5,1851
+Tirupathur,6,2120
+Tirupathur,7,1114
+Tirupathur,8,333
+Tirupathur,9,176
+Tirupathur,10,86
+Tirupathur,11,50
+Tirupathur,12,514
+Tirupathur,13,5638
+Tirupathur,14,12638
+Tirupathur,15,1427
+Tirupathur,16,563
+Tiruppur,1,114
+Tiruppur,2,2
+Tiruppur,3,203
+Tiruppur,4,1112
+Tiruppur,5,3507
+Tiruppur,6,5599
+Tiruppur,7,3687
+Tiruppur,8,2029
+Tiruppur,9,1226
+Tiruppur,10,661
+Tiruppur,11,512
+Tiruppur,12,2545
+Tiruppur,13,13464
+Tiruppur,14,40708
+Tiruppur,15,10675
+Tiruppur,16,2985
+Tiruvannamalai,1,136
+Tiruvannamalai,2,535
+Tiruvannamalai,3,2553
+Tiruvannamalai,4,5290
+Tiruvannamalai,5,4782
+Tiruvannamalai,6,3492
+Tiruvannamalai,7,1440
+Tiruvannamalai,8,691
+Tiruvannamalai,9,353
+Tiruvannamalai,10,154
+Tiruvannamalai,11,123
+Tiruvannamalai,12,891
+Tiruvannamalai,13,9182
+Tiruvannamalai,14,16884
+Tiruvannamalai,15,4430
+Tiruvannamalai,16,1788
+Vellore,1,34
+Vellore,2,118
+Vellore,3,2946
+Vellore,4,4980
+Vellore,5,4687
+Vellore,6,3850
+Vellore,7,2066
+Vellore,8,1149
+Vellore,9,689
+Vellore,10,359
+Vellore,11,259
+Vellore,12,1357
+Vellore,13,11755
+Vellore,14,11379
+Vellore,15,1878
+Vellore,16,941
+Viluppuram,1,306
+Viluppuram,2,131
+Viluppuram,3,1286
+Viluppuram,4,3310
+Viluppuram,5,4538
+Viluppuram,6,3221
+Viluppuram,7,1480
+Viluppuram,8,524
+Viluppuram,9,302
+Viluppuram,10,132
+Viluppuram,11,76
+Viluppuram,12,819
+Viluppuram,13,8957
+Viluppuram,14,15522
+Viluppuram,15,2657
+Viluppuram,16,1019
+Virudhunagar,1,44
+Virudhunagar,2,126
+Virudhunagar,3,2257
+Virudhunagar,4,8511
+Virudhunagar,5,2788
+Virudhunagar,6,1247
+Virudhunagar,7,695
+Virudhunagar,8,465
+Virudhunagar,9,343
+Virudhunagar,10,143
+Virudhunagar,11,105
+Virudhunagar,12,617
+Virudhunagar,13,7973
+Virudhunagar,14,17581
+Virudhunagar,15,2270
+Virudhunagar,16,481
+Dhalai,1,152
+Dhalai,2,49
+Dhalai,3,82
+Dhalai,4,401
+Dhalai,5,1289
+Dhalai,6,1091
+Dhalai,7,295
+Dhalai,8,95
+Dhalai,9,19
+Dhalai,10,0
+Dhalai,11,0
+Dhalai,12,17
+Dhalai,13,328
+Dhalai,14,1108
+Dhalai,15,1311
+Dhalai,16,650
+Gomati,1,2
+Gomati,2,100
+Gomati,3,204
+Gomati,4,827
+Gomati,5,1016
+Gomati,6,1337
+Gomati,7,319
+Gomati,8,115
+Gomati,9,9
+Gomati,10,1
+Gomati,11,2
+Gomati,12,12
+Gomati,13,194
+Gomati,14,1171
+Gomati,15,1272
+Gomati,16,1270
+Khowai,1,30
+Khowai,2,185
+Khowai,3,386
+Khowai,4,756
+Khowai,5,346
+Khowai,6,90
+Khowai,7,27
+Khowai,8,17
+Khowai,9,6
+Khowai,10,0
+Khowai,11,7
+Khowai,12,131
+Khowai,13,1108
+Khowai,14,955
+Khowai,15,437
+North Tripura,1,2
+North Tripura,2,12
+North Tripura,3,81
+North Tripura,4,547
+North Tripura,5,1029
+North Tripura,6,779
+North Tripura,7,200
+North Tripura,8,79
+North Tripura,9,28
+North Tripura,10,2
+North Tripura,11,0
+North Tripura,12,16
+North Tripura,13,537
+North Tripura,14,1516
+North Tripura,15,1440
+North Tripura,16,670
+Sipahijala,1,507
+Sipahijala,2,151
+Sipahijala,3,646
+Sipahijala,4,940
+Sipahijala,5,418
+Sipahijala,6,131
+Sipahijala,7,73
+Sipahijala,8,13
+Sipahijala,9,2
+Sipahijala,10,4
+Sipahijala,11,14
+Sipahijala,12,290
+Sipahijala,13,1683
+Sipahijala,14,809
+Sipahijala,15,457
+South Tripura,1,77
+South Tripura,2,91
+South Tripura,3,262
+South Tripura,4,1049
+South Tripura,5,1443
+South Tripura,6,812
+South Tripura,7,278
+South Tripura,8,42
+South Tripura,9,2
+South Tripura,10,2
+South Tripura,11,13
+South Tripura,12,422
+South Tripura,13,2445
+South Tripura,14,1549
+South Tripura,15,1321
+Unokoti,1,59
+Unokoti,2,31
+Unokoti,3,60
+Unokoti,4,1028
+Unokoti,5,1089
+Unokoti,6,399
+Unokoti,7,89
+Unokoti,8,12
+Unokoti,9,0
+Unokoti,10,0
+Unokoti,11,5
+Unokoti,12,432
+Unokoti,13,1822
+Unokoti,14,1825
+Unokoti,15,1426
+West Tripura,1,89
+West Tripura,2,279
+West Tripura,3,1470
+West Tripura,4,5295
+West Tripura,5,3169
+West Tripura,6,814
+West Tripura,7,373
+West Tripura,8,132
+West Tripura,9,20
+West Tripura,10,68
+West Tripura,11,331
+West Tripura,12,3428
+West Tripura,13,8862
+West Tripura,14,3391
+West Tripura,15,3013
+Agra,1,785
+Agra,2,253
+Agra,3,376
+Agra,4,823
+Agra,5,1915
+Agra,6,2363
+Agra,7,1621
+Agra,8,1740
+Agra,9,532
+Agra,10,103
+Agra,11,46
+Agra,12,1563
+Agra,13,12445
+Agra,14,1236
+Agra,15,-86
+Agra,16,21
+Aligarh,1,66
+Aligarh,2,205
+Aligarh,3,527
+Aligarh,4,1608
+Aligarh,5,4089
+Aligarh,6,2522
+Aligarh,7,990
+Aligarh,8,938
+Aligarh,9,321
+Aligarh,10,164
+Aligarh,11,53
+Aligarh,12,570
+Aligarh,13,7779
+Aligarh,14,1400
+Aligarh,15,44
+Aligarh,16,0
+Ambedkar Nagar,1,2
+Ambedkar Nagar,2,99
+Ambedkar Nagar,3,42
+Ambedkar Nagar,4,355
+Ambedkar Nagar,5,680
+Ambedkar Nagar,6,435
+Ambedkar Nagar,7,143
+Ambedkar Nagar,8,65
+Ambedkar Nagar,9,72
+Ambedkar Nagar,10,20
+Ambedkar Nagar,11,4
+Ambedkar Nagar,12,355
+Ambedkar Nagar,13,2045
+Ambedkar Nagar,14,662
+Ambedkar Nagar,15,47
+Ambedkar Nagar,16,1
+Amethi,1,13
+Amethi,2,204
+Amethi,3,100
+Amethi,4,453
+Amethi,5,1205
+Amethi,6,751
+Amethi,7,353
+Amethi,8,359
+Amethi,9,235
+Amethi,10,77
+Amethi,11,18
+Amethi,12,277
+Amethi,13,5002
+Amethi,14,874
+Amethi,15,31
+Amethi,16,6
+Amroha,1,33
+Amroha,2,46
+Amroha,3,159
+Amroha,4,795
+Amroha,5,1142
+Amroha,6,1006
+Amroha,7,735
+Amroha,8,224
+Amroha,9,157
+Amroha,10,45
+Amroha,11,22
+Amroha,12,504
+Amroha,13,10313
+Amroha,14,1408
+Amroha,15,16
+Amroha,16,5
+Auraiya,1,18
+Auraiya,2,39
+Auraiya,3,62
+Auraiya,4,564
+Auraiya,5,1070
+Auraiya,6,820
+Auraiya,7,462
+Auraiya,8,331
+Auraiya,9,155
+Auraiya,10,11
+Auraiya,11,9
+Auraiya,12,607
+Auraiya,13,5419
+Auraiya,14,492
+Auraiya,15,13
+Auraiya,16,8
+Ayodhya,1,1
+Ayodhya,2,170
+Ayodhya,3,322
+Ayodhya,4,1396
+Ayodhya,5,2806
+Ayodhya,6,1963
+Ayodhya,7,623
+Ayodhya,8,342
+Ayodhya,9,391
+Ayodhya,10,149
+Ayodhya,11,22
+Ayodhya,12,925
+Ayodhya,13,6345
+Ayodhya,14,1403
+Ayodhya,15,44
+Ayodhya,16,10
+Azamgarh,1,10
+Azamgarh,2,157
+Azamgarh,3,218
+Azamgarh,4,1683
+Azamgarh,5,1827
+Azamgarh,6,1138
+Azamgarh,7,513
+Azamgarh,8,309
+Azamgarh,9,152
+Azamgarh,10,38
+Azamgarh,11,9
+Azamgarh,12,1295
+Azamgarh,13,9840
+Azamgarh,14,623
+Azamgarh,15,64
+Azamgarh,16,15
+Baghpat,1,25
+Baghpat,2,120
+Baghpat,3,324
+Baghpat,4,255
+Baghpat,5,374
+Baghpat,6,292
+Baghpat,7,326
+Baghpat,8,418
+Baghpat,9,179
+Baghpat,10,20
+Baghpat,11,6
+Baghpat,12,253
+Baghpat,13,4702
+Baghpat,14,1878
+Baghpat,15,-57
+Baghpat,16,14
+Bahraich,1,35
+Bahraich,2,76
+Bahraich,3,62
+Bahraich,4,1102
+Bahraich,5,1340
+Bahraich,6,845
+Bahraich,7,334
+Bahraich,8,178
+Bahraich,9,121
+Bahraich,10,43
+Bahraich,11,10
+Bahraich,12,712
+Bahraich,13,5601
+Bahraich,14,971
+Bahraich,15,109
+Bahraich,16,7
+Ballia,1,1
+Ballia,2,63
+Ballia,3,407
+Ballia,4,2433
+Ballia,5,2074
+Ballia,6,1384
+Ballia,7,706
+Ballia,8,490
+Ballia,9,296
+Ballia,10,42
+Ballia,11,22
+Ballia,12,1735
+Ballia,13,11198
+Ballia,14,732
+Ballia,15,17
+Ballia,16,6
+Balrampur,1,5
+Balrampur,2,46
+Balrampur,3,67
+Balrampur,4,452
+Balrampur,5,657
+Balrampur,6,449
+Balrampur,7,186
+Balrampur,8,158
+Balrampur,9,108
+Balrampur,10,78
+Balrampur,11,16
+Balrampur,12,543
+Balrampur,13,3756
+Balrampur,14,918
+Balrampur,15,43
+Balrampur,16,5
+Banda,1,21
+Banda,2,13
+Banda,3,44
+Banda,4,352
+Banda,5,1006
+Banda,6,962
+Banda,7,716
+Banda,8,437
+Banda,9,279
+Banda,10,36
+Banda,11,8
+Banda,12,1083
+Banda,13,5687
+Banda,14,318
+Banda,15,15
+Banda,16,9
+Barabanki,1,10
+Barabanki,2,219
+Barabanki,3,399
+Barabanki,4,1349
+Barabanki,5,3120
+Barabanki,6,1598
+Barabanki,7,533
+Barabanki,8,310
+Barabanki,9,219
+Barabanki,10,62
+Barabanki,11,29
+Barabanki,12,1467
+Barabanki,13,9094
+Barabanki,14,1346
+Barabanki,15,60
+Barabanki,16,18
+Bareilly,1,11
+Bareilly,2,115
+Bareilly,3,531
+Bareilly,4,3859
+Bareilly,5,4047
+Bareilly,6,2709
+Bareilly,7,1246
+Bareilly,8,1117
+Bareilly,9,748
+Bareilly,10,259
+Bareilly,11,130
+Bareilly,12,2168
+Bareilly,13,24901
+Bareilly,14,2019
+Bareilly,15,92
+Bareilly,16,21
+Basti,1,46
+Basti,2,213
+Basti,3,198
+Basti,4,1353
+Basti,5,1182
+Basti,6,1143
+Basti,7,572
+Basti,8,232
+Basti,9,134
+Basti,10,268
+Basti,11,34
+Basti,12,599
+Basti,13,4705
+Basti,14,1000
+Basti,15,32
+Basti,16,3
+Bhadohi,1,3
+Bhadohi,2,82
+Bhadohi,3,140
+Bhadohi,4,579
+Bhadohi,5,569
+Bhadohi,6,434
+Bhadohi,7,200
+Bhadohi,8,145
+Bhadohi,9,74
+Bhadohi,10,23
+Bhadohi,11,5
+Bhadohi,12,787
+Bhadohi,13,4105
+Bhadohi,14,548
+Bhadohi,15,20
+Bhadohi,16,3
+Bijnor,1,46
+Bijnor,2,158
+Bijnor,3,215
+Bijnor,4,641
+Bijnor,5,1346
+Bijnor,6,897
+Bijnor,7,462
+Bijnor,8,385
+Bijnor,9,205
+Bijnor,10,61
+Bijnor,11,18
+Bijnor,12,622
+Bijnor,13,8367
+Bijnor,14,1318
+Bijnor,15,40
+Bijnor,16,7
+Budaun,1,17
+Budaun,2,43
+Budaun,3,182
+Budaun,4,509
+Budaun,5,1442
+Budaun,6,756
+Budaun,7,381
+Budaun,8,395
+Budaun,9,258
+Budaun,10,78
+Budaun,11,5
+Budaun,12,583
+Budaun,13,9175
+Budaun,14,1071
+Budaun,15,24
+Budaun,16,5
+Bulandshahr,1,77
+Bulandshahr,2,264
+Bulandshahr,3,602
+Bulandshahr,4,778
+Bulandshahr,5,1254
+Bulandshahr,6,1133
+Bulandshahr,7,924
+Bulandshahr,8,767
+Bulandshahr,9,386
+Bulandshahr,10,106
+Bulandshahr,11,32
+Bulandshahr,12,714
+Bulandshahr,13,9447
+Bulandshahr,14,3560
+Bulandshahr,15,138
+Bulandshahr,16,20
+Chandauli,1,1
+Chandauli,2,49
+Chandauli,3,256
+Chandauli,4,1056
+Chandauli,5,1268
+Chandauli,6,887
+Chandauli,7,501
+Chandauli,8,468
+Chandauli,9,333
+Chandauli,10,52
+Chandauli,11,22
+Chandauli,12,1400
+Chandauli,13,9297
+Chandauli,14,566
+Chandauli,15,32
+Chandauli,16,10
+Chitrakoot,1,8
+Chitrakoot,2,68
+Chitrakoot,3,31
+Chitrakoot,4,233
+Chitrakoot,5,620
+Chitrakoot,6,547
+Chitrakoot,7,444
+Chitrakoot,8,119
+Chitrakoot,9,111
+Chitrakoot,10,8
+Chitrakoot,11,5
+Chitrakoot,12,635
+Chitrakoot,13,4005
+Chitrakoot,14,260
+Chitrakoot,15,10
+Chitrakoot,16,2
+Deoria,1,4
+Deoria,2,138
+Deoria,3,326
+Deoria,4,1854
+Deoria,5,2759
+Deoria,6,884
+Deoria,7,454
+Deoria,8,200
+Deoria,9,118
+Deoria,10,24
+Deoria,11,11
+Deoria,12,864
+Deoria,13,10183
+Deoria,14,2319
+Deoria,15,47
+Deoria,16,27
+Etah,1,11
+Etah,2,53
+Etah,3,112
+Etah,4,418
+Etah,5,767
+Etah,6,546
+Etah,7,290
+Etah,8,262
+Etah,9,71
+Etah,10,4
+Etah,11,15
+Etah,12,381
+Etah,13,6326
+Etah,14,690
+Etah,15,19
+Etah,16,-1
+Etawah,1,3
+Etawah,2,125
+Etawah,3,283
+Etawah,4,750
+Etawah,5,1989
+Etawah,6,1325
+Etawah,7,595
+Etawah,8,502
+Etawah,9,169
+Etawah,10,28
+Etawah,11,8
+Etawah,12,838
+Etawah,13,6574
+Etawah,14,718
+Etawah,15,34
+Etawah,16,-13
+Farrukhabad,1,8
+Farrukhabad,2,66
+Farrukhabad,3,195
+Farrukhabad,4,487
+Farrukhabad,5,1039
+Farrukhabad,6,1809
+Farrukhabad,7,515
+Farrukhabad,8,374
+Farrukhabad,9,176
+Farrukhabad,10,39
+Farrukhabad,11,23
+Farrukhabad,12,537
+Farrukhabad,13,4215
+Farrukhabad,14,828
+Farrukhabad,15,21
+Farrukhabad,16,8
+Fatehpur,1,6
+Fatehpur,2,91
+Fatehpur,3,137
+Fatehpur,4,637
+Fatehpur,5,923
+Fatehpur,6,927
+Fatehpur,7,590
+Fatehpur,8,360
+Fatehpur,9,142
+Fatehpur,10,21
+Fatehpur,11,16
+Fatehpur,12,286
+Fatehpur,13,2486
+Fatehpur,14,148
+Fatehpur,15,25
+Fatehpur,16,8
+Firozabad,1,194
+Firozabad,2,180
+Firozabad,3,201
+Firozabad,4,428
+Firozabad,5,1129
+Firozabad,6,725
+Firozabad,7,445
+Firozabad,8,437
+Firozabad,9,110
+Firozabad,10,37
+Firozabad,11,63
+Firozabad,12,685
+Firozabad,13,3459
+Firozabad,14,575
+Firozabad,15,41
+Firozabad,16,6
+Gautam Buddha Nagar,1,249
+Gautam Buddha Nagar,2,748
+Gautam Buddha Nagar,3,2617
+Gautam Buddha Nagar,4,2688
+Gautam Buddha Nagar,5,4030
+Gautam Buddha Nagar,6,4995
+Gautam Buddha Nagar,7,4827
+Gautam Buddha Nagar,8,4026
+Gautam Buddha Nagar,9,1080
+Gautam Buddha Nagar,10,173
+Gautam Buddha Nagar,11,234
+Gautam Buddha Nagar,12,2772
+Gautam Buddha Nagar,13,30187
+Gautam Buddha Nagar,14,4332
+Gautam Buddha Nagar,15,173
+Gautam Buddha Nagar,16,106
+Ghaziabad,1,169
+Ghaziabad,2,462
+Ghaziabad,3,2827
+Ghaziabad,4,2851
+Ghaziabad,5,4755
+Ghaziabad,6,5517
+Ghaziabad,7,3908
+Ghaziabad,8,4455
+Ghaziabad,9,1478
+Ghaziabad,10,256
+Ghaziabad,11,204
+Ghaziabad,12,1960
+Ghaziabad,13,21880
+Ghaziabad,14,4713
+Ghaziabad,15,152
+Ghaziabad,16,38
+Ghazipur,1,14
+Ghazipur,2,171
+Ghazipur,3,227
+Ghazipur,4,1494
+Ghazipur,5,1451
+Ghazipur,6,792
+Ghazipur,7,477
+Ghazipur,8,341
+Ghazipur,9,247
+Ghazipur,10,40
+Ghazipur,11,26
+Ghazipur,12,1293
+Ghazipur,13,13379
+Ghazipur,14,1591
+Ghazipur,15,70
+Ghazipur,16,24
+Gonda,1,21
+Gonda,2,90
+Gonda,3,127
+Gonda,4,1208
+Gonda,5,1746
+Gonda,6,920
+Gonda,7,600
+Gonda,8,233
+Gonda,9,100
+Gonda,10,22
+Gonda,11,7
+Gonda,12,891
+Gonda,13,5436
+Gonda,14,785
+Gonda,15,84
+Gonda,16,12
+Gorakhpur,1,10
+Gorakhpur,2,157
+Gorakhpur,3,606
+Gorakhpur,4,3957
+Gorakhpur,5,8193
+Gorakhpur,6,4612
+Gorakhpur,7,1984
+Gorakhpur,8,995
+Gorakhpur,9,763
+Gorakhpur,10,167
+Gorakhpur,11,64
+Gorakhpur,12,4019
+Gorakhpur,13,27756
+Gorakhpur,14,5887
+Gorakhpur,15,158
+Gorakhpur,16,50
+Hamirpur,1,1
+Hamirpur,2,42
+Hamirpur,3,78
+Hamirpur,4,302
+Hamirpur,5,439
+Hamirpur,6,321
+Hamirpur,7,185
+Hamirpur,8,159
+Hamirpur,9,47
+Hamirpur,10,9
+Hamirpur,11,7
+Hamirpur,12,210
+Hamirpur,13,3272
+Hamirpur,14,131
+Hamirpur,15,19
+Hamirpur,16,8
+Hapur,1,61
+Hapur,2,169
+Hapur,3,698
+Hapur,4,543
+Hapur,5,687
+Hapur,6,829
+Hapur,7,600
+Hapur,8,560
+Hapur,9,203
+Hapur,10,61
+Hapur,11,36
+Hapur,12,429
+Hapur,13,6083
+Hapur,14,1590
+Hapur,15,59
+Hapur,16,21
+Hardoi,1,6
+Hardoi,2,144
+Hardoi,3,227
+Hardoi,4,1251
+Hardoi,5,1952
+Hardoi,6,1415
+Hardoi,7,466
+Hardoi,8,269
+Hardoi,9,151
+Hardoi,10,59
+Hardoi,11,8
+Hardoi,12,752
+Hardoi,13,6110
+Hardoi,14,876
+Hardoi,15,62
+Hardoi,16,6
+Hathras,1,19
+Hathras,2,59
+Hathras,3,134
+Hathras,4,153
+Hathras,5,440
+Hathras,6,252
+Hathras,7,117
+Hathras,8,97
+Hathras,9,23
+Hathras,10,20
+Hathras,11,5
+Hathras,12,50
+Hathras,13,1243
+Hathras,14,278
+Hathras,15,26
+Hathras,16,1
+Jalaun,1,36
+Jalaun,2,64
+Jalaun,3,113
+Jalaun,4,673
+Jalaun,5,885
+Jalaun,6,827
+Jalaun,7,616
+Jalaun,8,537
+Jalaun,9,203
+Jalaun,10,32
+Jalaun,11,16
+Jalaun,12,566
+Jalaun,13,6501
+Jalaun,14,559
+Jalaun,15,25
+Jalaun,16,9
+Jaunpur,1,13
+Jaunpur,2,418
+Jaunpur,3,295
+Jaunpur,4,2207
+Jaunpur,5,1453
+Jaunpur,6,1050
+Jaunpur,7,566
+Jaunpur,8,403
+Jaunpur,9,246
+Jaunpur,10,64
+Jaunpur,11,30
+Jaunpur,12,1560
+Jaunpur,13,12119
+Jaunpur,14,2019
+Jaunpur,15,112
+Jaunpur,16,16
+Jhansi,1,30
+Jhansi,2,50
+Jhansi,3,657
+Jhansi,4,2300
+Jhansi,5,2724
+Jhansi,6,2144
+Jhansi,7,928
+Jhansi,8,983
+Jhansi,9,491
+Jhansi,10,135
+Jhansi,11,43
+Jhansi,12,3133
+Jhansi,13,21403
+Jhansi,14,1448
+Jhansi,15,51
+Jhansi,16,19
+Kannauj,1,23
+Kannauj,2,121
+Kannauj,3,201
+Kannauj,4,907
+Kannauj,5,784
+Kannauj,6,824
+Kannauj,7,317
+Kannauj,8,214
+Kannauj,9,97
+Kannauj,10,11
+Kannauj,11,4
+Kannauj,12,357
+Kannauj,13,4979
+Kannauj,14,342
+Kannauj,15,29
+Kannauj,16,10
+Kanpur Dehat,1,4
+Kanpur Dehat,2,39
+Kanpur Dehat,3,43
+Kanpur Dehat,4,473
+Kanpur Dehat,5,950
+Kanpur Dehat,6,289
+Kanpur Dehat,7,109
+Kanpur Dehat,8,157
+Kanpur Dehat,9,51
+Kanpur Dehat,10,12
+Kanpur Dehat,11,28
+Kanpur Dehat,12,235
+Kanpur Dehat,13,3658
+Kanpur Dehat,14,96
+Kanpur Dehat,15,29
+Kanpur Dehat,16,17
+Kanpur Nagar,1,312
+Kanpur Nagar,2,393
+Kanpur Nagar,3,1207
+Kanpur Nagar,4,7807
+Kanpur Nagar,5,10642
+Kanpur Nagar,6,6588
+Kanpur Nagar,7,1924
+Kanpur Nagar,8,2626
+Kanpur Nagar,9,1148
+Kanpur Nagar,10,319
+Kanpur Nagar,11,133
+Kanpur Nagar,12,7653
+Kanpur Nagar,13,40001
+Kanpur Nagar,14,1871
+Kanpur Nagar,15,195
+Kanpur Nagar,16,75
+Kasganj,1,7
+Kasganj,2,25
+Kasganj,3,158
+Kasganj,4,392
+Kasganj,5,586
+Kasganj,6,267
+Kasganj,7,333
+Kasganj,8,144
+Kasganj,9,46
+Kasganj,10,6
+Kasganj,11,3
+Kasganj,12,91
+Kasganj,13,1958
+Kasganj,14,218
+Kasganj,15,13
+Kasganj,16,1
+Kaushambi,1,6
+Kaushambi,2,47
+Kaushambi,3,173
+Kaushambi,4,319
+Kaushambi,5,718
+Kaushambi,6,436
+Kaushambi,7,341
+Kaushambi,8,182
+Kaushambi,9,45
+Kaushambi,10,-1
+Kaushambi,11,2
+Kaushambi,12,356
+Kaushambi,13,1707
+Kaushambi,14,69
+Kaushambi,15,14
+Kaushambi,16,2
+Kushinagar,1,2
+Kushinagar,2,56
+Kushinagar,3,252
+Kushinagar,4,1428
+Kushinagar,5,2386
+Kushinagar,6,980
+Kushinagar,7,364
+Kushinagar,8,123
+Kushinagar,9,89
+Kushinagar,10,27
+Kushinagar,11,19
+Kushinagar,12,532
+Kushinagar,13,7593
+Kushinagar,14,1682
+Kushinagar,15,49
+Kushinagar,16,29
+Lakhimpur Kheri,1,14
+Lakhimpur Kheri,2,70
+Lakhimpur Kheri,3,97
+Lakhimpur Kheri,4,860
+Lakhimpur Kheri,5,2276
+Lakhimpur Kheri,6,2765
+Lakhimpur Kheri,7,836
+Lakhimpur Kheri,8,456
+Lakhimpur Kheri,9,227
+Lakhimpur Kheri,10,52
+Lakhimpur Kheri,11,45
+Lakhimpur Kheri,12,753
+Lakhimpur Kheri,13,14038
+Lakhimpur Kheri,14,1755
+Lakhimpur Kheri,15,147
+Lakhimpur Kheri,16,14
+Lalitpur,1,1
+Lalitpur,2,3
+Lalitpur,3,56
+Lalitpur,4,616
+Lalitpur,5,1313
+Lalitpur,6,728
+Lalitpur,7,238
+Lalitpur,8,238
+Lalitpur,9,209
+Lalitpur,10,66
+Lalitpur,11,21
+Lalitpur,12,1347
+Lalitpur,13,7417
+Lalitpur,14,458
+Lalitpur,15,19
+Lalitpur,16,4
+Lucknow,1,271
+Lucknow,2,325
+Lucknow,3,2134
+Lucknow,4,13251
+Lucknow,5,24191
+Lucknow,6,18440
+Lucknow,7,8318
+Lucknow,8,8280
+Lucknow,9,5153
+Lucknow,10,1322
+Lucknow,11,447
+Lucknow,12,39986
+Lucknow,13,110465
+Lucknow,14,5551
+Lucknow,15,344
+Lucknow,16,177
+Maharajganj,1,11
+Maharajganj,2,89
+Maharajganj,3,192
+Maharajganj,4,1214
+Maharajganj,5,2424
+Maharajganj,6,1187
+Maharajganj,7,503
+Maharajganj,8,111
+Maharajganj,9,63
+Maharajganj,10,17
+Maharajganj,11,7
+Maharajganj,12,408
+Maharajganj,13,5073
+Maharajganj,14,1021
+Maharajganj,15,47
+Maharajganj,16,40
+Mahoba,1,3
+Mahoba,2,28
+Mahoba,3,61
+Mahoba,4,249
+Mahoba,5,323
+Mahoba,6,301
+Mahoba,7,274
+Mahoba,8,171
+Mahoba,9,60
+Mahoba,10,6
+Mahoba,11,2
+Mahoba,12,203
+Mahoba,13,2441
+Mahoba,14,143
+Mahoba,15,2
+Mahoba,16,1
+Mainpuri,1,10
+Mainpuri,2,120
+Mainpuri,3,230
+Mainpuri,4,682
+Mainpuri,5,1174
+Mainpuri,6,694
+Mainpuri,7,395
+Mainpuri,8,331
+Mainpuri,9,144
+Mainpuri,10,62
+Mainpuri,11,18
+Mainpuri,12,241
+Mainpuri,13,5219
+Mainpuri,14,635
+Mainpuri,15,55
+Mainpuri,16,8
+Mathura,1,56
+Mathura,2,111
+Mathura,3,378
+Mathura,4,868
+Mathura,5,1753
+Mathura,6,1292
+Mathura,7,1010
+Mathura,8,957
+Mathura,9,345
+Mathura,10,56
+Mathura,11,52
+Mathura,12,1327
+Mathura,13,10688
+Mathura,14,1311
+Mathura,15,51
+Mathura,16,19
+Mau,1,2
+Mau,2,66
+Mau,3,209
+Mau,4,633
+Mau,5,1114
+Mau,6,614
+Mau,7,226
+Mau,8,138
+Mau,9,52
+Mau,10,11
+Mau,11,5
+Mau,12,620
+Mau,13,3939
+Mau,14,656
+Mau,15,33
+Mau,16,6
+Meerut,1,286
+Meerut,2,355
+Meerut,3,953
+Meerut,4,1249
+Meerut,5,3800
+Meerut,6,5205
+Meerut,7,3922
+Meerut,8,5024
+Meerut,9,1277
+Meerut,10,258
+Meerut,11,123
+Meerut,12,2930
+Meerut,13,38121
+Meerut,14,5675
+Meerut,15,199
+Meerut,16,47
+Mirzapur,1,7
+Mirzapur,2,34
+Mirzapur,3,218
+Mirzapur,4,931
+Mirzapur,5,838
+Mirzapur,6,617
+Mirzapur,7,370
+Mirzapur,8,259
+Mirzapur,9,155
+Mirzapur,10,26
+Mirzapur,11,9
+Mirzapur,12,1114
+Mirzapur,13,6013
+Mirzapur,14,439
+Mirzapur,15,46
+Mirzapur,16,6
+Moradabad,1,151
+Moradabad,2,143
+Moradabad,3,500
+Moradabad,4,2040
+Moradabad,5,3890
+Moradabad,6,2879
+Moradabad,7,992
+Moradabad,8,701
+Moradabad,9,497
+Moradabad,10,93
+Moradabad,11,35
+Moradabad,12,1374
+Moradabad,13,23684
+Moradabad,14,2025
+Moradabad,15,83
+Moradabad,16,8
+Muzaffarnagar,1,26
+Muzaffarnagar,2,142
+Muzaffarnagar,3,289
+Muzaffarnagar,4,744
+Muzaffarnagar,5,2150
+Muzaffarnagar,6,2179
+Muzaffarnagar,7,946
+Muzaffarnagar,8,1237
+Muzaffarnagar,9,882
+Muzaffarnagar,10,276
+Muzaffarnagar,11,51
+Muzaffarnagar,12,1532
+Muzaffarnagar,13,16887
+Muzaffarnagar,14,3462
+Muzaffarnagar,15,178
+Muzaffarnagar,16,21
+Pilibhit,1,6
+Pilibhit,2,77
+Pilibhit,3,106
+Pilibhit,4,1286
+Pilibhit,5,1444
+Pilibhit,6,694
+Pilibhit,7,220
+Pilibhit,8,224
+Pilibhit,9,123
+Pilibhit,10,21
+Pilibhit,11,16
+Pilibhit,12,143
+Pilibhit,13,5501
+Pilibhit,14,1133
+Pilibhit,15,28
+Pilibhit,16,6
+Pratapgarh,1,16
+Pratapgarh,2,79
+Pratapgarh,3,49
+Pratapgarh,4,880
+Pratapgarh,5,1803
+Pratapgarh,6,1202
+Pratapgarh,7,647
+Pratapgarh,8,392
+Pratapgarh,9,291
+Pratapgarh,10,56
+Pratapgarh,11,17
+Pratapgarh,12,926
+Pratapgarh,13,8515
+Pratapgarh,14,1074
+Pratapgarh,15,73
+Pratapgarh,16,5
+Prayagraj,1,26
+Prayagraj,2,121
+Prayagraj,3,515
+Prayagraj,4,4505
+Prayagraj,5,9371
+Prayagraj,6,7147
+Prayagraj,7,3316
+Prayagraj,8,2315
+Prayagraj,9,1499
+Prayagraj,10,384
+Prayagraj,11,229
+Prayagraj,12,13836
+Prayagraj,13,33273
+Prayagraj,14,1687
+Prayagraj,15,267
+Prayagraj,16,124
+Rae Bareli,1,50
+Rae Bareli,2,59
+Rae Bareli,3,82
+Rae Bareli,4,775
+Rae Bareli,5,1235
+Rae Bareli,6,1247
+Rae Bareli,7,894
+Rae Bareli,8,552
+Rae Bareli,9,474
+Rae Bareli,10,176
+Rae Bareli,11,71
+Rae Bareli,12,1777
+Rae Bareli,13,8249
+Rae Bareli,14,1270
+Rae Bareli,15,153
+Rae Bareli,16,11
+Rampur,1,31
+Rampur,2,228
+Rampur,3,197
+Rampur,4,1372
+Rampur,5,2420
+Rampur,6,633
+Rampur,7,224
+Rampur,8,188
+Rampur,9,163
+Rampur,10,67
+Rampur,11,16
+Rampur,12,566
+Rampur,13,4861
+Rampur,14,785
+Rampur,15,54
+Rampur,16,17
+Saharanpur,1,208
+Saharanpur,2,79
+Saharanpur,3,286
+Saharanpur,4,1433
+Saharanpur,5,3822
+Saharanpur,6,1674
+Saharanpur,7,659
+Saharanpur,8,1100
+Saharanpur,9,706
+Saharanpur,10,130
+Saharanpur,11,44
+Saharanpur,12,1236
+Saharanpur,13,17157
+Saharanpur,14,4400
+Saharanpur,15,-163
+Saharanpur,16,-50
+Sambhal,1,28
+Sambhal,2,154
+Sambhal,3,407
+Sambhal,4,639
+Sambhal,5,677
+Sambhal,6,610
+Sambhal,7,365
+Sambhal,8,226
+Sambhal,9,88
+Sambhal,10,13
+Sambhal,11,7
+Sambhal,12,418
+Sambhal,13,5214
+Sambhal,14,583
+Sambhal,15,3
+Sambhal,16,4
+Sant Kabir Nagar,1,34
+Sant Kabir Nagar,2,125
+Sant Kabir Nagar,3,286
+Sant Kabir Nagar,4,1054
+Sant Kabir Nagar,5,775
+Sant Kabir Nagar,6,550
+Sant Kabir Nagar,7,210
+Sant Kabir Nagar,8,111
+Sant Kabir Nagar,9,176
+Sant Kabir Nagar,10,95
+Sant Kabir Nagar,11,37
+Sant Kabir Nagar,12,491
+Sant Kabir Nagar,13,3342
+Sant Kabir Nagar,14,831
+Sant Kabir Nagar,15,36
+Sant Kabir Nagar,16,4
+Shahjahanpur,1,2
+Shahjahanpur,2,66
+Shahjahanpur,3,151
+Shahjahanpur,4,1659
+Shahjahanpur,5,2703
+Shahjahanpur,6,1487
+Shahjahanpur,7,462
+Shahjahanpur,8,206
+Shahjahanpur,9,160
+Shahjahanpur,10,52
+Shahjahanpur,11,32
+Shahjahanpur,12,569
+Shahjahanpur,13,10884
+Shahjahanpur,14,1858
+Shahjahanpur,15,51
+Shahjahanpur,16,11
+Shamli,1,33
+Shamli,2,25
+Shamli,3,158
+Shamli,4,419
+Shamli,5,1089
+Shamli,6,922
+Shamli,7,330
+Shamli,8,455
+Shamli,9,182
+Shamli,10,47
+Shamli,11,34
+Shamli,12,484
+Shamli,13,6915
+Shamli,14,1793
+Shamli,15,79
+Shamli,16,9
+Shrawasti,1,14
+Shrawasti,2,33
+Shrawasti,3,44
+Shrawasti,4,269
+Shrawasti,5,468
+Shrawasti,6,223
+Shrawasti,7,95
+Shrawasti,8,99
+Shrawasti,9,95
+Shrawasti,10,26
+Shrawasti,11,5
+Shrawasti,12,149
+Shrawasti,13,2544
+Shrawasti,14,366
+Shrawasti,15,-47
+Shrawasti,16,2
+Siddharthnagar,1,34
+Siddharthnagar,2,139
+Siddharthnagar,3,144
+Siddharthnagar,4,1223
+Siddharthnagar,5,1146
+Siddharthnagar,6,797
+Siddharthnagar,7,353
+Siddharthnagar,8,112
+Siddharthnagar,9,99
+Siddharthnagar,10,41
+Siddharthnagar,11,4
+Siddharthnagar,12,386
+Siddharthnagar,13,3906
+Siddharthnagar,14,914
+Siddharthnagar,15,56
+Siddharthnagar,16,11
+Sitapur,1,26
+Sitapur,2,21
+Sitapur,3,52
+Sitapur,4,990
+Sitapur,5,1838
+Sitapur,6,987
+Sitapur,7,524
+Sitapur,8,191
+Sitapur,9,166
+Sitapur,10,45
+Sitapur,11,16
+Sitapur,12,781
+Sitapur,13,5821
+Sitapur,14,835
+Sitapur,15,91
+Sitapur,16,9
+Sonbhadra,1,1
+Sonbhadra,2,30
+Sonbhadra,3,74
+Sonbhadra,4,947
+Sonbhadra,5,1203
+Sonbhadra,6,1043
+Sonbhadra,7,828
+Sonbhadra,8,711
+Sonbhadra,9,254
+Sonbhadra,10,-83
+Sonbhadra,11,30
+Sonbhadra,12,1104
+Sonbhadra,13,9434
+Sonbhadra,14,1182
+Sonbhadra,15,29
+Sonbhadra,16,14
+Sultanpur,1,14
+Sultanpur,2,109
+Sultanpur,3,131
+Sultanpur,4,1269
+Sultanpur,5,1150
+Sultanpur,6,939
+Sultanpur,7,583
+Sultanpur,8,367
+Sultanpur,9,363
+Sultanpur,10,64
+Sultanpur,11,21
+Sultanpur,12,1053
+Sultanpur,13,7870
+Sultanpur,14,880
+Sultanpur,15,70
+Sultanpur,16,26
+Unnao,1,6
+Unnao,2,82
+Unnao,3,264
+Unnao,4,969
+Unnao,5,1493
+Unnao,6,968
+Unnao,7,332
+Unnao,8,325
+Unnao,9,92
+Unnao,10,24
+Unnao,11,13
+Unnao,12,852
+Unnao,13,8617
+Unnao,14,834
+Unnao,15,107
+Unnao,16,20
+Varanasi,1,92
+Varanasi,2,190
+Varanasi,3,688
+Varanasi,4,4382
+Varanasi,5,5565
+Varanasi,6,5184
+Varanasi,7,2598
+Varanasi,8,2782
+Varanasi,9,1659
+Varanasi,10,337
+Varanasi,11,163
+Varanasi,12,12278
+Varanasi,13,44782
+Varanasi,14,4386
+Varanasi,15,302
+Varanasi,16,84
+Almora,1,2
+Almora,2,72
+Almora,3,129
+Almora,4,165
+Almora,5,514
+Almora,6,736
+Almora,7,492
+Almora,8,611
+Almora,9,482
+Almora,10,56
+Almora,11,10
+Almora,12,255
+Almora,13,4642
+Almora,14,3622
+Almora,15,283
+Almora,16,69
+Bageshwar,1,40
+Bageshwar,2,55
+Bageshwar,3,84
+Bageshwar,4,206
+Bageshwar,5,402
+Bageshwar,6,255
+Bageshwar,7,325
+Bageshwar,8,164
+Bageshwar,9,9
+Bageshwar,10,2
+Bageshwar,11,101
+Bageshwar,12,2144
+Bageshwar,13,1806
+Bageshwar,14,78
+Bageshwar,15,49
+Chamoli,1,44
+Chamoli,2,34
+Chamoli,3,78
+Chamoli,4,399
+Chamoli,5,818
+Chamoli,6,899
+Chamoli,7,873
+Chamoli,8,289
+Chamoli,9,45
+Chamoli,10,11
+Chamoli,11,99
+Chamoli,12,4544
+Chamoli,13,3845
+Chamoli,14,116
+Chamoli,15,57
+Champawat,1,48
+Champawat,2,23
+Champawat,3,124
+Champawat,4,368
+Champawat,5,443
+Champawat,6,205
+Champawat,7,303
+Champawat,8,283
+Champawat,9,23
+Champawat,10,2
+Champawat,11,101
+Champawat,12,4056
+Champawat,13,1391
+Champawat,14,145
+Champawat,15,34
+Dehradun,1,39
+Dehradun,2,436
+Dehradun,3,414
+Dehradun,4,1456
+Dehradun,5,5625
+Dehradun,6,7524
+Dehradun,7,3393
+Dehradun,8,5560
+Dehradun,9,4039
+Dehradun,10,1117
+Dehradun,11,348
+Dehradun,12,6878
+Dehradun,13,60697
+Dehradun,14,12837
+Dehradun,15,1346
+Dehradun,16,256
+Haridwar,1,7
+Haridwar,2,202
+Haridwar,3,190
+Haridwar,4,2401
+Haridwar,5,4161
+Haridwar,6,3419
+Haridwar,7,1095
+Haridwar,8,1339
+Haridwar,9,935
+Haridwar,10,348
+Haridwar,11,293
+Haridwar,12,4572
+Haridwar,13,24337
+Haridwar,14,7417
+Haridwar,15,556
+Haridwar,16,131
+Nainital,1,12
+Nainital,2,323
+Nainital,3,248
+Nainital,4,1095
+Nainital,5,2494
+Nainital,6,2404
+Nainital,7,1283
+Nainital,8,1787
+Nainital,9,2482
+Nainital,10,552
+Nainital,11,233
+Nainital,12,1610
+Nainital,13,18226
+Nainital,14,5834
+Nainital,15,356
+Nainital,16,141
+Pauri Garhwal,1,1
+Pauri Garhwal,2,61
+Pauri Garhwal,3,110
+Pauri Garhwal,4,124
+Pauri Garhwal,5,853
+Pauri Garhwal,6,1188
+Pauri Garhwal,7,1327
+Pauri Garhwal,8,1079
+Pauri Garhwal,9,385
+Pauri Garhwal,10,29
+Pauri Garhwal,11,-12
+Pauri Garhwal,12,519
+Pauri Garhwal,13,7665
+Pauri Garhwal,14,4039
+Pauri Garhwal,15,143
+Pauri Garhwal,16,34
+Pithoragarh,1,51
+Pithoragarh,2,19
+Pithoragarh,3,142
+Pithoragarh,4,476
+Pithoragarh,5,598
+Pithoragarh,6,470
+Pithoragarh,7,974
+Pithoragarh,8,587
+Pithoragarh,9,42
+Pithoragarh,10,11
+Pithoragarh,11,121
+Pithoragarh,12,3119
+Pithoragarh,13,3141
+Pithoragarh,14,297
+Pithoragarh,15,121
+Rudraprayag,1,43
+Rudraprayag,2,24
+Rudraprayag,3,45
+Rudraprayag,4,381
+Rudraprayag,5,414
+Rudraprayag,6,747
+Rudraprayag,7,400
+Rudraprayag,8,197
+Rudraprayag,9,18
+Rudraprayag,10,8
+Rudraprayag,11,115
+Rudraprayag,12,3405
+Rudraprayag,13,2715
+Rudraprayag,14,157
+Rudraprayag,15,75
+Tehri Garhwal,1,291
+Tehri Garhwal,2,146
+Tehri Garhwal,3,256
+Tehri Garhwal,4,1065
+Tehri Garhwal,5,1019
+Tehri Garhwal,6,564
+Tehri Garhwal,7,531
+Tehri Garhwal,8,332
+Tehri Garhwal,9,29
+Tehri Garhwal,10,7
+Tehri Garhwal,11,605
+Tehri Garhwal,12,6730
+Tehri Garhwal,13,4032
+Tehri Garhwal,14,186
+Tehri Garhwal,15,25
+Udham Singh Nagar,1,16
+Udham Singh Nagar,2,98
+Udham Singh Nagar,3,414
+Udham Singh Nagar,4,1672
+Udham Singh Nagar,5,3901
+Udham Singh Nagar,6,2994
+Udham Singh Nagar,7,774
+Udham Singh Nagar,8,833
+Udham Singh Nagar,9,630
+Udham Singh Nagar,10,200
+Udham Singh Nagar,11,73
+Udham Singh Nagar,12,1137
+Udham Singh Nagar,13,18287
+Udham Singh Nagar,14,6352
+Udham Singh Nagar,15,225
+Udham Singh Nagar,16,210
+Uttarkashi,1,1
+Uttarkashi,2,32
+Uttarkashi,3,61
+Uttarkashi,4,287
+Uttarkashi,5,958
+Uttarkashi,6,1095
+Uttarkashi,7,428
+Uttarkashi,8,389
+Uttarkashi,9,513
+Uttarkashi,10,28
+Uttarkashi,11,0
+Uttarkashi,12,105
+Uttarkashi,13,5709
+Uttarkashi,14,2559
+Uttarkashi,15,244
+Uttarkashi,16,63
+Alipurduar,1,45
+Alipurduar,2,161
+Alipurduar,3,699
+Alipurduar,4,2428
+Alipurduar,5,2278
+Alipurduar,6,1236
+Alipurduar,7,626
+Alipurduar,8,200
+Alipurduar,9,29
+Alipurduar,10,9
+Alipurduar,11,108
+Alipurduar,12,1767
+Alipurduar,13,4113
+Alipurduar,14,817
+Alipurduar,15,552
+Bankura,1,179
+Bankura,2,146
+Bankura,3,978
+Bankura,4,2690
+Bankura,5,2492
+Bankura,6,2443
+Bankura,7,1839
+Bankura,8,848
+Bankura,9,289
+Bankura,10,167
+Bankura,11,439
+Bankura,12,8453
+Bankura,13,11026
+Bankura,14,1843
+Bankura,15,983
+Birbhum,1,7
+Birbhum,2,245
+Birbhum,3,86
+Birbhum,4,829
+Birbhum,5,1627
+Birbhum,6,2085
+Birbhum,7,2256
+Birbhum,8,1838
+Birbhum,9,869
+Birbhum,10,167
+Birbhum,11,77
+Birbhum,12,2825
+Birbhum,13,20114
+Birbhum,14,6633
+Birbhum,15,520
+Birbhum,16,266
+Cooch Behar,1,259
+Cooch Behar,2,101
+Cooch Behar,3,1277
+Cooch Behar,4,2730
+Cooch Behar,5,2653
+Cooch Behar,6,2837
+Cooch Behar,7,1416
+Cooch Behar,8,494
+Cooch Behar,9,62
+Cooch Behar,10,27
+Cooch Behar,11,165
+Cooch Behar,12,4832
+Cooch Behar,13,7552
+Cooch Behar,14,2445
+Cooch Behar,15,1192
+Dakshin Dinajpur,1,65
+Dakshin Dinajpur,2,346
+Dakshin Dinajpur,3,1652
+Dakshin Dinajpur,4,2468
+Dakshin Dinajpur,5,1548
+Dakshin Dinajpur,6,1381
+Dakshin Dinajpur,7,500
+Dakshin Dinajpur,8,165
+Dakshin Dinajpur,9,50
+Dakshin Dinajpur,10,6
+Dakshin Dinajpur,11,216
+Dakshin Dinajpur,12,4196
+Dakshin Dinajpur,13,3643
+Dakshin Dinajpur,14,536
+Dakshin Dinajpur,15,231
+Darjeeling,1,7
+Darjeeling,2,190
+Darjeeling,3,754
+Darjeeling,4,2488
+Darjeeling,5,2940
+Darjeeling,6,2869
+Darjeeling,7,4180
+Darjeeling,8,3390
+Darjeeling,9,1290
+Darjeeling,10,278
+Darjeeling,11,120
+Darjeeling,12,858
+Darjeeling,13,12595
+Darjeeling,14,15848
+Darjeeling,15,4292
+Darjeeling,16,2177
+Hooghly,1,135
+Hooghly,2,557
+Hooghly,3,921
+Hooghly,4,3581
+Hooghly,5,5044
+Hooghly,6,4883
+Hooghly,7,6400
+Hooghly,8,5484
+Hooghly,9,2088
+Hooghly,10,464
+Hooghly,11,200
+Hooghly,12,2502
+Hooghly,13,23426
+Hooghly,14,22231
+Hooghly,15,3043
+Hooghly,16,1317
+Howrah,1,509
+Howrah,2,1213
+Howrah,3,2517
+Howrah,4,6580
+Howrah,5,4543
+Howrah,6,5899
+Howrah,7,7064
+Howrah,8,4866
+Howrah,9,2002
+Howrah,10,461
+Howrah,11,454
+Howrah,12,3786
+Howrah,13,26426
+Howrah,14,24617
+Howrah,15,2907
+Howrah,16,1141
+Jalpaiguri,1,4
+Jalpaiguri,2,213
+Jalpaiguri,3,364
+Jalpaiguri,4,1479
+Jalpaiguri,5,2756
+Jalpaiguri,6,2392
+Jalpaiguri,7,3448
+Jalpaiguri,8,2982
+Jalpaiguri,9,899
+Jalpaiguri,10,138
+Jalpaiguri,11,75
+Jalpaiguri,12,499
+Jalpaiguri,13,7046
+Jalpaiguri,14,13710
+Jalpaiguri,15,2947
+Jalpaiguri,16,1429
+Jhargram,1,3
+Jhargram,2,8
+Jhargram,3,14
+Jhargram,4,89
+Jhargram,5,274
+Jhargram,6,845
+Jhargram,7,958
+Jhargram,8,637
+Jhargram,9,181
+Jhargram,10,33
+Jhargram,11,25
+Jhargram,12,53
+Jhargram,13,2332
+Jhargram,14,3974
+Jhargram,15,1256
+Jhargram,16,785
+Kalimpong,1,7
+Kalimpong,2,38
+Kalimpong,3,14
+Kalimpong,4,218
+Kalimpong,5,381
+Kalimpong,6,565
+Kalimpong,7,378
+Kalimpong,8,406
+Kalimpong,9,191
+Kalimpong,10,31
+Kalimpong,11,6
+Kalimpong,12,63
+Kalimpong,13,1149
+Kalimpong,14,1868
+Kalimpong,15,601
+Kalimpong,16,647
+Kolkata,1,1157
+Kolkata,2,2515
+Kolkata,3,6878
+Kolkata,4,20535
+Kolkata,5,16056
+Kolkata,6,19541
+Kolkata,7,26629
+Kolkata,8,23334
+Kolkata,9,9605
+Kolkata,10,2297
+Kolkata,11,1948
+Kolkata,12,14848
+Kolkata,13,101329
+Kolkata,14,57954
+Kolkata,15,4724
+Kolkata,16,2080
+Malda,1,19
+Malda,2,246
+Malda,3,998
+Malda,4,2380
+Malda,5,2002
+Malda,6,2444
+Malda,7,2685
+Malda,8,1286
+Malda,9,518
+Malda,10,95
+Malda,11,53
+Malda,12,1477
+Malda,13,13906
+Malda,14,4163
+Malda,15,295
+Malda,16,162
+Murshidabad,1,5
+Murshidabad,2,161
+Murshidabad,3,219
+Murshidabad,4,1430
+Murshidabad,5,2692
+Murshidabad,6,2637
+Murshidabad,7,2742
+Murshidabad,8,1550
+Murshidabad,9,703
+Murshidabad,10,146
+Murshidabad,11,49
+Murshidabad,12,1388
+Murshidabad,13,13542
+Murshidabad,14,5879
+Murshidabad,15,369
+Murshidabad,16,139
+Nadia,1,12
+Nadia,2,182
+Nadia,3,251
+Nadia,4,1657
+Nadia,5,3440
+Nadia,6,3665
+Nadia,7,5709
+Nadia,8,5326
+Nadia,9,1986
+Nadia,10,358
+Nadia,11,119
+Nadia,12,1211
+Nadia,13,20921
+Nadia,14,20964
+Nadia,15,2518
+Nadia,16,1465
+North 24 Parganas,1,317
+North 24 Parganas,2,1246
+North 24 Parganas,3,4722
+North 24 Parganas,4,17182
+North 24 Parganas,5,18686
+North 24 Parganas,6,19476
+North 24 Parganas,7,26435
+North 24 Parganas,8,22064
+North 24 Parganas,9,9729
+North 24 Parganas,10,2645
+North 24 Parganas,11,1485
+North 24 Parganas,12,12000
+North 24 Parganas,13,97736
+North 24 Parganas,14,77815
+North 24 Parganas,15,6101
+North 24 Parganas,16,2788
+Paschim Bardhaman,1,17
+Paschim Bardhaman,2,89
+Paschim Bardhaman,3,137
+Paschim Bardhaman,4,1737
+Paschim Bardhaman,5,3471
+Paschim Bardhaman,6,2998
+Paschim Bardhaman,7,3304
+Paschim Bardhaman,8,2557
+Paschim Bardhaman,9,1609
+Paschim Bardhaman,10,378
+Paschim Bardhaman,11,246
+Paschim Bardhaman,12,2499
+Paschim Bardhaman,13,22788
+Paschim Bardhaman,14,12937
+Paschim Bardhaman,15,1233
+Paschim Bardhaman,16,437
+Paschim Medinipur,1,19
+Paschim Medinipur,2,276
+Paschim Medinipur,3,270
+Paschim Medinipur,4,1317
+Paschim Medinipur,5,5346
+Paschim Medinipur,6,4209
+Paschim Medinipur,7,5280
+Paschim Medinipur,8,2324
+Paschim Medinipur,9,1039
+Paschim Medinipur,10,130
+Paschim Medinipur,11,67
+Paschim Medinipur,12,514
+Paschim Medinipur,13,10298
+Paschim Medinipur,14,15151
+Paschim Medinipur,15,3715
+Paschim Medinipur,16,1272
+Purba Bardhaman,1,10
+Purba Bardhaman,2,122
+Purba Bardhaman,3,143
+Purba Bardhaman,4,1555
+Purba Bardhaman,5,1929
+Purba Bardhaman,6,2337
+Purba Bardhaman,7,2934
+Purba Bardhaman,8,2483
+Purba Bardhaman,9,992
+Purba Bardhaman,10,145
+Purba Bardhaman,11,68
+Purba Bardhaman,12,895
+Purba Bardhaman,13,14193
+Purba Bardhaman,14,10236
+Purba Bardhaman,15,1468
+Purba Bardhaman,16,770
+Purba Medinipur,1,49
+Purba Medinipur,2,162
+Purba Medinipur,3,394
+Purba Medinipur,4,2711
+Purba Medinipur,5,5343
+Purba Medinipur,6,4004
+Purba Medinipur,7,4222
+Purba Medinipur,8,2288
+Purba Medinipur,9,1254
+Purba Medinipur,10,229
+Purba Medinipur,11,89
+Purba Medinipur,12,759
+Purba Medinipur,13,16113
+Purba Medinipur,14,17587
+Purba Medinipur,15,4350
+Purba Medinipur,16,1456
+Purulia,1,84
+Purulia,2,32
+Purulia,3,408
+Purulia,4,1677
+Purulia,5,2083
+Purulia,6,1412
+Purulia,7,822
+Purulia,8,575
+Purulia,9,125
+Purulia,10,91
+Purulia,11,858
+Purulia,12,8729
+Purulia,13,1999
+Purulia,14,184
+Purulia,15,135
+South 24 Parganas,1,79
+South 24 Parganas,2,351
+South 24 Parganas,3,2036
+South 24 Parganas,4,5667
+South 24 Parganas,5,5723
+South 24 Parganas,6,6544
+South 24 Parganas,7,7736
+South 24 Parganas,8,6268
+South 24 Parganas,9,2235
+South 24 Parganas,10,452
+South 24 Parganas,11,276
+South 24 Parganas,12,3208
+South 24 Parganas,13,26491
+South 24 Parganas,14,25178
+South 24 Parganas,15,3044
+South 24 Parganas,16,1491
+Uttar Dinajpur,1,4
+Uttar Dinajpur,2,215
+Uttar Dinajpur,3,247
+Uttar Dinajpur,4,1071
+Uttar Dinajpur,5,1315
+Uttar Dinajpur,6,1331
+Uttar Dinajpur,7,1132
+Uttar Dinajpur,8,845
+Uttar Dinajpur,9,374
+Uttar Dinajpur,10,118
+Uttar Dinajpur,11,95
+Uttar Dinajpur,12,598
+Uttar Dinajpur,13,6304
+Uttar Dinajpur,14,4896
+Uttar Dinajpur,15,724
+Uttar Dinajpur,16,267
