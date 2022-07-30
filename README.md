@@ -16,10 +16,10 @@ Prerequisites:
 
 Datasets/ Input Files
 
-neighbor-districts.json
-http://data.covid19india.org/csv/latest/cowin_vaccine_data_districtwise.csv
-http://censusindia.gov.in/pca/DDW_PCA0000_2011_Indiastatedist.xlsx
-https://data.covid19india.org/csv/latest/districts.csv
+1. neighbor-districts.json
+2. http://data.covid19india.org/csv/latest/cowin_vaccine_data_districtwise.csv
+3. http://censusindia.gov.in/pca/DDW_PCA0000_2011_Indiastatedist.xlsx
+4. https://data.covid19india.org/csv/latest/districts.csv
 
 
 Instructions to run:-
