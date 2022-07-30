@@ -21,24 +21,6 @@ Datasets/ Input Files
 3. http://censusindia.gov.in/pca/DDW_PCA0000_2011_Indiastatedist.xlsx
 4. https://data.covid19india.org/csv/latest/districts.csv
 
-
-Instructions to run:-
-
-Step 1: Extract 21111063-assign1.zip in your local machine
-
-Step 2: Open Terminal in Ubuntu by pressing 'Ctrl + Shift + T'
-
-Step 3: Navigate to the folder where your files are extracted
-        For example: cd path/21111062-assign1/
-
-Step 4: Type the following command to give permission to the sh file to be executed
-        chmod +x ./assign1.sh
-            
-Step 5: Type the following command to run the file. This command will run all the files one by one automatically.
-        After a few minutes you will see a number of output files generated in the same directory. 
-        ./assign1.sh
-
-
 Output Files:-
 
 For Question_1 : neighbor-districts-modified.json
